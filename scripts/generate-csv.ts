@@ -33,6 +33,33 @@ const csvWriter = createObjectCsvWriter({
   ],
 });
 
+const createEmptyRow = (): Record<string, string> => ({
+  type: '',
+  id: '',
+  email: '',
+  passwordHash: '',
+  isEmailVerified: '',
+  userId: '',
+  balance: '',
+  currency: '',
+  accountType: '',
+  isDefault: '',
+  status: '',
+  isoCode: '',
+  name: '',
+  maskedCardNumber: '',
+  cardHolderName: '',
+  expirationMonth: '',
+  expirationYear: '',
+  paymentToken: '',
+  iban: '',
+  bankName: '',
+  swiftCode: '',
+  userAccountId: '',
+  paymentMethodId: '',
+  amount: '',
+});
+
 const records: Record<string, string>[] = [];
 
 const countryIds: string[] = [];
@@ -78,61 +105,26 @@ for (let i = 0; i < 30; i++) {
   const id = faker.string.uuid();
   countryIds.push(id);
   records.push({
+    ...createEmptyRow(),
     type: 'COUNTRY',
     id,
     isoCode: isoCodes[i],
     name: faker.location.country(),
     currency: currencies[Math.floor(Math.random() * currencies.length)],
-    email: '',
-    passwordHash: '',
-    isEmailVerified: '',
-    userId: '',
-    balance: '',
-    accountType: '',
-    isDefault: '',
-    status: '',
-    maskedCardNumber: '',
-    cardHolderName: '',
-    expirationMonth: '',
-    expirationYear: '',
-    paymentToken: '',
-    iban: '',
-    bankName: '',
-    swiftCode: '',
-    userAccountId: '',
-    paymentMethodId: '',
-    amount: '',
   });
 }
 
+// Generate users
 for (let i = 0; i < 100; i++) {
   const id = faker.string.uuid();
   userIds.push(id);
   records.push({
+    ...createEmptyRow(),
     type: 'USER',
     id,
     email: faker.internet.email(),
     passwordHash: faker.string.alphanumeric(60),
     isEmailVerified: faker.datatype.boolean().toString(),
-    userId: '',
-    balance: '',
-    currency: '',
-    accountType: '',
-    isDefault: '',
-    status: '',
-    isoCode: '',
-    name: '',
-    maskedCardNumber: '',
-    cardHolderName: '',
-    expirationMonth: '',
-    expirationYear: '',
-    paymentToken: '',
-    iban: '',
-    bankName: '',
-    swiftCode: '',
-    userAccountId: '',
-    paymentMethodId: '',
-    amount: '',
   });
 }
 
@@ -140,30 +132,13 @@ for (let i = 0; i < 100; i++) {
   const id = faker.string.uuid();
   accountIds.push(id);
   records.push({
+    ...createEmptyRow(),
     type: 'USER_ACCOUNT',
     id,
     userId: userIds[i],
     balance: faker.finance.amount({ min: 0, max: 10000 }),
     currency: currencies[Math.floor(Math.random() * currencies.length)],
     accountType: Math.random() > 0.5 ? 'PERSONAL' : 'BUSINESS',
-    email: '',
-    passwordHash: '',
-    isEmailVerified: '',
-    isDefault: '',
-    status: '',
-    isoCode: '',
-    name: '',
-    maskedCardNumber: '',
-    cardHolderName: '',
-    expirationMonth: '',
-    expirationYear: '',
-    paymentToken: '',
-    iban: '',
-    bankName: '',
-    swiftCode: '',
-    userAccountId: '',
-    paymentMethodId: '',
-    amount: '',
   });
 }
 
@@ -171,6 +146,7 @@ for (let i = 0; i < 200; i++) {
   const id = faker.string.uuid();
   methodIds.push(id);
   records.push({
+    ...createEmptyRow(),
     type: 'CREDIT_CARD',
     id,
     userId: userIds[Math.floor(Math.random() * userIds.length)],
@@ -181,20 +157,6 @@ for (let i = 0; i < 200; i++) {
     expirationMonth: faker.number.int({ min: 1, max: 12 }).toString(),
     expirationYear: faker.number.int({ min: 2025, max: 2030 }).toString(),
     paymentToken: faker.string.uuid(),
-    email: '',
-    passwordHash: '',
-    isEmailVerified: '',
-    balance: '',
-    currency: '',
-    accountType: '',
-    isoCode: '',
-    name: '',
-    iban: '',
-    bankName: '',
-    swiftCode: '',
-    userAccountId: '',
-    paymentMethodId: '',
-    amount: '',
   });
 }
 
@@ -202,6 +164,7 @@ for (let i = 0; i < 100; i++) {
   const id = faker.string.uuid();
   methodIds.push(id);
   records.push({
+    ...createEmptyRow(),
     type: 'BANK_ACCOUNT',
     id,
     userId: userIds[Math.floor(Math.random() * userIds.length)],
@@ -210,27 +173,12 @@ for (let i = 0; i < 100; i++) {
     iban: faker.finance.iban(),
     bankName: faker.company.name(),
     swiftCode: faker.finance.bic(),
-    email: '',
-    passwordHash: '',
-    isEmailVerified: '',
-    balance: '',
-    currency: '',
-    accountType: '',
-    isoCode: '',
-    name: '',
-    maskedCardNumber: '',
-    cardHolderName: '',
-    expirationMonth: '',
-    expirationYear: '',
-    paymentToken: '',
-    userAccountId: '',
-    paymentMethodId: '',
-    amount: '',
   });
 }
 
 for (let i = 0; i < 500; i++) {
   records.push({
+    ...createEmptyRow(),
     type: 'TRANSACTION',
     id: faker.string.uuid(),
     userAccountId: accountIds[Math.floor(Math.random() * accountIds.length)],
@@ -239,24 +187,6 @@ for (let i = 0; i < 500; i++) {
     status: ['PENDING', 'COMPLETED', 'FAILED', 'REFUNDED'][
       Math.floor(Math.random() * 4)
     ],
-    email: '',
-    passwordHash: '',
-    isEmailVerified: '',
-    userId: '',
-    balance: '',
-    currency: '',
-    accountType: '',
-    isDefault: '',
-    isoCode: '',
-    name: '',
-    maskedCardNumber: '',
-    cardHolderName: '',
-    expirationMonth: '',
-    expirationYear: '',
-    paymentToken: '',
-    iban: '',
-    bankName: '',
-    swiftCode: '',
   });
 }
 
