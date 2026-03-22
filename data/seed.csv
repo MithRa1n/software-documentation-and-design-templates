@@ -1,0 +1,1031 @@
+type,id,email,passwordHash,isEmailVerified,userId,balance,currency,accountType,isDefault,status,isoCode,name,maskedCardNumber,cardHolderName,expirationMonth,expirationYear,paymentToken,iban,bankName,swiftCode,userAccountId,paymentMethodId,amount
+COUNTRY,216086ca-2c3d-4ccc-8f84-56833faa8f80,,,,,,PLN,,,,US,Iraq,,,,,,,,,,,
+COUNTRY,c2788f73-6091-486a-a008-20dad7c5b4cf,,,,,,UAH,,,,UA,Grenada,,,,,,,,,,,
+COUNTRY,1dd4cc69-20bb-4378-a4d5-a7e49f495103,,,,,,GBP,,,,GB,Georgia,,,,,,,,,,,
+COUNTRY,12b2250f-e27c-4038-8cde-c822fad2cf0d,,,,,,PLN,,,,PL,Honduras,,,,,,,,,,,
+COUNTRY,fade8541-2bc0-4f3a-8dce-0f5148199330,,,,,,GBP,,,,DE,Antigua and Barbuda,,,,,,,,,,,
+COUNTRY,e9b21809-745d-48f3-9b95-ad8b39d339a6,,,,,,PLN,,,,FR,Falkland Islands (Malvinas),,,,,,,,,,,
+COUNTRY,7ce48ebc-bd3d-493f-abb4-bdfa521cfd64,,,,,,PLN,,,,IT,Ukraine,,,,,,,,,,,
+COUNTRY,ba85f4e0-d250-4be6-9f05-403799589993,,,,,,UAH,,,,ES,Saudi Arabia,,,,,,,,,,,
+COUNTRY,b498259e-45f6-43aa-a5e4-0325cf3a8f56,,,,,,EUR,,,,CA,Lithuania,,,,,,,,,,,
+COUNTRY,081278ce-8c2e-4fd6-86b4-3949713db168,,,,,,EUR,,,,AU,Sweden,,,,,,,,,,,
+COUNTRY,4c4ceef3-09c4-44f5-8708-c678876732e4,,,,,,GBP,,,,JP,Bahrain,,,,,,,,,,,
+COUNTRY,c1a588fa-8a8e-49bd-9809-1483e33544e9,,,,,,GBP,,,,CN,New Zealand,,,,,,,,,,,
+COUNTRY,7eea7fb6-b0b6-4c70-96bc-69b0870c18c2,,,,,,EUR,,,,BR,Bermuda,,,,,,,,,,,
+COUNTRY,6c95f950-44c0-4665-bb75-5a3a37a8383a,,,,,,PLN,,,,MX,Uzbekistan,,,,,,,,,,,
+COUNTRY,64ac93c7-cd96-4249-b9fd-674eb3a11bc8,,,,,,UAH,,,,IN,Guatemala,,,,,,,,,,,
+COUNTRY,264ffe27-158b-42d0-a2a6-b6c264ccc565,,,,,,EUR,,,,KR,Fiji,,,,,,,,,,,
+COUNTRY,027b2ce2-b973-44cf-81c8-3859fb3451cf,,,,,,EUR,,,,SE,Yemen,,,,,,,,,,,
+COUNTRY,556243bc-ab0a-46eb-83ac-c999ea2a09f4,,,,,,UAH,,,,NO,Lebanon,,,,,,,,,,,
+COUNTRY,685932e5-bf3c-412f-8a6f-4b2fd1ceb71a,,,,,,GBP,,,,CH,Yemen,,,,,,,,,,,
+COUNTRY,1b5a132e-73ac-45a9-a9f3-15f1ae5d0c3f,,,,,,EUR,,,,NL,United Arab Emirates,,,,,,,,,,,
+COUNTRY,41b6c2f2-2a91-4724-a0d3-14227b14aa68,,,,,,EUR,,,,BE,Saint Kitts and Nevis,,,,,,,,,,,
+COUNTRY,5acab9db-6892-44e3-b825-33613b993cbb,,,,,,EUR,,,,AT,South Africa,,,,,,,,,,,
+COUNTRY,4b1edd60-1266-4e6d-a125-09b86df63ceb,,,,,,GBP,,,,PT,Bulgaria,,,,,,,,,,,
+COUNTRY,043cbe37-a49c-4996-a754-fc894e17d8b4,,,,,,UAH,,,,CZ,Belarus,,,,,,,,,,,
+COUNTRY,90a3090a-eac2-4962-a853-0b585ff200bc,,,,,,USD,,,,HU,Netherlands,,,,,,,,,,,
+COUNTRY,d644505b-0c96-4691-bc23-ba4b3e8be21f,,,,,,GBP,,,,RO,Qatar,,,,,,,,,,,
+COUNTRY,d2c46895-f735-4bc4-9fce-3cee651eebec,,,,,,UAH,,,,BG,North Macedonia,,,,,,,,,,,
+COUNTRY,2b671689-f89d-4def-a63d-312eaa3515ee,,,,,,GBP,,,,HR,Kazakhstan,,,,,,,,,,,
+COUNTRY,084cad36-e7de-4ba8-99ef-2f70f3d435d4,,,,,,GBP,,,,SK,Slovenia,,,,,,,,,,,
+COUNTRY,e269f128-fd9b-40b4-8c9e-d1aaa7327676,,,,,,UAH,,,,SI,Eritrea,,,,,,,,,,,
+USER,e162080b-afdb-41b4-8f4f-66c0078d8d9e,Jessie24@hotmail.com,lInYbvOSloB7hWF2VND1r7JWi5ORoNysvgBuHBAcIfJM6mkFdLuuCFfc704M,true,,,,,,,,,,,,,,,,,,,
+USER,9241662b-a620-4f27-ba35-4c1569a66650,Jon_Hartmann64@gmail.com,jVMR0EBwsMaTMlHduYwZkGg3ML8rXZslMjMVZjxB4MTGCuyNzoWsDaaoflOs,true,,,,,,,,,,,,,,,,,,,
+USER,977bec70-03a8-4ae0-8021-81b06ba55999,Christopher_Daugherty86@yahoo.com,GC0AWbiBR1nAb3jYBDfLPz64Q6GgD5rExlvDgm2N6aDy9dYxJIjnSQqRbHCh,true,,,,,,,,,,,,,,,,,,,
+USER,da9991e3-27f3-4f10-9581-36f8e0b2de36,Jenifer_Kautzer@yahoo.com,mCIlKQI2s2bB6vf31yvfhWM3M15XOwstkxefKoUnMBaqE1X0OU9ygA8HDeGD,true,,,,,,,,,,,,,,,,,,,
+USER,00d99403-5d5d-409b-ac87-0acdf908b835,Aiyana_Keeling@gmail.com,93Kb2AI3J8W4dzHYiRK7MTKWf0CXjb4E9JzbYPWcoEDtzewmttB0Xkfrpfi4,true,,,,,,,,,,,,,,,,,,,
+USER,c045a1ae-2ca5-45e5-b079-58a72cb34f99,Mervin9@gmail.com,yGCMnGo9B277AaI1wJObRp1CxnFNnhWB3Mfiya2INo3LIljCpYHssNQoiaA8,false,,,,,,,,,,,,,,,,,,,
+USER,94117c37-1bb0-4109-abdc-502e9af34ca9,Bessie.Effertz@gmail.com,ksKwibduu1q6PoJaZJQr4jZ79gewb5ydTgI3Ti14ZATXgGMrABG3vGNCbxc3,true,,,,,,,,,,,,,,,,,,,
+USER,b79fec52-e4b1-41d6-a05c-965f559fd32e,Dianne.Pagac94@hotmail.com,lwLC597ffTktXe1AgphDWcPtbLHhKjYhZg5esoRhQgSDBIc7iZXhESAALzCh,true,,,,,,,,,,,,,,,,,,,
+USER,59df0ce8-2b45-4db3-a6cd-78839e5be208,Adrian71@gmail.com,Nz8TMxIEf9bj87gZEZ6tL6qAUEcO6TUskuwSR2JEWecI8e1s8OQCnriBglrA,true,,,,,,,,,,,,,,,,,,,
+USER,d9176286-8e21-4150-a660-51e470862f3e,Shany_Auer@gmail.com,Me4ybzychiZ8skA2M6gsTafUh4DL61mgFVxOjO29a91wQTMbT6NemMTwxVXp,false,,,,,,,,,,,,,,,,,,,
+USER,3f7190b7-0ca4-4e04-9cf0-9aa0f61e1191,Michelle.Kulas@hotmail.com,mq85HIKbbbOQwS9TLFiNJFgez7hk6onAQtzUDV93x7COqWgksM9ygHZANXSl,true,,,,,,,,,,,,,,,,,,,
+USER,81d6d99d-c9ad-4542-a90f-a276d7df721c,Josefina20@yahoo.com,m8CcNVMljxWTtwVLWsA4oFNHQKE6mm3cdrf0MwXdEhrAMcQHNOCRzfURXRWJ,true,,,,,,,,,,,,,,,,,,,
+USER,20e5a2f2-7482-4676-9660-4692f0c1e002,Leo12@yahoo.com,mZNFAkHZ3QTWqx34Jkc0DGoZId8j1yWTA05HWVpHcoL1vxoT5BYRaO3A5doq,true,,,,,,,,,,,,,,,,,,,
+USER,894e4f40-c67e-4285-95bf-72d0e7f5cff0,Rusty30@hotmail.com,wXV5CjTgmlY3UBDKCTGdAldczZxjLXYavFsL7XMy3YVHG8il3sfD5sQFzgWc,true,,,,,,,,,,,,,,,,,,,
+USER,ea354d34-66e9-44b8-9327-069900291e49,Tyree78@yahoo.com,oYKTu3IkcpWPRETtH1EcuwEZX7vXohsNIbN2YtRJFjSafdbOukEtgo9PlbgN,true,,,,,,,,,,,,,,,,,,,
+USER,70418e97-b2a2-44cd-89db-485f50c21214,Micheal.Abshire@hotmail.com,cTQV625rnx4zpALSKCr6Q15pcIc3b73rdWJziTAR5wlFvNDT4Vs5sZbiodjo,false,,,,,,,,,,,,,,,,,,,
+USER,2edb81da-9cf7-4c15-920c-75445c9e7d9e,Rosamond.Little@gmail.com,u3hhvsT6UPve4KfHYcxBsHDundeSSo67KC7fkC7lA2JxcDk3q6e0afvK1GQR,false,,,,,,,,,,,,,,,,,,,
+USER,bd485b6c-840a-455a-962f-f34e95accc71,Noel_Hintz@hotmail.com,KG90mVtzTRsxJpTmqRIp8gyoJZUgpgV4ri8glC0oYeaPbu2PvKjjkgbhWoQN,true,,,,,,,,,,,,,,,,,,,
+USER,fbee562a-babe-4cc7-892d-dd91ae6b6a77,Jeanne75@hotmail.com,hZcw3tbFUC5pXT1hudzCvdE2YOQ6A7nY5tVKOtKWaCGIC6sdwft8iGxxCcQ9,false,,,,,,,,,,,,,,,,,,,
+USER,c8aadc84-83bb-44f8-90aa-7fdb824e646c,June_Jakubowski68@hotmail.com,ByjJ7Fr9xWtJ4goJuKovccWQspi3IGU4D3BGp9fdDXPQuhpLlooAIDxOyWTS,true,,,,,,,,,,,,,,,,,,,
+USER,4e5e5ae5-9c98-46eb-8d64-e5fa5f3b93c6,Christy.Batz73@yahoo.com,2K58kDHrMRwtVgJIZ4oKNUFkXyjsyDrInZffok3lIiMNck5eJehLXMhftSjE,false,,,,,,,,,,,,,,,,,,,
+USER,e22ee750-cacf-4fe8-acf8-11a392b29912,Johanna80@hotmail.com,89J1uJ0P1Bv8G5OfDbkWk03PKCVIan4hkjyreRYOEfd1TEbNifsDZ02olODw,false,,,,,,,,,,,,,,,,,,,
+USER,1f5d399d-7509-40bf-ad3a-909a375036f3,Cydney86@hotmail.com,ilACN1rN1txdWz5xcEqWiPklE0uutcJf0rfCJyzBeLr75wjvq1tDE1c3jAe8,false,,,,,,,,,,,,,,,,,,,
+USER,279973ec-6b39-43ac-a15b-c8aba50e1628,Gustavo50@hotmail.com,8Byzwy7jgGbgUC6DTZliuEFnFDqgAJNtc9bhSqIXJcufS7aoF8cgkc1iNUuk,true,,,,,,,,,,,,,,,,,,,
+USER,16b78ac7-e738-429a-b4a5-0c5798f067ba,Neil64@hotmail.com,fswyy9MGIKuNpVJUMvpOMBhBIkIyZw2NSNz9B8iKskz1tZcfTFsO74wSbPBf,true,,,,,,,,,,,,,,,,,,,
+USER,48d3f296-4e90-4421-a63f-4fc196d3d88c,Betty_Marquardt32@hotmail.com,QZI8itRFSzkZ0cpb29WhD7QyN2of0AYLL8P0S1xpRbL0ycFteTOOPShVK0WZ,true,,,,,,,,,,,,,,,,,,,
+USER,2ce44bf1-d5c8-4b6b-9c5b-9199790c1ac2,Kelley20@yahoo.com,T6evMSvmpucOtUXYfSzqfDBMPFo2QUvyBhcZgDoM69rD8yHDNl9wpT6E0Wq1,false,,,,,,,,,,,,,,,,,,,
+USER,b80822ff-e1fe-4456-8c60-96c854cc5836,Tomas_Auer@hotmail.com,t6t99LOpVslYeZkdcWgHFQq1LGiGbeCLqDWyhRUxxeNv6belZ6KemkAUpHif,false,,,,,,,,,,,,,,,,,,,
+USER,dac7c25c-1989-474e-99a0-725d4a36ea40,Sheryl.Rice-Zboncak41@gmail.com,9pHwNkIc6N09eGtecKSAlr3EjRAc51hqBxYjcUrLMxzrtLkkV2sZ8lCcSGqA,false,,,,,,,,,,,,,,,,,,,
+USER,2b31880b-cc45-4e78-929c-6fbb53d062f3,Catherine.Gerhold@hotmail.com,6rwpHRY5efsSv21L1YrV8pRNuVFZm1QJVGDAoYiUm3v1gxBtADTrnX0wwM0i,false,,,,,,,,,,,,,,,,,,,
+USER,6926c80a-ad8e-4b61-9fed-a94158156b46,Leo_Schmitt@hotmail.com,HyheVxz6phgwEfekK9KVyJjRrsGCqTYdfXVraAhdLGSBkiPOsiJBtuJ2vmmE,true,,,,,,,,,,,,,,,,,,,
+USER,ad7f6057-2075-4b00-8371-69bcdcc383ea,Margaret57@gmail.com,lqKlIVsQSAT6uYOm9QiS9PEkTfV4RWLIMHwKpdSx6dj185eymJKUqSlinva1,true,,,,,,,,,,,,,,,,,,,
+USER,b5cfa3a3-dd2d-4d75-a0a5-bc8155666f0a,Wilbur17@hotmail.com,SWIW66lq5oDNQax7Fpwbt8OYSxLXZ4ya4lB4DPezETJCkPGs46eoc6AawqpF,true,,,,,,,,,,,,,,,,,,,
+USER,db31d736-d0ba-417f-9755-6d137382f5a5,Andrea29@hotmail.com,aBVrQLCGwGuZkQA1dxvk6OPtK0Pf2JtprFei1W60TXKkGP0ftGAnKmQZYJtG,false,,,,,,,,,,,,,,,,,,,
+USER,5def6e19-38a4-4fe2-bca9-44ac78b69b02,Eva_Schowalter-Macejkovic@yahoo.com,lq1lyYz2Fl8oPJW0Rf533KtKfcBRnHk5OUpJnyFNBSElDxQprgdcDoJw8Qgy,true,,,,,,,,,,,,,,,,,,,
+USER,a1e67214-d689-4177-847d-15863c25e1aa,Al.Senger@hotmail.com,Sid3IVaXfhgfC8kxIamSX6MXZDbyCiaG587Z1U10XaOsVlZiZM9nwQSq2t7c,true,,,,,,,,,,,,,,,,,,,
+USER,2c01a5ad-cb84-47dc-a159-513c54fecfae,Marta_Kirlin@gmail.com,BQ7Q86FgouopWZPYb9Qqe0qIG9ozFWwzFYxp79D32jg5JVGR63RVqzr487zd,false,,,,,,,,,,,,,,,,,,,
+USER,c4eb9284-21bc-42c5-afc8-a61d5ebb164a,Corine.Franecki@yahoo.com,MexhjvSfLDBfMIf8vHo3BF82ZYi0ZA7gJmIMsTk0KkIf1uhzgEnCRy3d4KWb,true,,,,,,,,,,,,,,,,,,,
+USER,6f35028c-2e87-4d9f-9db2-b637bc028e63,Miles_Koch@yahoo.com,5FoUqAQV1Yad8udEDgcSiPDk3qVb5GG2QUDEV6LeZBjwfLJcvOenMi02woQD,true,,,,,,,,,,,,,,,,,,,
+USER,34ada3b7-b32b-43bb-aa2f-843e0174fe4b,Roberta.Green13@hotmail.com,o1dUVBXcE1lQcAKtaqKMJSuMwyaJd86eQ3kCyfrzH3arnNGesC9UaRsTuoRA,true,,,,,,,,,,,,,,,,,,,
+USER,3f8c22fa-c4db-4b00-a2cc-a6268544b7f7,Alan_Stoltenberg@yahoo.com,1CG5jtRgQQIv878iPEu2jUH5laqclP8N51hbBTxrXyqqIihpYoljpq57PWgb,true,,,,,,,,,,,,,,,,,,,
+USER,03c9c5dc-882c-4fdb-9ef5-19c87a3b5f51,Bruce52@gmail.com,xSNji2lcLiswzmD5jBqItgDyPNJmirS7a7cUyTyGjoFMdkTS89NXbnGYCPpd,true,,,,,,,,,,,,,,,,,,,
+USER,d36bc63a-8216-4a00-8d63-788cd98712cd,Estrella.Mertz@gmail.com,P14tEMzZ1M1fWO91tTc9QJlxhTu0urhdRXhFsZpjN3bfoPvOCaSgv0is1wDy,false,,,,,,,,,,,,,,,,,,,
+USER,3a842261-5660-469c-a7ee-8a72b39b7db2,Gilda88@yahoo.com,mOaJ4nTphGcwsBrLt1eOSSoDI6PHR7BS80IIiuj7wfedZdqn2cSbaGuKEmJU,true,,,,,,,,,,,,,,,,,,,
+USER,abd08ed6-a3d4-47e8-b033-955c6e5980c0,Cedric.Carter61@yahoo.com,NaSjFCxQoq8CdieIkJPis5oVmUWqrP06VLERlV1wq4hXf9eFZXXkYuAvbsmA,true,,,,,,,,,,,,,,,,,,,
+USER,ed51e34b-5159-4cc0-b3b0-b7b2913776bd,Juanita.Cronin51@yahoo.com,uz1YG8eIYzErcFj1VFnjh8vVrxtCj1EPJDVfXSh6tdfJWTocggAPh1B7YRld,true,,,,,,,,,,,,,,,,,,,
+USER,9374d689-7fa1-4eab-9445-213fb7427250,Brenda.Haley@yahoo.com,tVS1uy8Ibm9XGJYFD3UdeZXX5nkiFFziA7PBAL0xzofWlqRlRwYsJwpGOgDx,true,,,,,,,,,,,,,,,,,,,
+USER,d96ba137-329b-47d6-85ed-d5aa2342e6c4,Bruce.Luettgen92@gmail.com,l6AOyAiehO2KOuqhLbNqcyzOtBpysx186J1j9YadRnVJuUSkXjtJRnZgf1e3,false,,,,,,,,,,,,,,,,,,,
+USER,8dc36615-2cb3-474d-bfa3-e809fe983412,Paul27@hotmail.com,3Bj7msrpcNghSbp7K6FIl7WIjMyO0VGiTvNMhaAre7iuqQ3ThxGHaENHi9K4,true,,,,,,,,,,,,,,,,,,,
+USER,4b12d2c9-7191-4e59-80cd-80656952c443,Leola_Brown61@yahoo.com,OYlrrghyJ4lM6XeEC0klCTjEIVokm54MxQ1Wg2dqGrpdrQry75JuPX661ThO,false,,,,,,,,,,,,,,,,,,,
+USER,5faba26e-60f0-4319-9e8d-e8548877c0d9,Dalton_Larson@yahoo.com,qn9Vyzq4rrmK1uxM5Aipn1S2hOnnCULd1rSHzCV6fA6hBvkn9zIzs5oWzQIg,false,,,,,,,,,,,,,,,,,,,
+USER,1ff3d576-0058-41dc-b400-53f14b8b6b38,Ricky.Upton-Frami@gmail.com,s1AuMRikN6xHS0ZgY2Oqh5vxiZNXXkDZ55exjxOUv8xGGIww9XwnaRVwSaSJ,false,,,,,,,,,,,,,,,,,,,
+USER,95c3e2a6-736d-42ea-8106-f390e6cfd4c5,Garry_Witting57@hotmail.com,U92cSTMUfsmz0E67dGyAu8JOth9yjan3umyC7ZNFMW3Q2HtJIFxNWCsFqZo1,true,,,,,,,,,,,,,,,,,,,
+USER,3567849f-f096-4e63-9361-373c3eade674,Dominic.Veum30@gmail.com,oNPtG5CcNTEDH8G3nC9V5DmfpguTiYvlqQ5U0l7nLtzStyHkxiInBAJIPgm5,true,,,,,,,,,,,,,,,,,,,
+USER,d683d6b8-b03e-4aee-83c3-d606ce6a1895,Macey_Satterfield98@hotmail.com,cx0MVGQzZHC1jgtUsOyyvXE907UQ38BEfTIaKmLO3kugbvdNVbUMrPg0mRJv,true,,,,,,,,,,,,,,,,,,,
+USER,aada9783-d686-45e1-a26d-460119fb63b6,Clint.Williamson@gmail.com,rCTn66BH8WQXmNPcfQF984tcuHEUcXOsv8sujxJFZkbjOloC8VyIN6kYQXhv,true,,,,,,,,,,,,,,,,,,,
+USER,40ce3137-84cb-4a17-a171-4d7b30557f32,Amina.Bartell3@yahoo.com,1EPfnANyYGkHVlUWlfSdsb6wX1WveCzAxEL8SBKr7j72CVmLWLh5ylOCeWYJ,false,,,,,,,,,,,,,,,,,,,
+USER,36709e1b-a318-4112-8bad-e023c6a22e80,Stanton_Davis@yahoo.com,nD9jPddCgdzeoefCILSKWYhXjONKhDqWaYvAVcWXPAkbPyJUfwcjHsTERGfi,true,,,,,,,,,,,,,,,,,,,
+USER,60a41ee7-fcc5-4de2-b6c3-b1a4b601ec15,Raymond_Stamm@yahoo.com,ADJXOdYeNIoO49lcCFSqJ0g2okyklYOkygsmQ3MDrI840GooSLptnIDZ2N5a,false,,,,,,,,,,,,,,,,,,,
+USER,b000dfc4-a666-4f2f-a2b3-04404a6e968d,Jimmy_Beatty@hotmail.com,Q3DcMnLhvK7jkMgBsXFjYuF22XgU3xRkTQCKXn5YUAQr2UwdfwTdgA3OYbwK,true,,,,,,,,,,,,,,,,,,,
+USER,c5386e89-5032-4933-8499-029c0e6d5930,Juanita67@yahoo.com,h0MaLt934zER0iNvXDpG3mFe3Wdkx416tIiosQCrdRskpiMs8NmvUIEJWvdI,false,,,,,,,,,,,,,,,,,,,
+USER,502eb4ff-4399-42cd-9bf9-34e472c4329c,Clyde70@yahoo.com,LImsGBWAbcD4OImoNRGBiy5Jk4NluZoFG1PmmWFevmGG9PkgXF0RqV96Edhi,true,,,,,,,,,,,,,,,,,,,
+USER,496d1ece-6fb4-44e4-9ab1-9a72fc89d367,Giles4@yahoo.com,t8WZokAxpvekJWlmWq48yxno1QDvvoAkMvqploB8jCKTJ9937SfrvX7zK7mD,false,,,,,,,,,,,,,,,,,,,
+USER,12c1bd0b-6d8e-436e-ad93-e3f078946dd8,Eva_Mann@hotmail.com,vTZSJBcgVffW1p02ecEoGPF3vwxtquJCtelhfaQ8F8osWR2TZab0RSmDZLdQ,false,,,,,,,,,,,,,,,,,,,
+USER,8302deec-1ef9-45b0-93fd-1e379a3767b2,Cora86@gmail.com,VO4mkKBjXEsI4Nibtcd5srq9CXu9cCvfWHcd3eq1dc853thiimxPGKnMpKTi,false,,,,,,,,,,,,,,,,,,,
+USER,80113621-0acd-451c-9471-2a2441cf3dfa,Kari81@yahoo.com,puWLzfJMj1TKBOm7KCMHLBiZQuqEPH3Cq3AfGcK2hX0UpFPkVTt7QhBi4wsU,true,,,,,,,,,,,,,,,,,,,
+USER,79910e9d-c39f-4c62-a250-7963806cc0df,Roger.Ebert@gmail.com,pQ2wKCwAyPBsfONjwx9HxyhkPH61dMhLEXmx5cNZPtKh3gSgCxr149SogUkH,false,,,,,,,,,,,,,,,,,,,
+USER,bbb156a3-2b9c-46ce-b4d6-91de61d9e5ea,Adell_Gerlach72@gmail.com,lsUO9c3VNXieP1NpnAmDQbXPwzFClpGfZCAMa4CVahINQLvJSVfiWAMBqFVF,true,,,,,,,,,,,,,,,,,,,
+USER,d4adc923-0257-49b4-9aeb-fac84fa36478,Alice29@gmail.com,YL9DoWgn40W5V4ujehL49aVOjfJx022EJWJ9rhiX6ghMdrfosNGPt7oExvoo,false,,,,,,,,,,,,,,,,,,,
+USER,d9721dc9-796f-4a34-966c-0a8b2497796f,Gayle_Hegmann8@hotmail.com,srxqd2SpKt2sDYz9oaC1KeKT72lf0wQoBg9n3qgYXZFO7ngmi1tyq6c8J020,false,,,,,,,,,,,,,,,,,,,
+USER,7dbe89aa-a7db-40d3-9df3-69a69583675b,Glen.Roberts25@hotmail.com,4sH0rPEUxkpvUXgUjTi4VFHdhewaQhjNl7Uvck7EIxIT6x0fEvRfg4qvVAMI,false,,,,,,,,,,,,,,,,,,,
+USER,41b8e739-0d84-4447-9dca-75291eab8cef,Jessyca.Osinski52@hotmail.com,i9lzhX8Jxtz5IlOijkxsyTFOw4X8uqxhEXyFsIpoTZmAQAoo2YMcXzv7AFO6,false,,,,,,,,,,,,,,,,,,,
+USER,6894f1f2-f27d-4c0c-a219-7b972aa4acb3,Caroline.Hilll@gmail.com,lwQEXaLUV7y43IMUNND6T5QUM4Hgo4EBC0uzmdwGCGJ0aMpk2JSsrLsOoSYB,false,,,,,,,,,,,,,,,,,,,
+USER,b953fc2c-0c1a-4e1a-80e0-ff5ed8231963,Essie_Tromp@gmail.com,E0ytMgWmzluHbS6kkmwy25dgQh1vrdCZgOdbtLDZKTRhC414wx2nIegEmFrC,true,,,,,,,,,,,,,,,,,,,
+USER,c8336c63-4c04-414c-b228-085c389e8d6b,Eda20@yahoo.com,qt2Bo14BQDX87VIt6zaolXwi5NYiqWbO1IMpZDF03NedY4D6m8d9R9EjFu98,true,,,,,,,,,,,,,,,,,,,
+USER,00ad2a7a-e8b9-4f69-965f-afffe153b3ea,Leta47@hotmail.com,t0CV1YKGzYpNEY5JwgNPUiqHFuWYsabfF8aIhuNcSnL2A0E5xspmMhI2deBC,false,,,,,,,,,,,,,,,,,,,
+USER,3ffd029b-87bb-4bfc-8836-95b1dc8aadad,Ernest_Kuhic@yahoo.com,7k6eADWoxanoy1KTCzA3OeVoP4X0ww50gbeSrYBYL3dTHwjRuMmQuWeyWCCD,true,,,,,,,,,,,,,,,,,,,
+USER,06b9c220-01b8-4440-875b-d48486fb039b,Joe39@yahoo.com,PNMcvzXq6SSxaYTHNkn0v5DsfJz7rFnstAVAHtXFFkQVwvGUtKmJhykrxy56,true,,,,,,,,,,,,,,,,,,,
+USER,02111ccb-5219-43aa-8930-2b134daadd63,Woodrow22@hotmail.com,JRXhjjChHph1tGfzbyV4pAZWlAxy2ehoaoVp9ZtKF7pcFrsF5ILIZJNjT5Xd,false,,,,,,,,,,,,,,,,,,,
+USER,5e741891-20b4-451e-ad71-51585a5dc09a,Santa_Daniel@gmail.com,igARDb7NkRG6qZtvRgAqK15SI9fVijN2T47wDJYQIrhdC5zJCmU9FZw9g3pe,true,,,,,,,,,,,,,,,,,,,
+USER,052bb836-c75d-49ad-bed4-b83730e084f2,Patience_Kemmer38@gmail.com,Qy3ZJcOcgtnmMZXBdn67HIticy7CZdYgXvigqWLHljQDYyB05Mh1TJEKaGQq,true,,,,,,,,,,,,,,,,,,,
+USER,c45553cf-e04b-4233-a3a5-26350675fcae,Elian.Bergnaum@yahoo.com,6KA6y8b8W6rHITK3wCkxX10UGmK520eQZAXdG5xGHdNHpZMEABz1h7AplHnw,false,,,,,,,,,,,,,,,,,,,
+USER,1de759aa-eca6-47e0-ad28-17eeea5a6896,Maybell.Gleason-Rau@yahoo.com,d4wOu28YD11fOkiD6dwJerIaHoGjMZ767kbtwYAJ02aGtlhTBknU1MR56XKu,true,,,,,,,,,,,,,,,,,,,
+USER,da579b83-606f-4d61-b2d6-aef5eeacd84d,Jan15@gmail.com,zAaAlhOxAmLhdqhlhepwuUFPJS0lzLhih1cplbYKfEzla1pg3l1D804TneAl,true,,,,,,,,,,,,,,,,,,,
+USER,54360f3e-8f62-49d6-bb52-e11e89eabbe2,Leah.Cormier16@gmail.com,Rw3ozj5RbLazSpM8ivc8BLeGgds5yeeSIbIWisFK06tm4swczQz1z2XYUzDD,false,,,,,,,,,,,,,,,,,,,
+USER,534bc47c-0268-4402-9566-2a33f6f02392,Samara.OKeefe@gmail.com,aWoG6wK8UstGX534G2eOwRAv8fDFOdCYd2uLqGkUEtFKTHTSRToxCW9R3ITR,false,,,,,,,,,,,,,,,,,,,
+USER,493d9bc5-c874-4e19-b039-89da493bbcc6,Colby82@yahoo.com,XqoHDiL9QfrXB3wICpz3oOWapwKpoj1X52MJMmB0MsnCnTn8DgZFUb3mvCFH,false,,,,,,,,,,,,,,,,,,,
+USER,f22f98b8-df76-4eb1-802f-a1a226d36f2a,Lola27@hotmail.com,sRM5MoPWyFvShJdRSqrtdCyJuMIIuOlDwtb0jmloQItaoKwJoUSrWlhl5p1l,true,,,,,,,,,,,,,,,,,,,
+USER,bae67b26-fe5e-4c09-904e-9d97d1c37f84,Jennifer_Brekke26@hotmail.com,4E4wvGhJjiskVmHOQxEK9xwkrTAL14vEU1uIWI5UIFv7cBmA3E4Uah6wYwvs,true,,,,,,,,,,,,,,,,,,,
+USER,bcbf2565-bcf5-4a9c-a6ec-356a8dccbac3,Gabriel_Powlowski@hotmail.com,mksSJfXZv3REsK4bQHB6y1QFlB97gKK86jHdyfiPC7Et3kKwYJviUPr8HdLj,false,,,,,,,,,,,,,,,,,,,
+USER,09fc4bd0-3ddc-41a6-81ad-4cc2c91104f1,Louise.Labadie@gmail.com,ZxZvFHoVj5yJGdxGJYHdmUWJQODHxpaUS5bCJ3Bfup3paTmaYSihPNGyZIjD,true,,,,,,,,,,,,,,,,,,,
+USER,6527b50a-b5e5-4703-a275-4c1488f393e6,Filomena66@yahoo.com,fKsUbvo7vU08kQTtDDgal44Gg8pMuRauonwupVJ2sphdNgpZqPcLEqwga2Mt,true,,,,,,,,,,,,,,,,,,,
+USER,2e7024d5-f4e3-431a-a114-8941f776a507,Glenda_OConnell@yahoo.com,kosnP9uDBvMXtAlOHUqUVNnUtDGlJkYJrqWciHpAHN2bFztF2mAsNok2Ahxk,true,,,,,,,,,,,,,,,,,,,
+USER,7548a144-6e10-4f2e-b395-2bd56a404be3,Ivah.Gutmann93@hotmail.com,e5Vmqcgo5ZZonr2qFawbsKwMicqo84wMxGEV0De6CFobtyUWJoDaaJyAdA3l,false,,,,,,,,,,,,,,,,,,,
+USER,577801fc-a2ec-4215-ac2f-9ff2e251150e,Katie72@hotmail.com,t0Nol84janNwT5WEjD3xnfNt9dCkBWvcjo3cPyzR1wocFREo46EsRSkUJ5fO,true,,,,,,,,,,,,,,,,,,,
+USER,302d443b-d2cb-4f12-9348-403de9c33bb0,Marc.Terry79@yahoo.com,VBm6Eh3w0CHusJzqVSrrKuRoFQClQvxZClTSr20ePAmBTdzgX7G7Nsg616Ax,false,,,,,,,,,,,,,,,,,,,
+USER,3db3f2dc-cdaa-4811-b692-c085d8e8ae70,Della.Bins@gmail.com,eLCs4tiGOzXhH6uHGqVxLOCFyXjGTlwcQ4olzE8gD54Zojjka0AVXqDQ3qUX,false,,,,,,,,,,,,,,,,,,,
+USER,3090edb9-f23f-4271-ab13-a07fc5e80c48,Izabella82@hotmail.com,8oqV2vd58VzXZA0ZCeBdfr1BZohauflPMSifOWV51gqirtUuhb96fPm4sv88,false,,,,,,,,,,,,,,,,,,,
+USER,9d4a9ba4-6d91-4d44-9a60-23f0f906ae93,Jeff_Hackett@yahoo.com,FlOBEFQmEXrGP9zEWrPCPAO9IC3w7696VK4kzcvMYQuItTAxLRqOkKj5mGYw,true,,,,,,,,,,,,,,,,,,,
+USER,da8d9b3c-eaa0-420d-a494-3293bb99693b,Floyd_Sporer@yahoo.com,WGSOAFR3vUvtRdGZkhAPjz4Hf3yEMcXLQBMORA5HOXatG92E6YEEdDDBbsWR,true,,,,,,,,,,,,,,,,,,,
+USER_ACCOUNT,471d7f8b-e697-4a34-af25-9bad64139db2,,,,e162080b-afdb-41b4-8f4f-66c0078d8d9e,7938.07,GBP,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,eeb11d39-5b04-453f-b663-601b1cd84d0f,,,,9241662b-a620-4f27-ba35-4c1569a66650,1715.09,USD,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,cd1bef1e-77ee-4f04-90d7-21ef795334a8,,,,977bec70-03a8-4ae0-8021-81b06ba55999,4116.78,UAH,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,a966e732-ac69-4177-8864-c762f63e7207,,,,da9991e3-27f3-4f10-9581-36f8e0b2de36,3477.01,PLN,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,313b5f4f-0592-4175-a193-64eb1f2b46ba,,,,00d99403-5d5d-409b-ac87-0acdf908b835,9576.76,PLN,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,5b919b10-d4bd-4291-8a26-9bd9449b39ca,,,,c045a1ae-2ca5-45e5-b079-58a72cb34f99,8180.52,USD,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,4991b71d-f917-4770-8779-7131a94b8507,,,,94117c37-1bb0-4109-abdc-502e9af34ca9,4113.34,GBP,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,1f27ff88-d648-4927-97c8-38406769f919,,,,b79fec52-e4b1-41d6-a05c-965f559fd32e,8063.14,GBP,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,6b2a4fb9-9693-4aa6-9313-6c4d88fb3d79,,,,59df0ce8-2b45-4db3-a6cd-78839e5be208,9697.89,GBP,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,d174ac07-8932-46ab-aadb-89b92b0d539f,,,,d9176286-8e21-4150-a660-51e470862f3e,97.02,PLN,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,b82e28cf-21d8-497b-b07d-dd25a552a771,,,,3f7190b7-0ca4-4e04-9cf0-9aa0f61e1191,3764.20,UAH,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,b2f7a244-7641-4869-be88-526b51f3f9aa,,,,81d6d99d-c9ad-4542-a90f-a276d7df721c,7535.07,USD,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,4bfebd46-6862-4ea3-b34c-0b70626652f9,,,,20e5a2f2-7482-4676-9660-4692f0c1e002,2709.31,USD,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,dc358660-c663-42b9-95e3-ae20a75485c8,,,,894e4f40-c67e-4285-95bf-72d0e7f5cff0,6383.04,USD,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,fca210ef-84a4-4a78-9472-79cc55a61be0,,,,ea354d34-66e9-44b8-9327-069900291e49,5520.93,PLN,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,a859ec57-ff8d-446f-8a55-edb8ba602d9d,,,,70418e97-b2a2-44cd-89db-485f50c21214,1759.61,GBP,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,f9ed784a-3515-4048-aa69-db148cdcc0ac,,,,2edb81da-9cf7-4c15-920c-75445c9e7d9e,3646.23,EUR,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,7fe23dc9-6ace-4487-941e-6c80649f673b,,,,bd485b6c-840a-455a-962f-f34e95accc71,8770.12,GBP,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,8b155548-a5be-470f-817d-ec64a591f9e7,,,,fbee562a-babe-4cc7-892d-dd91ae6b6a77,5479.01,PLN,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,bbacd7be-3448-41ff-a445-7bd22b0e170a,,,,c8aadc84-83bb-44f8-90aa-7fdb824e646c,6515.65,UAH,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,4f3141d1-d2a2-4d0e-9b9f-53a4ef8b88e2,,,,4e5e5ae5-9c98-46eb-8d64-e5fa5f3b93c6,1993.97,USD,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,7fb15829-4ade-4c5c-98c4-19f5cc109fae,,,,e22ee750-cacf-4fe8-acf8-11a392b29912,6806.14,EUR,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,6003aa82-bb5e-48b6-94bf-1950f16ccd37,,,,1f5d399d-7509-40bf-ad3a-909a375036f3,9379.49,UAH,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,ab169c0d-990a-4366-8d75-88653114e487,,,,279973ec-6b39-43ac-a15b-c8aba50e1628,505.73,USD,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,7690b0b6-2b75-40e1-bbea-4c4209d7f2a4,,,,16b78ac7-e738-429a-b4a5-0c5798f067ba,9687.96,EUR,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,9a61d06d-ee23-4b4b-9dcc-3e55757e961a,,,,48d3f296-4e90-4421-a63f-4fc196d3d88c,2076.41,USD,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,6a48f80f-7098-4405-a451-f87b9613bf6c,,,,2ce44bf1-d5c8-4b6b-9c5b-9199790c1ac2,293.91,PLN,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,89a5949a-5c73-4d1f-914d-fc3869dfed27,,,,b80822ff-e1fe-4456-8c60-96c854cc5836,740.67,USD,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,c5439b55-3c10-4903-b214-e5eaf9b33bdd,,,,dac7c25c-1989-474e-99a0-725d4a36ea40,534.99,GBP,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,d20e3062-f14b-4ea4-9140-6aad8998f724,,,,2b31880b-cc45-4e78-929c-6fbb53d062f3,7859.81,EUR,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,ac956c8e-ac53-4c16-9f8c-23ffc0d56e18,,,,6926c80a-ad8e-4b61-9fed-a94158156b46,4772.51,EUR,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,21a4bf02-c890-48c8-bbf2-d229c60aebec,,,,ad7f6057-2075-4b00-8371-69bcdcc383ea,903.83,EUR,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,2b04f8f3-6d61-4800-bdda-5220535238ad,,,,b5cfa3a3-dd2d-4d75-a0a5-bc8155666f0a,370.18,GBP,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,ccdc8d4d-bd03-435f-b397-c42af4217bd2,,,,db31d736-d0ba-417f-9755-6d137382f5a5,9653.03,UAH,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,00c94e28-d1aa-4829-b1f0-f4693d33f84f,,,,5def6e19-38a4-4fe2-bca9-44ac78b69b02,2724.88,UAH,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,88b6eaa9-3b77-4994-a862-27f6ab3cf0fe,,,,a1e67214-d689-4177-847d-15863c25e1aa,5940.22,USD,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,65bbce15-8531-4944-8fe0-a416e6ed3579,,,,2c01a5ad-cb84-47dc-a159-513c54fecfae,2748.07,UAH,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,0dedae08-8e1b-4cc3-9edf-57170f449e2a,,,,c4eb9284-21bc-42c5-afc8-a61d5ebb164a,1925.58,USD,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,bbe3d613-10c8-4f51-99c4-52caf754605f,,,,6f35028c-2e87-4d9f-9db2-b637bc028e63,5288.90,EUR,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,e848ce5f-1810-4290-88af-3017636fdeef,,,,34ada3b7-b32b-43bb-aa2f-843e0174fe4b,6336.55,UAH,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,39aaf488-28c2-47f6-92b6-518a970b5286,,,,3f8c22fa-c4db-4b00-a2cc-a6268544b7f7,484.94,PLN,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,410c0c95-d7e6-41db-ab61-e81e6f7f287c,,,,03c9c5dc-882c-4fdb-9ef5-19c87a3b5f51,3116.78,GBP,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,16eb476c-5e38-4a95-9ffe-7e210e757d0f,,,,d36bc63a-8216-4a00-8d63-788cd98712cd,2959.41,GBP,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,506dd029-5681-4b30-9b98-dea33e920492,,,,3a842261-5660-469c-a7ee-8a72b39b7db2,305.79,USD,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,5009b47e-5a7a-4fd5-92c2-e3192eb852bf,,,,abd08ed6-a3d4-47e8-b033-955c6e5980c0,1769.78,GBP,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,c2ed482f-701f-4d78-90e9-65bfffc1d165,,,,ed51e34b-5159-4cc0-b3b0-b7b2913776bd,4024.02,EUR,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,8b795472-237e-447f-bafd-05bea63bdbf8,,,,9374d689-7fa1-4eab-9445-213fb7427250,5384.91,PLN,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,3f209aef-0352-42f2-a707-301c1cef25d0,,,,d96ba137-329b-47d6-85ed-d5aa2342e6c4,7462.27,EUR,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,7d452562-dc5c-445e-8ebe-4c93a6ac4d1a,,,,8dc36615-2cb3-474d-bfa3-e809fe983412,4949.85,EUR,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,5604573c-bd91-4f8b-aa69-f9c2fbb72b0b,,,,4b12d2c9-7191-4e59-80cd-80656952c443,7670.47,EUR,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,df6f1389-729c-4921-adef-45691f6d9d52,,,,5faba26e-60f0-4319-9e8d-e8548877c0d9,8459.62,GBP,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,9465eb87-f6a7-466d-a81a-b191e62d1eda,,,,1ff3d576-0058-41dc-b400-53f14b8b6b38,6019.96,PLN,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,89846586-a1c1-42c8-8ca9-f50bbdca7c48,,,,95c3e2a6-736d-42ea-8106-f390e6cfd4c5,3922.02,UAH,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,cd337a17-23c7-45fa-8665-23aa6cd48045,,,,3567849f-f096-4e63-9361-373c3eade674,831.47,EUR,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,d8067070-6b3a-41bf-b279-a3a8f7878549,,,,d683d6b8-b03e-4aee-83c3-d606ce6a1895,5504.09,EUR,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,77138350-72a0-431c-84fc-55a6de1b30c1,,,,aada9783-d686-45e1-a26d-460119fb63b6,556.82,USD,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,345d3013-81ad-42ab-8165-b968273e67d7,,,,40ce3137-84cb-4a17-a171-4d7b30557f32,7598.16,EUR,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,a5daf4b0-cfbe-4d52-9cbe-79b6051e4526,,,,36709e1b-a318-4112-8bad-e023c6a22e80,1866.66,PLN,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,329a9ea1-65cf-47a3-af88-8c40fccc2079,,,,60a41ee7-fcc5-4de2-b6c3-b1a4b601ec15,9488.64,UAH,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,2bf4bc84-f97c-4b0f-95bc-ab0141559a1f,,,,b000dfc4-a666-4f2f-a2b3-04404a6e968d,2085.96,EUR,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,9cc61e2b-264d-4e4b-9fd6-685e39a4d7a9,,,,c5386e89-5032-4933-8499-029c0e6d5930,1839.51,GBP,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,2fd4bb38-6f3f-4cff-9337-d5865607060e,,,,502eb4ff-4399-42cd-9bf9-34e472c4329c,8219.03,EUR,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,4c902ba8-1c09-45b6-8224-752f231f0be3,,,,496d1ece-6fb4-44e4-9ab1-9a72fc89d367,294.56,GBP,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,a11b6fee-deca-491f-b1cb-f5654313fab1,,,,12c1bd0b-6d8e-436e-ad93-e3f078946dd8,2480.01,GBP,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,a6cf114c-c74c-4aad-a540-806ec83d6a81,,,,8302deec-1ef9-45b0-93fd-1e379a3767b2,2270.68,PLN,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,17afbb9f-1ab3-4794-8cbb-03c2dfb3fe7d,,,,80113621-0acd-451c-9471-2a2441cf3dfa,6436.59,GBP,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,85be7859-066b-4b87-9994-1960faa2680a,,,,79910e9d-c39f-4c62-a250-7963806cc0df,1863.51,UAH,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,60efdf08-6d7e-448c-a6c6-e8b2d3a2e0b8,,,,bbb156a3-2b9c-46ce-b4d6-91de61d9e5ea,2999.71,USD,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,1097b822-6b91-4db0-8a48-a4c695fed3b0,,,,d4adc923-0257-49b4-9aeb-fac84fa36478,5441.71,GBP,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,9172e00c-bab4-41ab-8667-0424759aa363,,,,d9721dc9-796f-4a34-966c-0a8b2497796f,8858.84,UAH,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,6752f54b-9df7-4b80-a50d-00e12eea5b74,,,,7dbe89aa-a7db-40d3-9df3-69a69583675b,6861.98,USD,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,c1c152e0-a2b2-4dc3-8cc0-818001e8920c,,,,41b8e739-0d84-4447-9dca-75291eab8cef,7400.97,PLN,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,eb7a0e51-8ad1-4576-a2f5-3cf1c28ed540,,,,6894f1f2-f27d-4c0c-a219-7b972aa4acb3,1888.98,USD,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,0b5d0928-ebab-4d6f-a766-2cf8b5ec970e,,,,b953fc2c-0c1a-4e1a-80e0-ff5ed8231963,5602.96,EUR,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,f19aeb96-a875-4c8c-a2bc-f206455e8427,,,,c8336c63-4c04-414c-b228-085c389e8d6b,951.45,PLN,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,4e17b547-3cc7-4e3f-8f53-4c0618591449,,,,00ad2a7a-e8b9-4f69-965f-afffe153b3ea,8215.85,EUR,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,a233dd99-e25c-487d-8641-ad55f40c6e7a,,,,3ffd029b-87bb-4bfc-8836-95b1dc8aadad,582.99,GBP,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,41a12e98-5343-4d43-9d15-94647c3dba57,,,,06b9c220-01b8-4440-875b-d48486fb039b,5657.32,PLN,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,fa939d08-e51e-4579-9b36-65bf5df6eca3,,,,02111ccb-5219-43aa-8930-2b134daadd63,8765.63,EUR,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,aae5378d-a4be-43cc-a991-4c37df619980,,,,5e741891-20b4-451e-ad71-51585a5dc09a,1679.21,GBP,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,bee6214b-d5cb-4b2b-8ad7-a93e9ee3a993,,,,052bb836-c75d-49ad-bed4-b83730e084f2,1270.33,USD,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,3ebd9613-6175-4705-9597-04e671206af3,,,,c45553cf-e04b-4233-a3a5-26350675fcae,6752.64,UAH,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,e282ce93-1fa5-4200-83b3-9434177990d9,,,,1de759aa-eca6-47e0-ad28-17eeea5a6896,7102.32,GBP,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,d085c639-b5a5-4800-9563-10bd550eb9dc,,,,da579b83-606f-4d61-b2d6-aef5eeacd84d,8201.32,PLN,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,351566f3-b4a9-463d-b3e8-c28d885ebe0e,,,,54360f3e-8f62-49d6-bb52-e11e89eabbe2,9208.24,USD,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,75dd2c25-101b-4cb6-af72-3c243cc184af,,,,534bc47c-0268-4402-9566-2a33f6f02392,8591.03,PLN,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,bcbd136a-5ba2-409f-b939-4d417d36498f,,,,493d9bc5-c874-4e19-b039-89da493bbcc6,5527.31,USD,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,3df1f4b3-756d-46e3-aec4-4fae4933fdd8,,,,f22f98b8-df76-4eb1-802f-a1a226d36f2a,6121.92,UAH,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,759d6f57-6c9c-48f2-b58e-f381fb10836f,,,,bae67b26-fe5e-4c09-904e-9d97d1c37f84,7725.85,USD,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,3f24ecb4-52a5-465f-9c64-5e82c5fd1089,,,,bcbf2565-bcf5-4a9c-a6ec-356a8dccbac3,3840.02,EUR,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,4e46b631-fa84-4112-b53d-a91eb78983c6,,,,09fc4bd0-3ddc-41a6-81ad-4cc2c91104f1,8447.63,USD,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,9f15aba5-0985-45ff-a107-b0682e87f763,,,,6527b50a-b5e5-4703-a275-4c1488f393e6,1268.90,PLN,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,ac55c9c7-49fe-42cc-b311-9c52783bf593,,,,2e7024d5-f4e3-431a-a114-8941f776a507,5154.95,UAH,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,622a3e93-efab-4d0e-ac1b-8e847cc2d3fe,,,,7548a144-6e10-4f2e-b395-2bd56a404be3,8758.60,UAH,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,f745bdc1-b9e6-4a7d-8a0f-96dfc28e5c60,,,,577801fc-a2ec-4215-ac2f-9ff2e251150e,6356.48,EUR,BUSINESS,,,,,,,,,,,,,,,
+USER_ACCOUNT,ee34c2fa-b0e1-4a95-9907-d4860efcb7b9,,,,302d443b-d2cb-4f12-9348-403de9c33bb0,8018.51,PLN,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,57ba4e6b-b6ee-4bb1-8ac8-0fb5b3000de9,,,,3db3f2dc-cdaa-4811-b692-c085d8e8ae70,2154.14,GBP,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,657019c0-cb32-4a52-bcdb-872b06e7c30b,,,,3090edb9-f23f-4271-ab13-a07fc5e80c48,444.62,USD,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,68ce6a62-de6b-4e0e-aabd-9eacdd1ea9f7,,,,9d4a9ba4-6d91-4d44-9a60-23f0f906ae93,965.83,GBP,PERSONAL,,,,,,,,,,,,,,,
+USER_ACCOUNT,c33e9da1-fbab-462e-ba26-ba1f932465c2,,,,da8d9b3c-eaa0-420d-a494-3293bb99693b,3314.80,USD,BUSINESS,,,,,,,,,,,,,,,
+CREDIT_CARD,cbd83dc1-8c84-4196-8536-027c859a571a,,,,aada9783-d686-45e1-a26d-460119fb63b6,,,,false,ACTIVE,,,**** **** **** 1323,Ellen Donnelly,5,2025,a0659415-04fa-4624-aa28-72d9ea0865b2,,,,,,
+CREDIT_CARD,358ab865-caec-496b-be1a-8ec472170177,,,,894e4f40-c67e-4285-95bf-72d0e7f5cff0,,,,false,ACTIVE,,,**** **** **** 6106,Marilou Tillman-Gutmann,11,2030,c6fc00aa-dd19-4d3a-a98b-17723278a876,,,,,,
+CREDIT_CARD,cf94f74d-91e0-4c2c-96cb-4c7d0e2e0103,,,,40ce3137-84cb-4a17-a171-4d7b30557f32,,,,false,ACTIVE,,,**** **** **** 0036,Tate Bergstrom,7,2030,6c1bc38d-4d81-41f0-9271-d6117407fd15,,,,,,
+CREDIT_CARD,f856e736-1206-434d-b271-f6734e64ba6d,,,,d36bc63a-8216-4a00-8d63-788cd98712cd,,,,true,ACTIVE,,,**** **** **** 3435,Ethel Frami,4,2030,d654790b-a91c-4a50-a179-6f60c9c1885a,,,,,,
+CREDIT_CARD,ebc050fa-9fa3-4960-8cb6-c425ad1a203c,,,,3567849f-f096-4e63-9361-373c3eade674,,,,false,ACTIVE,,,**** **** **** 4516,Myrtis Watsica,7,2026,7c71d2c5-af48-4f22-a8be-3edae33f4d64,,,,,,
+CREDIT_CARD,0d93f7d8-bc18-4072-8d59-6e886368320f,,,,9241662b-a620-4f27-ba35-4c1569a66650,,,,true,ACTIVE,,,**** **** **** 5075,Jody Larkin IV,6,2026,f666b5a6-0cad-41ac-ab1f-2162a77c2ce0,,,,,,
+CREDIT_CARD,27e05b42-ae7c-4a32-84d1-850e0d449cb8,,,,302d443b-d2cb-4f12-9348-403de9c33bb0,,,,true,ACTIVE,,,**** **** **** 0590,Freda Pouros MD,10,2030,97c7f690-39b3-400a-a47d-da28738d7c1e,,,,,,
+CREDIT_CARD,54000dcc-39ba-4da1-8ddc-dee25a9c5d2e,,,,79910e9d-c39f-4c62-a250-7963806cc0df,,,,true,ACTIVE,,,**** **** **** 5597,Dr. Randal Zulauf,12,2030,888e2618-6289-4417-81c0-bfc9450c2c12,,,,,,
+CREDIT_CARD,e6c60262-6104-4753-9912-6df5b3e38e52,,,,79910e9d-c39f-4c62-a250-7963806cc0df,,,,true,ACTIVE,,,**** **** **** 5329,Mose Willms,9,2028,9a891fce-56a0-404a-92d6-0822c2357eaf,,,,,,
+CREDIT_CARD,b05071b4-cd61-4fc5-b59a-29e98543936f,,,,ed51e34b-5159-4cc0-b3b0-b7b2913776bd,,,,true,ACTIVE,,,**** **** **** 4075,Golden Casper,10,2029,1275abbe-b086-490c-bdff-08e344ebf8cb,,,,,,
+CREDIT_CARD,1908b71b-c501-4798-b604-c1c04367af11,,,,6f35028c-2e87-4d9f-9db2-b637bc028e63,,,,true,ACTIVE,,,**** **** **** 6724,Geraldine VonRueden,3,2027,37d3ecee-fe4a-4163-a110-fd6b6e28d3bc,,,,,,
+CREDIT_CARD,1f531408-ac30-44e4-a8a3-9cb166b64dfe,,,,aada9783-d686-45e1-a26d-460119fb63b6,,,,false,ACTIVE,,,**** **** **** 6318,Katlynn Thompson I,12,2026,c889c0e6-db78-432c-b671-f1127bef5af3,,,,,,
+CREDIT_CARD,a08d1387-68fb-4d28-80fd-c5f357723ebd,,,,95c3e2a6-736d-42ea-8106-f390e6cfd4c5,,,,false,ACTIVE,,,**** **** **** 0572,Travis Ebert,8,2027,de2e699e-8033-42c1-a7ac-9fc5433f1a46,,,,,,
+CREDIT_CARD,ff370a8d-40f4-4f4d-b84a-866e792d0999,,,,2c01a5ad-cb84-47dc-a159-513c54fecfae,,,,false,ACTIVE,,,**** **** **** 2940,Dr. Alfredo Harris,5,2030,ec3453d2-bfdb-4d84-9baa-7678954d06cc,,,,,,
+CREDIT_CARD,806d6915-4c80-4cf2-bff1-036a182b18f2,,,,81d6d99d-c9ad-4542-a90f-a276d7df721c,,,,true,ACTIVE,,,**** **** **** 8366,Sheila Thompson,10,2026,c31a066d-f7d7-4f4a-8479-73999e8031b0,,,,,,
+CREDIT_CARD,9f628c7f-64be-4c38-ac41-ccd44b79f680,,,,d683d6b8-b03e-4aee-83c3-d606ce6a1895,,,,true,ACTIVE,,,**** **** **** 2275,Annie Weimann,7,2030,17d7dd53-36ef-4e2e-9253-391009b97eb0,,,,,,
+CREDIT_CARD,2d067ede-3ff3-4686-920f-5d6ae081702b,,,,03c9c5dc-882c-4fdb-9ef5-19c87a3b5f51,,,,false,ACTIVE,,,**** **** **** 3936,Patti Padberg,5,2027,7ad974ef-1ba2-4cc1-a61c-90a4c256620e,,,,,,
+CREDIT_CARD,7363301e-a9eb-4586-b201-0eab37cd2b40,,,,d4adc923-0257-49b4-9aeb-fac84fa36478,,,,true,ACTIVE,,,**** **** **** 1328,Kylee Hoeger,12,2026,3ebab36c-0e3b-4093-84d0-4e2eba090653,,,,,,
+CREDIT_CARD,80dcbb25-179b-4415-8141-d61e1b7e1f4f,,,,5e741891-20b4-451e-ad71-51585a5dc09a,,,,false,ACTIVE,,,**** **** **** 8807,Norris McCullough-McClure,4,2025,bc7cd730-ba02-44f3-9314-d2e33fa3dcf5,,,,,,
+CREDIT_CARD,e645b11d-4819-4b02-ad4a-e66cf4d3c01e,,,,4e5e5ae5-9c98-46eb-8d64-e5fa5f3b93c6,,,,true,ACTIVE,,,**** **** **** 2092,Dr. Layne Reinger Sr.,8,2025,29402b03-e435-4a54-a405-b92d95dd1a1b,,,,,,
+CREDIT_CARD,10f9f6dd-9bc1-48f6-a8bb-bf36552742ff,,,,502eb4ff-4399-42cd-9bf9-34e472c4329c,,,,false,ACTIVE,,,**** **** **** 4967,Kareem Stokes,6,2028,9ce5d23c-5faa-44ff-be0b-cd7c4827bbd7,,,,,,
+CREDIT_CARD,77eed5d2-491c-4369-8551-8985f343894a,,,,3db3f2dc-cdaa-4811-b692-c085d8e8ae70,,,,false,ACTIVE,,,**** **** **** 7977,Olga Fay,9,2026,7386d51b-e2a8-4caf-b01e-fd70dbc09628,,,,,,
+CREDIT_CARD,aa49dc2b-730b-430e-b945-4aa1510325ae,,,,7548a144-6e10-4f2e-b395-2bd56a404be3,,,,true,ACTIVE,,,**** **** **** 1236,Gerardo Watsica,2,2026,825fcbb3-3c6e-44f6-9df4-38916c09784e,,,,,,
+CREDIT_CARD,789bbcd0-7339-43cd-a0b5-013a1d908e21,,,,9d4a9ba4-6d91-4d44-9a60-23f0f906ae93,,,,true,ACTIVE,,,**** **** **** 3325,Mrs. Keyon Beatty,11,2028,62d59b63-d94f-44e4-8d74-29c9451e1ad0,,,,,,
+CREDIT_CARD,006b257f-ade9-4757-ac75-fe88233e8125,,,,279973ec-6b39-43ac-a15b-c8aba50e1628,,,,true,ACTIVE,,,**** **** **** 6340,Evie Kassulke,5,2026,1b0c6a72-bba6-4169-bf62-ee970dd32752,,,,,,
+CREDIT_CARD,5cc02f25-86e4-44a3-8370-907e481bb257,,,,c45553cf-e04b-4233-a3a5-26350675fcae,,,,false,ACTIVE,,,**** **** **** 3528,Grant Wehner,2,2026,4c4d10bc-2afb-4697-aaac-902d8838da93,,,,,,
+CREDIT_CARD,a1562ec2-eaf7-4d3a-bbaf-1e2097ef4a6c,,,,b5cfa3a3-dd2d-4d75-a0a5-bc8155666f0a,,,,false,ACTIVE,,,**** **** **** 9821,Esta Altenwerth,4,2030,5d3ca394-5830-4e1f-b74c-eaf29d2ae354,,,,,,
+CREDIT_CARD,da4295b4-46bd-4551-b006-1b4e07d45a58,,,,48d3f296-4e90-4421-a63f-4fc196d3d88c,,,,false,ACTIVE,,,**** **** **** 0948,Unique Blick,2,2030,cd25a653-4ea9-4eb9-a595-967095a98757,,,,,,
+CREDIT_CARD,0b73ae6f-8d8a-4fb8-a0cd-14160274d931,,,,b000dfc4-a666-4f2f-a2b3-04404a6e968d,,,,true,ACTIVE,,,**** **** **** 8009,Wallace Jakubowski,11,2027,504a695e-d702-43c2-b0ed-ec72a54c2560,,,,,,
+CREDIT_CARD,bbb11487-076a-495f-ad41-0a499e9524ee,,,,d96ba137-329b-47d6-85ed-d5aa2342e6c4,,,,false,ACTIVE,,,**** **** **** 3225,Kara Rolfson,2,2026,18abb3ec-9c11-4a2b-8702-5843dd8b3be8,,,,,,
+CREDIT_CARD,20951373-7c97-40a2-8017-ac2cadce0700,,,,b80822ff-e1fe-4456-8c60-96c854cc5836,,,,false,ACTIVE,,,**** **** **** 3788,Jewell Bernhard,12,2026,aca8a662-47b7-4f34-861b-86427553bf75,,,,,,
+CREDIT_CARD,96f779c0-323f-4230-9982-183f9da3efd0,,,,b80822ff-e1fe-4456-8c60-96c854cc5836,,,,false,ACTIVE,,,**** **** **** 2486,Caleb West,9,2025,66ef9c48-385d-4591-940c-4c3e572864e9,,,,,,
+CREDIT_CARD,ebca22f2-f129-4b53-a3b3-7c26f9547862,,,,894e4f40-c67e-4285-95bf-72d0e7f5cff0,,,,false,ACTIVE,,,**** **** **** 2591,Annette D'Amore II,4,2030,84a46e2b-9ba3-44a6-ab19-61965a1f134c,,,,,,
+CREDIT_CARD,260e1345-ceaf-41c3-aff8-ea49cc295749,,,,2edb81da-9cf7-4c15-920c-75445c9e7d9e,,,,true,ACTIVE,,,**** **** **** 7710,Reginald Barton,6,2030,7efe2fca-4d32-44c5-989e-dd79749a6793,,,,,,
+CREDIT_CARD,5a5de4da-e7f6-4b44-a08a-7fda4f585956,,,,9d4a9ba4-6d91-4d44-9a60-23f0f906ae93,,,,true,ACTIVE,,,**** **** **** 9132,Francis Mills,3,2025,0af2e8bc-068b-49fa-b7ea-68d6c1a05ce5,,,,,,
+CREDIT_CARD,b80b4029-42ee-41df-a7cb-e10a35424daf,,,,41b8e739-0d84-4447-9dca-75291eab8cef,,,,false,ACTIVE,,,**** **** **** 3010,Saul Glover,6,2025,c50ecfba-980e-4b2c-99be-2282c165aa33,,,,,,
+CREDIT_CARD,4cf5a0d5-7686-46ff-9a54-7213907e0b92,,,,79910e9d-c39f-4c62-a250-7963806cc0df,,,,true,ACTIVE,,,**** **** **** 9096,Cedric Runolfsdottir-Predovic,1,2027,98bc616c-33d2-4c15-a649-9dbfbead2882,,,,,,
+CREDIT_CARD,ef87dd5a-9799-428c-a72c-a3724db47824,,,,5e741891-20b4-451e-ad71-51585a5dc09a,,,,true,ACTIVE,,,**** **** **** 9143,Susie Littel,3,2026,a231a800-5992-4908-a37c-c0849565968b,,,,,,
+CREDIT_CARD,09d36b30-8054-46c3-966a-dc630bef3905,,,,5def6e19-38a4-4fe2-bca9-44ac78b69b02,,,,true,ACTIVE,,,**** **** **** 9463,Camille Dibbert-Leannon,9,2027,a1929374-590a-44e6-83c2-4c71119a104a,,,,,,
+CREDIT_CARD,4427c68e-d91a-4bfc-9a3f-5800758f6222,,,,2ce44bf1-d5c8-4b6b-9c5b-9199790c1ac2,,,,true,ACTIVE,,,**** **** **** 2775,Leroy Hyatt,4,2028,d73ad8ab-b813-4b16-8414-0f6fe800e6f2,,,,,,
+CREDIT_CARD,d96f4926-e334-49bf-a84d-ff23d7c26a6c,,,,f22f98b8-df76-4eb1-802f-a1a226d36f2a,,,,false,ACTIVE,,,**** **** **** 5081,Marcellus Gerlach,1,2030,959ea57e-a736-4d11-8009-8b704912a83c,,,,,,
+CREDIT_CARD,93dae4f0-e8ad-4aff-a340-82c0efbff058,,,,03c9c5dc-882c-4fdb-9ef5-19c87a3b5f51,,,,false,ACTIVE,,,**** **** **** 6034,Pascale Morar,9,2030,f7e34f15-0a98-4d51-a99c-5bac02df1125,,,,,,
+CREDIT_CARD,06759ec2-b878-41e1-9845-6d9a9434b59e,,,,7dbe89aa-a7db-40d3-9df3-69a69583675b,,,,false,ACTIVE,,,**** **** **** 9465,Miguel Schmidt,4,2026,15601a57-7be9-49f6-bece-04dac6a89dd6,,,,,,
+CREDIT_CARD,fa30175e-a3de-4868-a1e8-006c06faed4c,,,,b953fc2c-0c1a-4e1a-80e0-ff5ed8231963,,,,false,ACTIVE,,,**** **** **** 4142,Fleta Schmeler,5,2028,8278f1cb-bc62-4a47-bfbd-b69ace58180a,,,,,,
+CREDIT_CARD,450a6dd9-f71a-48fb-913f-6a231140b5b9,,,,052bb836-c75d-49ad-bed4-b83730e084f2,,,,true,ACTIVE,,,**** **** **** 7966,Terrence Braun,11,2028,d8251e6d-93a4-47fa-962f-d0f4d27dd624,,,,,,
+CREDIT_CARD,8be1fb1f-f61b-4a50-971a-4a66c8dfe25d,,,,09fc4bd0-3ddc-41a6-81ad-4cc2c91104f1,,,,false,ACTIVE,,,**** **** **** 2188,Elvis Boehm,5,2030,d4123d87-0838-464b-9442-6dc86f5dd58d,,,,,,
+CREDIT_CARD,e374a528-71ea-47a9-bbff-b04d02974b2b,,,,bcbf2565-bcf5-4a9c-a6ec-356a8dccbac3,,,,true,ACTIVE,,,**** **** **** 2085,Rodrick Reichert,7,2026,bb041799-7cdf-4bcf-8468-5d68648b4834,,,,,,
+CREDIT_CARD,ca1bee04-5f29-4a9b-8f08-de8c6eb9b9f5,,,,5def6e19-38a4-4fe2-bca9-44ac78b69b02,,,,false,ACTIVE,,,**** **** **** 7491,Silas Schuppe,11,2029,5fa2287e-d600-4d17-8d3a-c4ec95c71fbb,,,,,,
+CREDIT_CARD,c1d6d1df-336e-4d89-b9f1-1c7f2df8cae4,,,,03c9c5dc-882c-4fdb-9ef5-19c87a3b5f51,,,,true,ACTIVE,,,**** **** **** 5375,Will Sporer,7,2027,f7305a58-5b50-4c60-a2fa-fd7760ad0be1,,,,,,
+CREDIT_CARD,c6508ed4-37c8-4be4-9ad8-e049219f3221,,,,bbb156a3-2b9c-46ce-b4d6-91de61d9e5ea,,,,true,ACTIVE,,,**** **** **** 4023,Marcus Lehner II,7,2028,a136347a-3b0b-4db0-963f-3bf6a96fa929,,,,,,
+CREDIT_CARD,c3f0f32b-b83e-45d0-b4cc-1bb1f9e892f2,,,,9374d689-7fa1-4eab-9445-213fb7427250,,,,false,ACTIVE,,,**** **** **** 1370,Dr. Dolly Ankunding,2,2028,ab567ce4-a238-4d7c-abb5-b3debb99e637,,,,,,
+CREDIT_CARD,5bf69834-bcec-4686-9fbb-17334beb3db0,,,,54360f3e-8f62-49d6-bb52-e11e89eabbe2,,,,false,ACTIVE,,,**** **** **** 6289,Willow Bernhard,8,2027,c3e3709c-ef15-4add-868d-19b76dc6d012,,,,,,
+CREDIT_CARD,99891c8d-d62f-41ab-8bef-9bae9e7f91bb,,,,1f5d399d-7509-40bf-ad3a-909a375036f3,,,,false,ACTIVE,,,**** **** **** 8824,Javier Graham,9,2027,d33add94-bc78-4516-a323-3c44a3511251,,,,,,
+CREDIT_CARD,cd63bce2-3399-47ca-988e-760249a75950,,,,d96ba137-329b-47d6-85ed-d5aa2342e6c4,,,,false,ACTIVE,,,**** **** **** 2188,Garry Batz,11,2028,82ab43a4-8757-4141-9d6c-a4501b017af8,,,,,,
+CREDIT_CARD,34a9a15f-7326-400a-8152-6544b5dc83ef,,,,b5cfa3a3-dd2d-4d75-a0a5-bc8155666f0a,,,,false,ACTIVE,,,**** **** **** 1469,Gertrude Powlowski MD,4,2030,b9324506-bce8-4550-bdf0-58e8635b0c92,,,,,,
+CREDIT_CARD,4b8858ec-9ef2-413f-acff-8a0d709aedf0,,,,4e5e5ae5-9c98-46eb-8d64-e5fa5f3b93c6,,,,false,ACTIVE,,,**** **** **** 5992,Lucy Stiedemann,9,2025,3ee17625-9c94-4427-b4e7-a5088dd53eb1,,,,,,
+CREDIT_CARD,2ac968a8-5439-445a-a5df-9608d39d0ed6,,,,8302deec-1ef9-45b0-93fd-1e379a3767b2,,,,true,ACTIVE,,,**** **** **** 1459,Antonio Greenfelder,8,2027,0a882cab-d21e-4c0c-b6af-66b5871e540a,,,,,,
+CREDIT_CARD,02a51b98-5ba3-40b4-8cbf-f5a2f7d4cf66,,,,c8336c63-4c04-414c-b228-085c389e8d6b,,,,false,ACTIVE,,,**** **** **** 8546,Miss Mckayla Casper,10,2026,aeb5284c-f6c5-4488-a23a-3446aaf176ca,,,,,,
+CREDIT_CARD,568ff785-26d9-43a5-ac3b-2c8ad3e2abbf,,,,41b8e739-0d84-4447-9dca-75291eab8cef,,,,true,ACTIVE,,,**** **** **** 3878,Mr. Alize Torp,12,2029,8dea7015-79ff-4a12-93e6-b7b2a6073bae,,,,,,
+CREDIT_CARD,9446b4c7-38e5-4bc3-8402-c8961eb39c3e,,,,da8d9b3c-eaa0-420d-a494-3293bb99693b,,,,false,ACTIVE,,,**** **** **** 3547,Santiago Rutherford,3,2026,7c393a86-8f20-47ca-a987-a1713d81cc70,,,,,,
+CREDIT_CARD,d746c10f-5628-4b3c-8611-5d3f0281d36c,,,,9374d689-7fa1-4eab-9445-213fb7427250,,,,false,ACTIVE,,,**** **** **** 6865,Alton Gorczany,2,2029,296e6c9e-4cca-4d24-9916-57e1fd6a398d,,,,,,
+CREDIT_CARD,60ff9b09-e68c-4269-822b-b83698a40546,,,,d9721dc9-796f-4a34-966c-0a8b2497796f,,,,false,ACTIVE,,,**** **** **** 3238,Lonnie Rutherford,5,2025,4be29c04-cd66-4565-8216-dd23a644d7a8,,,,,,
+CREDIT_CARD,02ad3288-6a41-4ea3-a2f2-ddee58e138b1,,,,b80822ff-e1fe-4456-8c60-96c854cc5836,,,,true,ACTIVE,,,**** **** **** 6380,Mrs. Jermain Ankunding,10,2027,05c1c530-cf02-48b5-81ae-56364dc3a65e,,,,,,
+CREDIT_CARD,0679fdf1-addc-41b0-8cfd-6e7afb7e0bad,,,,54360f3e-8f62-49d6-bb52-e11e89eabbe2,,,,true,ACTIVE,,,**** **** **** 5064,Lorene Ryan,10,2027,b902180a-ca68-4795-9bfb-9f97ec73a033,,,,,,
+CREDIT_CARD,46bdfadc-145b-4a0c-a706-7f1c5dd53400,,,,b5cfa3a3-dd2d-4d75-a0a5-bc8155666f0a,,,,true,ACTIVE,,,**** **** **** 6820,Brandy Hessel Jr.,1,2027,d8328a75-914f-4c2e-943f-af6e6995b365,,,,,,
+CREDIT_CARD,3bdeb792-1ee3-4e67-9045-5f9ca2d89e0e,,,,3db3f2dc-cdaa-4811-b692-c085d8e8ae70,,,,false,ACTIVE,,,**** **** **** 0895,Jorge Koss,6,2029,c613c57a-e173-42ed-bb8e-6772127119c8,,,,,,
+CREDIT_CARD,671af5f4-e670-44b4-8071-f2fc2a9c8244,,,,02111ccb-5219-43aa-8930-2b134daadd63,,,,false,ACTIVE,,,**** **** **** 5120,Kyle Botsford,4,2027,d96cad34-2a9f-4e3b-ac0f-2deff5615363,,,,,,
+CREDIT_CARD,f205edc9-c164-4815-b6a4-a9f7c8febd69,,,,70418e97-b2a2-44cd-89db-485f50c21214,,,,true,ACTIVE,,,**** **** **** 2476,Mr. Johanna Sawayn,4,2026,a46190da-92a2-4427-912a-6f6dd730287c,,,,,,
+CREDIT_CARD,c0be6ceb-d557-409a-8a53-27a49b121432,,,,c8aadc84-83bb-44f8-90aa-7fdb824e646c,,,,false,ACTIVE,,,**** **** **** 8795,Viola Lehner,5,2028,62b6f790-0b78-4487-b437-77138723c641,,,,,,
+CREDIT_CARD,f6e105f2-5953-4d7c-9de6-d8577ed6796a,,,,40ce3137-84cb-4a17-a171-4d7b30557f32,,,,true,ACTIVE,,,**** **** **** 1805,Margaretta Yundt,9,2025,2fa5d108-3551-49d3-908b-2987829e11c6,,,,,,
+CREDIT_CARD,b73fbd68-13b9-45aa-a4a6-3c801a5a4161,,,,9241662b-a620-4f27-ba35-4c1569a66650,,,,true,ACTIVE,,,**** **** **** 1450,Dr. Guillermo Bayer,5,2027,0c38439b-ac92-48d9-827e-25fa2aea8a5b,,,,,,
+CREDIT_CARD,4faf6836-bf73-4c3f-8e9e-9905492bbe82,,,,4e5e5ae5-9c98-46eb-8d64-e5fa5f3b93c6,,,,false,ACTIVE,,,**** **** **** 4618,Elizabeth Klocko,7,2029,cab1077d-36fe-4671-a432-8bcff36b1de7,,,,,,
+CREDIT_CARD,4f517ba4-7cc2-4926-96ec-caa6e22a79e2,,,,a1e67214-d689-4177-847d-15863c25e1aa,,,,true,ACTIVE,,,**** **** **** 1133,Ted Kerluke,2,2027,42074b5c-5e25-4758-bc0c-f79e4447b441,,,,,,
+CREDIT_CARD,ae644379-33ef-4955-8623-8daa20db91e4,,,,06b9c220-01b8-4440-875b-d48486fb039b,,,,false,ACTIVE,,,**** **** **** 8456,Irene Dach,6,2030,6f1fdf8d-7964-4faa-8797-f73bfd1a4406,,,,,,
+CREDIT_CARD,8d1135cd-7ffb-421e-b2f9-4972f3b9f997,,,,36709e1b-a318-4112-8bad-e023c6a22e80,,,,true,ACTIVE,,,**** **** **** 1718,Darrin Hoeger,7,2030,4d460c5f-3ee0-4f03-984b-10549ef21ef2,,,,,,
+CREDIT_CARD,ab403cae-fc7d-4c22-909e-78bba12c861e,,,,ad7f6057-2075-4b00-8371-69bcdcc383ea,,,,true,ACTIVE,,,**** **** **** 0909,Emma Heaney,5,2028,9823f1ca-b7d1-4169-93f7-227f96722ec7,,,,,,
+CREDIT_CARD,cd49e94e-0059-4d34-8b2e-897c54fc22df,,,,4b12d2c9-7191-4e59-80cd-80656952c443,,,,false,ACTIVE,,,**** **** **** 5754,Joann Douglas II,6,2029,5fa98e82-b23a-465b-b456-5e767e2076e3,,,,,,
+CREDIT_CARD,2abc3162-5e8c-4a93-9849-787932df3def,,,,aada9783-d686-45e1-a26d-460119fb63b6,,,,false,ACTIVE,,,**** **** **** 5418,Samanta Heller,7,2030,cda5f292-956d-4d8f-b5ce-0730c88c5481,,,,,,
+CREDIT_CARD,90ed0c19-02b4-411a-afdb-4557912b79fe,,,,16b78ac7-e738-429a-b4a5-0c5798f067ba,,,,true,ACTIVE,,,**** **** **** 5717,Gwen Deckow,4,2025,82a2e9e7-a6af-4126-ae3c-6bc7fcfa409f,,,,,,
+CREDIT_CARD,3c238e05-1e01-40f7-9dd4-411a02b8a18d,,,,c045a1ae-2ca5-45e5-b079-58a72cb34f99,,,,false,ACTIVE,,,**** **** **** 4759,Dr. Franklin Considine,4,2027,e5e3d7b1-5415-4013-be59-b5992c35d0c6,,,,,,
+CREDIT_CARD,0b18d9d4-e1f2-44d6-9d41-5564bde26f3d,,,,d9176286-8e21-4150-a660-51e470862f3e,,,,true,ACTIVE,,,**** **** **** 9083,Brandon Thompson,12,2028,d853d8d6-71f2-476f-b9ad-4773fadfb5f3,,,,,,
+CREDIT_CARD,e9b1dc82-bf08-4b81-ad63-56e484c22bee,,,,302d443b-d2cb-4f12-9348-403de9c33bb0,,,,true,ACTIVE,,,**** **** **** 7711,Fermin Feeney,10,2027,e1732908-fa74-4feb-a4c5-b589df802fce,,,,,,
+CREDIT_CARD,e0f3bfe7-aacb-4779-9944-3fd0eba6ec4c,,,,6f35028c-2e87-4d9f-9db2-b637bc028e63,,,,false,ACTIVE,,,**** **** **** 5127,Mable Balistreri,9,2026,ce09709d-bf4d-4a22-a384-d66e6a37e18f,,,,,,
+CREDIT_CARD,0724727c-e971-4206-8948-e6b859b13792,,,,2ce44bf1-d5c8-4b6b-9c5b-9199790c1ac2,,,,false,ACTIVE,,,**** **** **** 3269,Tom Gerlach,5,2027,96e4e6d6-113b-43bb-acca-117665d3448f,,,,,,
+CREDIT_CARD,96669ce4-8e41-4b38-ac61-5c73bb21de31,,,,bbb156a3-2b9c-46ce-b4d6-91de61d9e5ea,,,,true,ACTIVE,,,**** **** **** 7400,Drew Stracke,11,2026,6a12dfad-ad97-41b6-badc-f57b92b895ad,,,,,,
+CREDIT_CARD,5cc79f92-e57a-4b0c-aa97-23e0e1abc5f0,,,,1de759aa-eca6-47e0-ad28-17eeea5a6896,,,,false,ACTIVE,,,**** **** **** 1550,Miss Vivianne Weber V,6,2026,0bca7a76-bf61-46db-a8ed-49f19b033e12,,,,,,
+CREDIT_CARD,f6856981-d851-494f-8693-5d4dd2a5ff19,,,,bd485b6c-840a-455a-962f-f34e95accc71,,,,false,ACTIVE,,,**** **** **** 2480,Providenci Vandervort,1,2028,f734713e-12ab-4986-9a99-991d45db7bd7,,,,,,
+CREDIT_CARD,715f6d36-f15e-4371-9a95-b13981a04243,,,,6894f1f2-f27d-4c0c-a219-7b972aa4acb3,,,,false,ACTIVE,,,**** **** **** 0588,Dr. Chet Wilkinson,1,2030,86ffc853-79f9-4ec7-be4e-1afb19ae6eee,,,,,,
+CREDIT_CARD,dda36e97-0c7a-49ff-adb8-635a1d5aebe3,,,,502eb4ff-4399-42cd-9bf9-34e472c4329c,,,,true,ACTIVE,,,**** **** **** 7537,Brycen Hodkiewicz,9,2025,e2289c1f-8259-4a4c-9973-987b486951c1,,,,,,
+CREDIT_CARD,53a7b91f-e088-47c1-bdc6-7a074f6673ec,,,,977bec70-03a8-4ae0-8021-81b06ba55999,,,,true,ACTIVE,,,**** **** **** 8033,Cathy Powlowski,4,2025,021dfc2e-7036-4955-8424-45c8b94e56c9,,,,,,
+CREDIT_CARD,73b91397-8f7e-4d34-ba5c-e9b6bd20acd0,,,,d9176286-8e21-4150-a660-51e470862f3e,,,,false,ACTIVE,,,**** **** **** 6248,Nona Goodwin,5,2029,403edb6f-40c3-400d-a795-a00cdf657750,,,,,,
+CREDIT_CARD,5c73ccc4-ba55-49a0-b876-cb48a21825b0,,,,3f7190b7-0ca4-4e04-9cf0-9aa0f61e1191,,,,false,ACTIVE,,,**** **** **** 8775,James Witting,4,2025,60f63e58-1edd-4e17-a8d9-3217895eaffb,,,,,,
+CREDIT_CARD,49ea173d-7ca4-4a81-8118-d5e15a132757,,,,b79fec52-e4b1-41d6-a05c-965f559fd32e,,,,true,ACTIVE,,,**** **** **** 6607,Pearl Feest,7,2028,77148774-58ed-4728-bbb3-652a24f22d92,,,,,,
+CREDIT_CARD,fbb1bfac-446b-460d-a3b7-a4f5980cf41d,,,,d36bc63a-8216-4a00-8d63-788cd98712cd,,,,true,ACTIVE,,,**** **** **** 4854,Dr. Sara Tillman,7,2029,cb08aca3-99d7-406f-88d0-232f54792721,,,,,,
+CREDIT_CARD,1ae59dc1-3610-431c-96c0-de1bb2df8697,,,,894e4f40-c67e-4285-95bf-72d0e7f5cff0,,,,false,ACTIVE,,,**** **** **** 0955,Jamie Reichert,12,2026,ababb1ca-b317-4486-bf9d-719c043dfc40,,,,,,
+CREDIT_CARD,5fd48c10-bc3a-4d65-bc0e-b134cce9ab18,,,,302d443b-d2cb-4f12-9348-403de9c33bb0,,,,true,ACTIVE,,,**** **** **** 8451,Kristina Jast,7,2029,92d1166c-57a3-4a24-8407-f42bec54b3d0,,,,,,
+CREDIT_CARD,114f8761-8a47-4782-ab93-079f10282a85,,,,c45553cf-e04b-4233-a3a5-26350675fcae,,,,false,ACTIVE,,,**** **** **** 6588,Buford Bruen,2,2030,4d3868f4-94da-4e58-a031-38d919ff72bb,,,,,,
+CREDIT_CARD,3fcbdbcd-0712-4d1a-b80a-26be0f1ec18e,,,,302d443b-d2cb-4f12-9348-403de9c33bb0,,,,true,ACTIVE,,,**** **** **** 5593,Leila Harris I,5,2028,b2bd4a8e-bb75-41b3-90a5-66dd84e0bfff,,,,,,
+CREDIT_CARD,cc563da2-6a37-4bfa-8667-521fd14601ff,,,,48d3f296-4e90-4421-a63f-4fc196d3d88c,,,,false,ACTIVE,,,**** **** **** 7579,Veronica Ortiz,8,2029,71cc010e-0f45-439d-8f66-446b3d20096a,,,,,,
+CREDIT_CARD,ef615306-64f8-41c2-80c9-085810745ce7,,,,977bec70-03a8-4ae0-8021-81b06ba55999,,,,false,ACTIVE,,,**** **** **** 0723,Kraig Heller,1,2026,d28977d5-536a-4bde-9212-8ac769e824f5,,,,,,
+CREDIT_CARD,622cb5f9-99f7-43f0-b74c-34925c1bfeb4,,,,00d99403-5d5d-409b-ac87-0acdf908b835,,,,true,ACTIVE,,,**** **** **** 5035,Timothy Ritchie,7,2027,9609c18f-444f-4108-92ac-bf6fa2998aa6,,,,,,
+CREDIT_CARD,76384230-fc26-4f4a-834a-33d472f8b160,,,,d36bc63a-8216-4a00-8d63-788cd98712cd,,,,false,ACTIVE,,,**** **** **** 7062,Antonia Conn,8,2026,c052a2f9-89f0-47d9-b2ff-a8509023fa1a,,,,,,
+CREDIT_CARD,c2f15e5d-2097-4e1e-8e9a-70846e656503,,,,2ce44bf1-d5c8-4b6b-9c5b-9199790c1ac2,,,,false,ACTIVE,,,**** **** **** 6878,Jessyca Sipes-Price,5,2025,f74c46cf-016e-48c0-954c-1a1f6405aec1,,,,,,
+CREDIT_CARD,1e9a254a-d11f-4885-9742-e4f2702093e7,,,,577801fc-a2ec-4215-ac2f-9ff2e251150e,,,,true,ACTIVE,,,**** **** **** 0169,Kristen O'Conner,7,2026,08e48155-53fc-4839-88b1-980fa38398f7,,,,,,
+CREDIT_CARD,3c59f3d2-0e90-4b44-9c89-350a1733b989,,,,09fc4bd0-3ddc-41a6-81ad-4cc2c91104f1,,,,false,ACTIVE,,,**** **** **** 2148,Jeanette Kerluke,1,2027,d3c0b221-dbf9-4f14-9735-348334d750e6,,,,,,
+CREDIT_CARD,0380107c-7045-425a-bf17-0d97eac78e8a,,,,534bc47c-0268-4402-9566-2a33f6f02392,,,,false,ACTIVE,,,**** **** **** 3744,Everett Bins-Berge,5,2025,72346ac5-b00e-44ce-9b1e-e3d7fb5b5f0c,,,,,,
+CREDIT_CARD,c396483c-8fbf-4b21-a2f0-050b2d7bff06,,,,02111ccb-5219-43aa-8930-2b134daadd63,,,,true,ACTIVE,,,**** **** **** 8187,Kasandra Wunsch,6,2025,86f6cc19-9e2d-4458-a3e4-c23ba82dd86a,,,,,,
+CREDIT_CARD,6ef46123-489f-4041-baf5-896f662b2e86,,,,2ce44bf1-d5c8-4b6b-9c5b-9199790c1ac2,,,,false,ACTIVE,,,**** **** **** 2312,Dr. Iris Beahan Jr.,3,2029,5be7893e-5389-4eae-be42-a86731fd7aef,,,,,,
+CREDIT_CARD,57edc73d-0e00-43f2-bbd9-d0a315e6e3e1,,,,279973ec-6b39-43ac-a15b-c8aba50e1628,,,,true,ACTIVE,,,**** **** **** 3815,Eldon Mohr,12,2030,4ec3efe3-079c-4e71-8cbc-57b40a56adb9,,,,,,
+CREDIT_CARD,93dd646e-9475-4207-a47d-5bdbe36a7d92,,,,3567849f-f096-4e63-9361-373c3eade674,,,,false,ACTIVE,,,**** **** **** 8071,Aaron Baumbach V,2,2027,5795405f-4095-443e-97b9-24e3fcdf4790,,,,,,
+CREDIT_CARD,b605709f-4b7d-4c8d-a202-b0b40d61ae20,,,,03c9c5dc-882c-4fdb-9ef5-19c87a3b5f51,,,,true,ACTIVE,,,**** **** **** 0082,Madisen Nitzsche,8,2028,a80625dd-abc2-4ced-a9c3-06aaa673d4a1,,,,,,
+CREDIT_CARD,e3787137-2a06-4142-80f6-2e50582a7074,,,,c045a1ae-2ca5-45e5-b079-58a72cb34f99,,,,false,ACTIVE,,,**** **** **** 4371,Clementine Purdy,7,2025,d8c04a60-7a71-418d-8df2-889050c363cf,,,,,,
+CREDIT_CARD,1ffa4263-f4de-427d-8d62-78dac27408c7,,,,b80822ff-e1fe-4456-8c60-96c854cc5836,,,,false,ACTIVE,,,**** **** **** 5353,Melany Swaniawski,10,2026,a0b17c67-5f2a-4fb5-9fe1-d8e67595904d,,,,,,
+CREDIT_CARD,d7975a70-2eed-4676-8d12-faaafbf9acdf,,,,534bc47c-0268-4402-9566-2a33f6f02392,,,,false,ACTIVE,,,**** **** **** 1674,Boyd Crist,11,2028,a74eaf38-5fef-4340-bc26-bc49229e5f6a,,,,,,
+CREDIT_CARD,0e2189bd-3b76-40e7-a8cc-38c398d44945,,,,2edb81da-9cf7-4c15-920c-75445c9e7d9e,,,,false,ACTIVE,,,**** **** **** 4727,Judah Fadel,7,2026,d9ec55b1-a277-47d5-bf31-8be49e23a90b,,,,,,
+CREDIT_CARD,87c3236f-f688-4cd5-ab0e-9b0268dae758,,,,5faba26e-60f0-4319-9e8d-e8548877c0d9,,,,true,ACTIVE,,,**** **** **** 4907,Miss Veronica Goldner,10,2025,597819ee-3b07-4955-974e-4b1ce782e93c,,,,,,
+CREDIT_CARD,0ed880f9-94b9-4822-b8dc-7a5948d6ceac,,,,7dbe89aa-a7db-40d3-9df3-69a69583675b,,,,true,ACTIVE,,,**** **** **** 4271,Brett Ziemann,2,2029,16fb263c-3680-4c3c-ba83-cbf701ccfc57,,,,,,
+CREDIT_CARD,7ae9588a-d312-4abd-bc81-f8e2520670cc,,,,e162080b-afdb-41b4-8f4f-66c0078d8d9e,,,,true,ACTIVE,,,**** **** **** 8716,Leslie Kilback,8,2025,a4ec785c-4715-47a4-9692-a22dbffecef6,,,,,,
+CREDIT_CARD,ed2afd72-d7cc-4f82-bc53-1135ebd56940,,,,d683d6b8-b03e-4aee-83c3-d606ce6a1895,,,,true,ACTIVE,,,**** **** **** 0109,Yolanda Marvin,7,2026,c034bd20-1b8c-4932-b1e0-be3a9fc74d37,,,,,,
+CREDIT_CARD,3d4ca599-8702-418f-81c4-64a4c407e8a2,,,,2ce44bf1-d5c8-4b6b-9c5b-9199790c1ac2,,,,true,ACTIVE,,,**** **** **** 7772,Josephine Wolff-Wehner,10,2028,b68ad94d-4a3c-496a-9e43-42f011439385,,,,,,
+CREDIT_CARD,67f0ead4-4170-49bb-85b4-f991340f8404,,,,da9991e3-27f3-4f10-9581-36f8e0b2de36,,,,false,ACTIVE,,,**** **** **** 8337,Corene Grimes,4,2028,1429928b-4935-4f7f-95c8-124b56d14ba8,,,,,,
+CREDIT_CARD,dd1ddf86-4d55-4d93-975f-37683a159036,,,,ed51e34b-5159-4cc0-b3b0-b7b2913776bd,,,,false,ACTIVE,,,**** **** **** 7221,Josefina Cronin,12,2028,5a0f6f40-c542-47b3-afec-4faa0cc1eb38,,,,,,
+CREDIT_CARD,9de03eac-138b-4134-bb9d-9e7ca8b7c53e,,,,b79fec52-e4b1-41d6-a05c-965f559fd32e,,,,false,ACTIVE,,,**** **** **** 4323,Lewis O'Hara,6,2026,62d85aa9-9380-4750-be12-d740db4e321a,,,,,,
+CREDIT_CARD,f37a1b57-3959-4a15-a5be-9091235cfbb6,,,,dac7c25c-1989-474e-99a0-725d4a36ea40,,,,true,ACTIVE,,,**** **** **** 7831,Miss Dana Runolfsson,1,2027,d74bdf2c-54b9-4224-a422-8a5cded0c277,,,,,,
+CREDIT_CARD,1e369d74-7c0f-4209-bbaa-abfd1fd27d0e,,,,bae67b26-fe5e-4c09-904e-9d97d1c37f84,,,,false,ACTIVE,,,**** **** **** 9915,Sean Lind PhD,2,2029,cf81af51-c727-4b3b-b21e-2e30f0f0c4ac,,,,,,
+CREDIT_CARD,e04d2578-e118-4d44-8cdb-ccdf3d37532f,,,,09fc4bd0-3ddc-41a6-81ad-4cc2c91104f1,,,,false,ACTIVE,,,**** **** **** 3784,Dr. Irving Grady,6,2027,6ab6147f-d696-42ae-a5e8-715d94cfdcb2,,,,,,
+CREDIT_CARD,da41c6c6-62cf-4e3d-9490-4884eea7ed7e,,,,c045a1ae-2ca5-45e5-b079-58a72cb34f99,,,,false,ACTIVE,,,**** **** **** 3869,Jett Doyle,10,2027,b182f624-c8db-46fb-902e-434b3e1861de,,,,,,
+CREDIT_CARD,292343e4-0632-4d98-be77-a75fe9d0f921,,,,00d99403-5d5d-409b-ac87-0acdf908b835,,,,false,ACTIVE,,,**** **** **** 4069,Scott McKenzie,8,2030,8f521b83-405b-4f07-9f84-418dc2182d5c,,,,,,
+CREDIT_CARD,d72f3b72-1405-4cec-8de6-f1d1f9df900a,,,,b80822ff-e1fe-4456-8c60-96c854cc5836,,,,true,ACTIVE,,,**** **** **** 0955,Jaime Renner,4,2030,47a8bb75-9089-4545-936e-c66d842e5582,,,,,,
+CREDIT_CARD,9e44379d-6ec3-432a-94fa-5d8d04cbd783,,,,6527b50a-b5e5-4703-a275-4c1488f393e6,,,,false,ACTIVE,,,**** **** **** 8067,Rosario Spinka PhD,4,2030,7c7b8244-4c7e-4252-bf4a-11bb28d797a0,,,,,,
+CREDIT_CARD,aebae9bc-60b4-4a30-8ffa-bb8d91c955cd,,,,2e7024d5-f4e3-431a-a114-8941f776a507,,,,true,ACTIVE,,,**** **** **** 6913,Lillie Davis-Trantow,6,2026,a3dda6f3-73a4-441c-8f3e-c50b6260fb37,,,,,,
+CREDIT_CARD,f6dcf492-8ed2-4022-8d85-1a69bf9cf34c,,,,9d4a9ba4-6d91-4d44-9a60-23f0f906ae93,,,,false,ACTIVE,,,**** **** **** 5927,Marie Doyle,2,2028,c3908bf8-b70e-497b-93b4-38d692f65ab7,,,,,,
+CREDIT_CARD,525cc4ea-458d-4bcf-909d-1a403b0acda4,,,,502eb4ff-4399-42cd-9bf9-34e472c4329c,,,,true,ACTIVE,,,**** **** **** 7077,Raymundo Ruecker,9,2025,735c1ed5-fc9a-417f-8ebb-5ce85b70ea70,,,,,,
+CREDIT_CARD,cdb6c3c3-963a-404d-b282-8464aaf211e8,,,,302d443b-d2cb-4f12-9348-403de9c33bb0,,,,true,ACTIVE,,,**** **** **** 5954,Rufus Donnelly,1,2027,58ea237e-e07c-4349-aadd-f2b59b51de54,,,,,,
+CREDIT_CARD,aa879ec2-7a0d-4f95-829f-8fe4bea29c04,,,,79910e9d-c39f-4c62-a250-7963806cc0df,,,,true,ACTIVE,,,**** **** **** 5657,Lela Shanahan,12,2030,d3897b8a-a5ff-4420-9b0b-3830e969e8a1,,,,,,
+CREDIT_CARD,38f6879c-3ff4-450d-889d-e07fb1af7396,,,,1de759aa-eca6-47e0-ad28-17eeea5a6896,,,,false,ACTIVE,,,**** **** **** 5153,Aisha Wolf,2,2025,62e53c06-0a79-41b7-a15f-058ccced2957,,,,,,
+CREDIT_CARD,92c08dde-6894-493b-956a-00e73f8d774d,,,,1f5d399d-7509-40bf-ad3a-909a375036f3,,,,false,ACTIVE,,,**** **** **** 7920,Estelle Bogan,10,2028,14a74799-9792-4ea9-b9c9-e651d1eed4ae,,,,,,
+CREDIT_CARD,50d1391a-17a9-4e97-8464-9bafeeb04125,,,,79910e9d-c39f-4c62-a250-7963806cc0df,,,,true,ACTIVE,,,**** **** **** 7800,Mr. Karli Carter,9,2026,459624c2-5cf1-48e1-9b5a-aea57a5bd20e,,,,,,
+CREDIT_CARD,33ffdaa6-9930-4c0d-85b1-fb3e5b2607e9,,,,496d1ece-6fb4-44e4-9ab1-9a72fc89d367,,,,false,ACTIVE,,,**** **** **** 2149,Erin Bednar III,9,2026,fd21a9a1-c6b4-421f-8aca-edcce79dd0a8,,,,,,
+CREDIT_CARD,e83fb290-b58d-4b41-a4bb-e217b406672c,,,,bcbf2565-bcf5-4a9c-a6ec-356a8dccbac3,,,,true,ACTIVE,,,**** **** **** 6154,Priscilla Lemke,10,2026,0f86bc6f-3c83-4185-bc9e-e0c5951cb90f,,,,,,
+CREDIT_CARD,3aedc597-992c-485f-92c9-cf32b80eca61,,,,00ad2a7a-e8b9-4f69-965f-afffe153b3ea,,,,true,ACTIVE,,,**** **** **** 9883,Mr. Brent Wolf-Lebsack,2,2026,73b47df8-b2c2-45b5-a0f3-e09da5cdbb0b,,,,,,
+CREDIT_CARD,a47d8ad4-61c2-4e5d-a264-1f3e955948bf,,,,e22ee750-cacf-4fe8-acf8-11a392b29912,,,,true,ACTIVE,,,**** **** **** 3884,Cordia Ryan-Lockman,12,2028,f041caa1-db25-4177-8a97-2c28b8cc1899,,,,,,
+CREDIT_CARD,e70f3250-6741-4b29-b869-7e07e9a423a8,,,,81d6d99d-c9ad-4542-a90f-a276d7df721c,,,,true,ACTIVE,,,**** **** **** 8576,Bridie Hermann,10,2028,e7899e6b-4113-459b-825d-f26b71f492e9,,,,,,
+CREDIT_CARD,d604119c-5347-4446-8f78-df8e010ea52e,,,,dac7c25c-1989-474e-99a0-725d4a36ea40,,,,true,ACTIVE,,,**** **** **** 7131,Rodolfo Beahan,2,2027,84bbb662-d0e6-462b-a4f9-e8478789499a,,,,,,
+CREDIT_CARD,b7b898c9-e474-46cf-98d3-8b536c36fde6,,,,4e5e5ae5-9c98-46eb-8d64-e5fa5f3b93c6,,,,true,ACTIVE,,,**** **** **** 8356,Mattie DuBuque,12,2028,bdf2e61e-4a5f-48ef-8995-9095141bdd2c,,,,,,
+CREDIT_CARD,a6f01fb8-87f7-4f7d-87c9-927ab4fe68e7,,,,8302deec-1ef9-45b0-93fd-1e379a3767b2,,,,true,ACTIVE,,,**** **** **** 7923,Shelley Wuckert,6,2029,6e5bde2a-a45f-44a6-a845-6b541afe53cc,,,,,,
+CREDIT_CARD,f0dbfc9c-97f9-43ad-aa0f-ec10308b1ee1,,,,6f35028c-2e87-4d9f-9db2-b637bc028e63,,,,true,ACTIVE,,,**** **** **** 4512,Tim Walter,7,2025,29c153a0-b57b-4f15-a584-9977d16f6f71,,,,,,
+CREDIT_CARD,26bb06f9-562b-4f2b-b901-59f9350eb561,,,,c5386e89-5032-4933-8499-029c0e6d5930,,,,true,ACTIVE,,,**** **** **** 3339,Kristin Goldner DDS,8,2027,d32156bb-a8f3-4093-a052-bbd8d9508479,,,,,,
+CREDIT_CARD,efaa474e-790c-4bf5-9de0-5cf82d474651,,,,6527b50a-b5e5-4703-a275-4c1488f393e6,,,,false,ACTIVE,,,**** **** **** 7840,Emily Nikolaus-Carroll,3,2028,75a37560-714f-477e-b68f-824ad9183e17,,,,,,
+CREDIT_CARD,ff453a09-d3c4-47c6-8bfe-cba508c7404e,,,,3db3f2dc-cdaa-4811-b692-c085d8e8ae70,,,,false,ACTIVE,,,**** **** **** 1819,Sammy Marvin,3,2027,757d9d25-e385-4361-a5d8-bad6eb8e885f,,,,,,
+CREDIT_CARD,a7f0ef31-4ad3-4fc2-9840-246054c86ab3,,,,6527b50a-b5e5-4703-a275-4c1488f393e6,,,,false,ACTIVE,,,**** **** **** 8664,Nels Barrows,5,2026,b2c75aca-5a94-44a9-9938-291fe27d1084,,,,,,
+CREDIT_CARD,2b933268-4296-47a5-8e7e-23e73c414eab,,,,279973ec-6b39-43ac-a15b-c8aba50e1628,,,,false,ACTIVE,,,**** **** **** 0079,Zachery Lynch,6,2025,427bbebe-4e39-4b2f-a324-97eb6e8e89ff,,,,,,
+CREDIT_CARD,6c1e8bb2-1797-432c-be69-f7e950570434,,,,8302deec-1ef9-45b0-93fd-1e379a3767b2,,,,false,ACTIVE,,,**** **** **** 3904,Yessenia Hayes,9,2030,7c033f1c-e73b-4d55-9530-d8775c13fd8f,,,,,,
+CREDIT_CARD,1473fb2b-0391-4afa-953f-13461b0aa188,,,,41b8e739-0d84-4447-9dca-75291eab8cef,,,,false,ACTIVE,,,**** **** **** 2394,Luke Kassulke,11,2030,b4624747-205d-4334-850e-34abf01a72df,,,,,,
+CREDIT_CARD,6a92ffc8-2d4b-4982-b700-116f5fda2f60,,,,3567849f-f096-4e63-9361-373c3eade674,,,,false,ACTIVE,,,**** **** **** 5494,Alisha Herman II,1,2030,9aecbd4b-9db4-4cdd-8c1b-c43f634caa20,,,,,,
+CREDIT_CARD,d9814209-5f45-44de-ac8a-17df0c998e22,,,,977bec70-03a8-4ae0-8021-81b06ba55999,,,,false,ACTIVE,,,**** **** **** 4168,Sue O'Keefe,5,2026,14b4fbaf-1123-40a3-a486-cbcbb005946a,,,,,,
+CREDIT_CARD,dcd702a2-e5cd-4ca8-a317-1cd1990c6567,,,,00ad2a7a-e8b9-4f69-965f-afffe153b3ea,,,,true,ACTIVE,,,**** **** **** 2895,Miss Phyllis O'Conner,8,2029,a7c2538b-6c95-4944-9ca6-35605256718b,,,,,,
+CREDIT_CARD,03679833-d89b-4c7d-a778-9cb047a4cf36,,,,40ce3137-84cb-4a17-a171-4d7b30557f32,,,,true,ACTIVE,,,**** **** **** 8987,Terrell Schaefer,3,2028,1c23ac16-0946-4144-aff1-d31d86ad1a28,,,,,,
+CREDIT_CARD,a2f05fff-3cb8-481b-84bc-f394256b182b,,,,3567849f-f096-4e63-9361-373c3eade674,,,,false,ACTIVE,,,**** **** **** 7568,Idell Rath,7,2028,5990b460-03db-41d8-ac9f-aaa8792cad42,,,,,,
+CREDIT_CARD,dc7d7e0d-bba0-470e-bdb1-3360ba46bc19,,,,02111ccb-5219-43aa-8930-2b134daadd63,,,,true,ACTIVE,,,**** **** **** 1239,Theron Koepp,9,2029,6634fa3c-06f1-4a63-b3d3-c3226420f6a4,,,,,,
+CREDIT_CARD,f4314745-6d8d-4cef-8f89-460665ede0fa,,,,59df0ce8-2b45-4db3-a6cd-78839e5be208,,,,false,ACTIVE,,,**** **** **** 3102,Ivan Hermann,4,2030,a497b6ea-21fa-4e77-996c-5f2001595541,,,,,,
+CREDIT_CARD,c6b58532-8623-446f-a8fc-66cbd3c1c826,,,,d4adc923-0257-49b4-9aeb-fac84fa36478,,,,true,ACTIVE,,,**** **** **** 8676,Ray Towne,11,2029,b1158f75-0739-44a8-90b2-6297e9b5fe08,,,,,,
+CREDIT_CARD,8c9a4028-de74-4571-bb9c-97080ec65b5d,,,,70418e97-b2a2-44cd-89db-485f50c21214,,,,true,ACTIVE,,,**** **** **** 7942,Dallas Macejkovic,4,2027,4660ea86-1540-4116-9530-2f0cca96dc48,,,,,,
+CREDIT_CARD,cafa8e04-4aef-49f8-a50e-245ae5eedd4e,,,,fbee562a-babe-4cc7-892d-dd91ae6b6a77,,,,true,ACTIVE,,,**** **** **** 5748,Dr. Dexter Christiansen,10,2030,0ad049be-bc14-498b-8a1a-ed1945b6803c,,,,,,
+CREDIT_CARD,270d89cf-5669-4294-b82e-7093ccb640e0,,,,2ce44bf1-d5c8-4b6b-9c5b-9199790c1ac2,,,,true,ACTIVE,,,**** **** **** 5255,Jamil Bergnaum,9,2030,1cffbd23-700f-461b-9ff2-5ae5377e4985,,,,,,
+CREDIT_CARD,2a0f27f0-dbae-4441-834b-d474934a356d,,,,c045a1ae-2ca5-45e5-b079-58a72cb34f99,,,,true,ACTIVE,,,**** **** **** 1573,Laurence Ward,11,2026,0b3b8891-7851-45fe-b60e-3458cb1aaad4,,,,,,
+CREDIT_CARD,5c4efb77-86d4-4e9c-aa87-07eeaa325392,,,,9241662b-a620-4f27-ba35-4c1569a66650,,,,true,ACTIVE,,,**** **** **** 0553,Kamille Corwin,10,2030,e14568be-687f-44b0-b1d4-4e51ab2ddb46,,,,,,
+CREDIT_CARD,c7368fb9-5dd0-4676-b09d-169650bee094,,,,12c1bd0b-6d8e-436e-ad93-e3f078946dd8,,,,false,ACTIVE,,,**** **** **** 7283,Marilyn Raynor,5,2026,a205df3d-b71a-4909-ab4a-3cbd1891db80,,,,,,
+CREDIT_CARD,c609698b-b74b-4e3b-9e64-9a163b1bc5f8,,,,a1e67214-d689-4177-847d-15863c25e1aa,,,,true,ACTIVE,,,**** **** **** 1213,Laverne Kautzer II,1,2030,44d4ddee-4f47-4005-9d0a-3c43f172fa2b,,,,,,
+CREDIT_CARD,6beeb9f1-d14e-402d-b3d9-07e37814303d,,,,abd08ed6-a3d4-47e8-b033-955c6e5980c0,,,,false,ACTIVE,,,**** **** **** 8038,Walter Simonis-Murphy,1,2030,58282060-12e7-4a44-a1d1-c771ef129edc,,,,,,
+CREDIT_CARD,96e79196-b2d7-42e3-b0fc-144bcfda619d,,,,ad7f6057-2075-4b00-8371-69bcdcc383ea,,,,true,ACTIVE,,,**** **** **** 4718,Lesly Rice III,9,2028,6fbc80a0-69b9-40f2-ab5e-b80532ca32dc,,,,,,
+CREDIT_CARD,4068f2c4-8172-41e2-9a3d-c0a109eb6bb8,,,,bae67b26-fe5e-4c09-904e-9d97d1c37f84,,,,true,ACTIVE,,,**** **** **** 4374,Mariane Wolf,8,2026,2d743647-712f-47ed-80f0-3b7ab3d6fb43,,,,,,
+CREDIT_CARD,44568812-185e-48e0-b28d-8409425065ca,,,,60a41ee7-fcc5-4de2-b6c3-b1a4b601ec15,,,,false,ACTIVE,,,**** **** **** 2843,Ruthe Olson,10,2029,018e85ce-38b0-435f-acf1-4edf0b7f017d,,,,,,
+CREDIT_CARD,d3ee646b-ea3b-43f3-83ad-fc3b72f8afd9,,,,493d9bc5-c874-4e19-b039-89da493bbcc6,,,,true,ACTIVE,,,**** **** **** 1840,Arvel Kreiger-Kerluke,7,2028,9064947e-ef24-46d9-9103-a76a1ac1b126,,,,,,
+CREDIT_CARD,eecd57ed-689c-4984-9f0f-6ffbbee0d2c3,,,,70418e97-b2a2-44cd-89db-485f50c21214,,,,false,ACTIVE,,,**** **** **** 4271,Eula Rowe II,12,2026,67c10996-6e7b-4962-b4a0-041cd34eb831,,,,,,
+CREDIT_CARD,b5e13ec4-0cd8-4ce3-a3cc-9c277c018576,,,,9241662b-a620-4f27-ba35-4c1569a66650,,,,false,ACTIVE,,,**** **** **** 3742,Issac Berge,5,2025,98db3062-c7b9-44d9-880f-d4b147d1ffc2,,,,,,
+CREDIT_CARD,3bfcd176-cf25-4b49-a17d-a27fd8e18f98,,,,48d3f296-4e90-4421-a63f-4fc196d3d88c,,,,true,ACTIVE,,,**** **** **** 8434,Mr. Rodney Konopelski,4,2028,f8546a9d-3fc8-4b3e-ab63-6e1064e9a867,,,,,,
+CREDIT_CARD,052e126b-b0f0-4bec-ad7a-448444cfd93c,,,,34ada3b7-b32b-43bb-aa2f-843e0174fe4b,,,,false,ACTIVE,,,**** **** **** 9672,Ms. Bertha Gleichner,8,2030,b27dd136-809e-40ad-94f7-0e5221185cc4,,,,,,
+CREDIT_CARD,a66c1c50-dc48-4951-89bd-76a1b94c47fc,,,,b80822ff-e1fe-4456-8c60-96c854cc5836,,,,true,ACTIVE,,,**** **** **** 5610,Leonard Dietrich,1,2030,15028d2f-f4b6-446b-bb50-5c08892fa77f,,,,,,
+CREDIT_CARD,83e79931-7d38-4abc-9d35-37e6bffc37ef,,,,41b8e739-0d84-4447-9dca-75291eab8cef,,,,true,ACTIVE,,,**** **** **** 7435,Rocio Hoeger,1,2028,4b15d4c5-de91-46d8-b40b-85a5a1794dbd,,,,,,
+CREDIT_CARD,2b75c6aa-b056-4bbe-8fdc-f75a206e5d77,,,,6926c80a-ad8e-4b61-9fed-a94158156b46,,,,true,ACTIVE,,,**** **** **** 0164,Rosemary Hauck-Monahan,3,2027,dc87c083-52cb-4951-8fa3-a51bb1749062,,,,,,
+CREDIT_CARD,14d9b08b-9be6-48b5-88e8-9970bdeaf03f,,,,e22ee750-cacf-4fe8-acf8-11a392b29912,,,,false,ACTIVE,,,**** **** **** 8637,Antonio Nitzsche,12,2025,82cead1a-d861-4e5c-bde2-b2b9e59b2933,,,,,,
+CREDIT_CARD,d9427360-1146-4fb1-a2d8-421262e04116,,,,7548a144-6e10-4f2e-b395-2bd56a404be3,,,,false,ACTIVE,,,**** **** **** 4599,Kane Medhurst,4,2029,846351b1-b75d-4935-8b7b-7cf0594aee23,,,,,,
+CREDIT_CARD,443fe73c-a0f4-427d-b87c-da72c781bb94,,,,d9176286-8e21-4150-a660-51e470862f3e,,,,false,ACTIVE,,,**** **** **** 3718,Ms. Gordon Dare,11,2025,628939ac-027a-4014-8097-8ba16dc8bfcb,,,,,,
+CREDIT_CARD,81e71999-482b-4172-9ef6-12d464a73761,,,,d96ba137-329b-47d6-85ed-d5aa2342e6c4,,,,true,ACTIVE,,,**** **** **** 2002,Jenifer Blanda PhD,11,2026,221d2a97-74af-4f2f-9700-1e93f5fa6a9d,,,,,,
+CREDIT_CARD,17e1e73b-cdf5-4d34-abd1-5dd37f7ab6fa,,,,6894f1f2-f27d-4c0c-a219-7b972aa4acb3,,,,true,ACTIVE,,,**** **** **** 9952,Janet Douglas,8,2030,701a0d0d-3d5d-430f-94b3-c332d9e3e74e,,,,,,
+CREDIT_CARD,77ddcaa6-185f-45f6-a63e-4eb40aa49761,,,,4b12d2c9-7191-4e59-80cd-80656952c443,,,,true,ACTIVE,,,**** **** **** 1507,Marilyn Graham,11,2028,a943998e-6585-462d-9030-0b2f9c45f91e,,,,,,
+CREDIT_CARD,c2f4e223-3463-48f8-97b4-bdaca6ddc14c,,,,6f35028c-2e87-4d9f-9db2-b637bc028e63,,,,true,ACTIVE,,,**** **** **** 3161,Connie Hilpert,10,2030,9e6e9879-df77-45e6-88f3-2f44ccca42ed,,,,,,
+CREDIT_CARD,81374136-7ecb-4263-8a27-e785f35b0c7c,,,,6527b50a-b5e5-4703-a275-4c1488f393e6,,,,false,ACTIVE,,,**** **** **** 2414,Gennaro Bednar,6,2029,408542b5-5599-4e4d-92b0-b275756d2253,,,,,,
+CREDIT_CARD,80a6520d-7ebd-4de6-bcd2-362d70a25e1e,,,,8302deec-1ef9-45b0-93fd-1e379a3767b2,,,,false,ACTIVE,,,**** **** **** 5020,Enrique Bednar,9,2026,5f51aa69-d36f-4fc1-ba92-6027898a611e,,,,,,
+CREDIT_CARD,b5a1a1bb-b965-4da2-8d06-9fecda6f71f7,,,,f22f98b8-df76-4eb1-802f-a1a226d36f2a,,,,true,ACTIVE,,,**** **** **** 6302,Bobby Kohler,5,2025,f1d12e10-479c-42d7-8154-69030cc6ecf2,,,,,,
+CREDIT_CARD,b90db9e3-a426-401c-b028-462939b91223,,,,4e5e5ae5-9c98-46eb-8d64-e5fa5f3b93c6,,,,false,ACTIVE,,,**** **** **** 7254,Cory Jast,4,2026,ff0c9ae7-117e-4a47-8934-02880f110ffe,,,,,,
+CREDIT_CARD,4ba48f99-4f37-43cd-acf1-cdb74c21aa20,,,,70418e97-b2a2-44cd-89db-485f50c21214,,,,false,ACTIVE,,,**** **** **** 1716,Cheryl Gislason,3,2025,aa2b7b1b-91a7-42f5-8199-c8e71b6f0fa7,,,,,,
+CREDIT_CARD,fb578c34-b69b-4303-9ebc-94875a7ea7e3,,,,d4adc923-0257-49b4-9aeb-fac84fa36478,,,,false,ACTIVE,,,**** **** **** 9100,Dorothy Morar,3,2028,fea79d52-d2fd-4323-aeae-0a0edf1c840f,,,,,,
+CREDIT_CARD,5a93c81e-a8bd-4448-a397-3ad442176ed0,,,,c4eb9284-21bc-42c5-afc8-a61d5ebb164a,,,,true,ACTIVE,,,**** **** **** 8690,Felix Tromp DVM,9,2030,0cf22423-9041-4f93-9837-7f9034535a76,,,,,,
+CREDIT_CARD,1dd0161c-3123-4b90-b2a7-688dcde5e13d,,,,aada9783-d686-45e1-a26d-460119fb63b6,,,,false,ACTIVE,,,**** **** **** 2126,Juanita King,3,2026,e49f7f4c-53a4-4434-8ad1-75cb7e61f5af,,,,,,
+CREDIT_CARD,4985b03b-e019-4ce1-ae0e-f327f6463545,,,,894e4f40-c67e-4285-95bf-72d0e7f5cff0,,,,false,ACTIVE,,,**** **** **** 9654,Ira Berge-Roob,9,2027,10a15d50-e403-4526-8030-2543c41c7ac9,,,,,,
+CREDIT_CARD,e09135cc-d35a-4493-a505-b50fc0bcbc51,,,,493d9bc5-c874-4e19-b039-89da493bbcc6,,,,true,ACTIVE,,,**** **** **** 0265,Lois Bins,9,2028,153737a5-0e6c-4307-af60-7cb1cea194d5,,,,,,
+CREDIT_CARD,2850a130-946a-4837-a86e-b2c6fbeca107,,,,6926c80a-ad8e-4b61-9fed-a94158156b46,,,,false,ACTIVE,,,**** **** **** 4922,Cathy McKenzie-Schuster,6,2028,8adea1f9-108c-4666-a77b-6fac2174ba7d,,,,,,
+CREDIT_CARD,cbec5202-9f86-4adf-8fb9-e540f5facead,,,,b79fec52-e4b1-41d6-a05c-965f559fd32e,,,,true,ACTIVE,,,**** **** **** 4131,Darren Price-Gottlieb,7,2028,42e069ee-e512-402d-8f97-db7e1680dbc5,,,,,,
+BANK_ACCOUNT,10ccdc25-b02f-4e6d-81f4-7189d9ae2ac0,,,,c8336c63-4c04-414c-b228-085c389e8d6b,,,,false,ACTIVE,,,,,,,,RO62YGYN387O5U9C1682J3B4,"Brekke, Kessler and Bechtelar",AKCGVAHM3ZB,,,
+BANK_ACCOUNT,9910d222-8559-4029-8e1d-1b53a8c627e0,,,,2c01a5ad-cb84-47dc-a159-513c54fecfae,,,,true,ACTIVE,,,,,,,,DE08552900220606070073,Mueller Inc,TGTNBGRZ,,,
+BANK_ACCOUNT,c0e1672f-1669-4b76-a1dd-51fd8e4a847d,,,,41b8e739-0d84-4447-9dca-75291eab8cef,,,,false,ACTIVE,,,,,,,,GL7390160020021261,Kuvalis - Sanford,ODLYADZUXXX,,,
+BANK_ACCOUNT,edc00d16-7207-4d74-8258-4b52b5ca9ea8,,,,6527b50a-b5e5-4703-a275-4c1488f393e6,,,,false,ACTIVE,,,,,,,,PS17CRFE501219899007042039841,"Christiansen, Kutch and Raynor",JWVWPS66,,,
+BANK_ACCOUNT,bb9f6ad2-cf0a-4962-ae0a-c80fdf0957d0,,,,d9176286-8e21-4150-a660-51e470862f3e,,,,false,ACTIVE,,,,,,,,PK66GIWF3105099320158512,Goyette - Ward,VHXXBMYM2V1,,,
+BANK_ACCOUNT,b15c7296-7b74-49b0-8dba-8dea25a3f7ec,,,,54360f3e-8f62-49d6-bb52-e11e89eabbe2,,,,true,ACTIVE,,,,,,,,CZ7870630930068581000461,"Gorczany, Mueller and Beier",ZZWXKNL2XXX,,,
+BANK_ACCOUNT,9a02d9c3-51e8-4571-9b86-d3da3f8ce9fa,,,,3f8c22fa-c4db-4b00-a2cc-a6268544b7f7,,,,true,ACTIVE,,,,,,,,JO36EXKC3941001300500790023926,Nienow Inc,CXCWNIDDF8G,,,
+BANK_ACCOUNT,85f3a4a2-bda0-4ccf-af3b-22cb01473115,,,,16b78ac7-e738-429a-b4a5-0c5798f067ba,,,,false,ACTIVE,,,,,,,,XK383576260330020331,"Schulist, Barrows and Rau",DVLIILJWXXX,,,
+BANK_ACCOUNT,c65c68f4-8136-4f21-afcf-358b303dc0bb,,,,36709e1b-a318-4112-8bad-e023c6a22e80,,,,false,ACTIVE,,,,,,,,LT490316102070740086,"Robel, Schumm and Kerluke",MXRHYTCD,,,
+BANK_ACCOUNT,fa456098-adf2-4c98-8b47-7390d9936c76,,,,2ce44bf1-d5c8-4b6b-9c5b-9199790c1ac2,,,,false,ACTIVE,,,,,,,,BA174940027003047472,"Wolf, Schinner and Wehner",LXEJES24,,,
+BANK_ACCOUNT,4096350b-2852-43ef-a5b9-9cabd1b3ae72,,,,e22ee750-cacf-4fe8-acf8-11a392b29912,,,,false,ACTIVE,,,,,,,,IT45E75007590069N2459854020,Bayer and Sons,IIPABH80XXX,,,
+BANK_ACCOUNT,4ac6e29c-e64e-44c2-909c-6c8c3c729ba2,,,,94117c37-1bb0-4109-abdc-502e9af34ca9,,,,false,ACTIVE,,,,,,,,MR3417240044589005080023563,Haag - Hagenes,QVIVMUTS,,,
+BANK_ACCOUNT,164b78a9-f3ee-457c-b724-08b8752d4ad4,,,,3090edb9-f23f-4271-ab13-a07fc5e80c48,,,,false,ACTIVE,,,,,,,,CR47856640152038096081,Beier - Volkman,KQHFLTSRZGM,,,
+BANK_ACCOUNT,257e0574-2d64-4067-91f2-a92c2ca2c8a5,,,,c045a1ae-2ca5-45e5-b079-58a72cb34f99,,,,false,ACTIVE,,,,,,,,MU20QCXZ0054459224090387906THG,Schultz - Boehm,OMCJTK8R,,,
+BANK_ACCOUNT,8d1944ac-8aec-4f0e-af2a-25bf7b6bd354,,,,9374d689-7fa1-4eab-9445-213fb7427250,,,,true,ACTIVE,,,,,,,,GI29WZIK0O8806000K26979,Koepp LLC,KEMNSJUB,,,
+BANK_ACCOUNT,dadbf397-ae94-462f-8618-c2836de79bb9,,,,ad7f6057-2075-4b00-8371-69bcdcc383ea,,,,false,ACTIVE,,,,,,,,SE5140250500100609050070,Ankunding LLC,MWCEDE6Z,,,
+BANK_ACCOUNT,f760b7d7-1c00-4638-962a-4f6bcdd0f18b,,,,c8aadc84-83bb-44f8-90aa-7fdb824e646c,,,,true,ACTIVE,,,,,,,,CR62306689008771667077,Towne - Mitchell,OMIINIM7,,,
+BANK_ACCOUNT,bf23298b-9a01-4acc-9911-bec0cec59185,,,,2ce44bf1-d5c8-4b6b-9c5b-9199790c1ac2,,,,false,ACTIVE,,,,,,,,SM57M50201619219FX391116282,Dare Inc,YWYJFR9G,,,
+BANK_ACCOUNT,da2dc2b3-6a19-4daf-8e3a-caf8a55be335,,,,c045a1ae-2ca5-45e5-b079-58a72cb34f99,,,,false,ACTIVE,,,,,,,,CZ5500709200710200290021,Crist Group,EYSSPHH52LN,,,
+BANK_ACCOUNT,a53fd0e2-cca9-4f93-b5be-125b32108ff3,,,,9241662b-a620-4f27-ba35-4c1569a66650,,,,false,ACTIVE,,,,,,,,AD152605130542293M0N3642,Bartoletti - Weimann,XQTRGBH2XXX,,,
+BANK_ACCOUNT,40ac1ae6-a7eb-49c7-986b-8304331a1bf1,,,,f22f98b8-df76-4eb1-802f-a1a226d36f2a,,,,true,ACTIVE,,,,,,,,CH89187863Z28L90E9632,Feeney and Sons,XFTPVUHPRAA,,,
+BANK_ACCOUNT,9c3eba94-4de2-42a9-abe4-11126484a4a2,,,,34ada3b7-b32b-43bb-aa2f-843e0174fe4b,,,,false,ACTIVE,,,,,,,,IS453246052811383040600658,Langosh - Fritsch,RDCCCXIFXXX,,,
+BANK_ACCOUNT,a58db60d-dc24-46df-ab96-f7ef1fe146fd,,,,b80822ff-e1fe-4456-8c60-96c854cc5836,,,,true,ACTIVE,,,,,,,,MC28940406005511393S91W0264,Mayert - Schowalter,IHADLAZUXXX,,,
+BANK_ACCOUNT,1b060630-8d0f-45ac-b6d8-95460d35d82b,,,,c5386e89-5032-4933-8499-029c0e6d5930,,,,false,ACTIVE,,,,,,,,TR299008638250011875803549,Green - Casper,SNUMBMBJXXX,,,
+BANK_ACCOUNT,447f484a-f64a-4b70-98e7-96ed526c41bb,,,,d4adc923-0257-49b4-9aeb-fac84fa36478,,,,true,ACTIVE,,,,,,,,MR7491806008229006500727915,"Paucek, Tillman and Funk",HBWZPMC2T01,,,
+BANK_ACCOUNT,cbb34e31-f6a5-42a2-84b3-3cd33e422107,,,,2c01a5ad-cb84-47dc-a159-513c54fecfae,,,,true,ACTIVE,,,,,,,,CY2010552050793PV70B2004T595,"Dooley, Gleason and Mertz",KBVBTKXDYSN,,,
+BANK_ACCOUNT,175d3aa3-6219-4ec9-b6b0-566ca4939095,,,,bd485b6c-840a-455a-962f-f34e95accc71,,,,false,ACTIVE,,,,,,,,SI02801609370066221,Homenick - Barton,KXITNUZD,,,
+BANK_ACCOUNT,3b4f8899-713a-48c7-8fc8-b77779430145,,,,d683d6b8-b03e-4aee-83c3-d606ce6a1895,,,,true,ACTIVE,,,,,,,,HR3780100349005030023,"Hills, Stark and Strosin",WIDGVNUK,,,
+BANK_ACCOUNT,bb1dd88f-56bf-4a2d-a027-4bc9fdefac4e,,,,41b8e739-0d84-4447-9dca-75291eab8cef,,,,true,ACTIVE,,,,,,,,AT652564400588705748,Jakubowski - Gleason,RMSHVI10XXX,,,
+BANK_ACCOUNT,ecb9bfa0-70b1-4633-829e-644653e4d483,,,,da8d9b3c-eaa0-420d-a494-3293bb99693b,,,,false,ACTIVE,,,,,,,,SE3902084306008049053099,"Green, VonRueden and Harris",VWPZMLD1YYU,,,
+BANK_ACCOUNT,1d020642-5464-4ef8-9b85-575cd3c88c65,,,,70418e97-b2a2-44cd-89db-485f50c21214,,,,false,ACTIVE,,,,,,,,PL54140071646010800305833891,Dietrich and Sons,LSERECM6O1Q,,,
+BANK_ACCOUNT,dae2c879-868e-4993-8994-e637e53eaaa6,,,,8302deec-1ef9-45b0-93fd-1e379a3767b2,,,,false,ACTIVE,,,,,,,,BA178201424502738017,Schultz Group,TRKZYERY,,,
+BANK_ACCOUNT,dce2086e-9fbd-4c37-872e-3e5a389f770d,,,,54360f3e-8f62-49d6-bb52-e11e89eabbe2,,,,true,ACTIVE,,,,,,,,SE9600501226210200023243,Windler Inc,SJWKKEWVXXX,,,
+BANK_ACCOUNT,3b626417-78ca-4ae0-b8be-abb3791cbbec,,,,dac7c25c-1989-474e-99a0-725d4a36ea40,,,,false,ACTIVE,,,,,,,,SK0808204704500102509472,Weber Inc,UMDGSX7TXXX,,,
+BANK_ACCOUNT,65c3c5f6-badb-4306-a617-fc92a59e31e2,,,,2c01a5ad-cb84-47dc-a159-513c54fecfae,,,,true,ACTIVE,,,,,,,,PS13WJYB000300908008020010016,"Conn, Stamm and Toy",CCKHMXBMKHE,,,
+BANK_ACCOUNT,eb5e09fa-3e6c-4479-b59c-20c5f03f0d7d,,,,ed51e34b-5159-4cc0-b3b0-b7b2913776bd,,,,false,ACTIVE,,,,,,,,PT11639075092210772100515,Gerhold - Green,UNAXAF0E,,,
+BANK_ACCOUNT,3d05c916-d767-4543-97a0-af040429b279,,,,59df0ce8-2b45-4db3-a6cd-78839e5be208,,,,true,ACTIVE,,,,,,,,SE1801740004301375890957,Lowe and Sons,BGSLNG83,,,
+BANK_ACCOUNT,3c1d2831-de29-429f-8720-c628164dbc05,,,,4b12d2c9-7191-4e59-80cd-80656952c443,,,,true,ACTIVE,,,,,,,,LI8510635684644956A60,"Purdy, Quigley and Boyle",DWDHCDVA,,,
+BANK_ACCOUNT,93b2ae18-a206-4306-be36-85b3ce2dbdf0,,,,41b8e739-0d84-4447-9dca-75291eab8cef,,,,false,ACTIVE,,,,,,,,IR600700179006109046871695,Kozey LLC,MEFHWSY0,,,
+BANK_ACCOUNT,999b3dc9-86a5-494c-9406-ec326f8ca667,,,,3567849f-f096-4e63-9361-373c3eade674,,,,false,ACTIVE,,,,,,,,ES8009600781790031045653,"Maggio, Thompson and Weissnat",RVZMVU0P4OY,,,
+BANK_ACCOUNT,8a3b4b1d-55ba-48b7-a7bd-d0f28c2fc877,,,,2e7024d5-f4e3-431a-a114-8941f776a507,,,,false,ACTIVE,,,,,,,,BH95SASI58C031U13U937G,Heidenreich - Daugherty,LMERYTX0,,,
+BANK_ACCOUNT,1ce2b6cd-4db7-4a76-9e0b-6753c281e3de,,,,b000dfc4-a666-4f2f-a2b3-04404a6e968d,,,,false,ACTIVE,,,,,,,,GB43MRWH00405620500302,Kassulke LLC,AZKGFKXJ,,,
+BANK_ACCOUNT,3aef5304-0762-4e32-abf8-c5a7715ad88b,,,,6f35028c-2e87-4d9f-9db2-b637bc028e63,,,,false,ACTIVE,,,,,,,,SE6389240150289240074449,"Macejkovic, O'Connell and Thiel",CVRODZ02,,,
+BANK_ACCOUNT,0c233edf-6477-44be-8df6-adb66061bbd2,,,,493d9bc5-c874-4e19-b039-89da493bbcc6,,,,false,ACTIVE,,,,,,,,CZ3070007907880015029533,Stanton LLC,HNZLNGULGEK,,,
+BANK_ACCOUNT,4d634a68-5e74-4111-af38-b3adac3645e4,,,,1de759aa-eca6-47e0-ad28-17eeea5a6896,,,,false,ACTIVE,,,,,,,,PT10969069156005095990441,Fahey Group,ZYRPBJ63XXX,,,
+BANK_ACCOUNT,d95b69a2-fe62-486e-8a99-21c89ccedc92,,,,80113621-0acd-451c-9471-2a2441cf3dfa,,,,false,ACTIVE,,,,,,,,LV78KFPCJ205BU1F4VD2C,Schumm and Sons,QDNKETE3V55,,,
+BANK_ACCOUNT,9b4e2ab7-3c4b-4117-915f-649adc2e48d1,,,,977bec70-03a8-4ae0-8021-81b06ba55999,,,,false,ACTIVE,,,,,,,,LV24FEXML247939A08819,"Brakus, Bauch and Pfannerstill",YHSVAD01,,,
+BANK_ACCOUNT,15868888-02d7-4d43-9f31-d0cef768e39e,,,,f22f98b8-df76-4eb1-802f-a1a226d36f2a,,,,true,ACTIVE,,,,,,,,BG86AWIX8001240460WF83,"Bruen, Herman and Harvey",JFPYAIRUZCT,,,
+BANK_ACCOUNT,52da61e9-485a-4c92-b87d-9df7c6b683fa,,,,79910e9d-c39f-4c62-a250-7963806cc0df,,,,false,ACTIVE,,,,,,,,BA660203744205008780,Crooks Group,WASFZMRA,,,
+BANK_ACCOUNT,1c933776-08a5-4596-bb06-22363e583e73,,,,3a842261-5660-469c-a7ee-8a72b39b7db2,,,,false,ACTIVE,,,,,,,,IT91Z050240040315287J657194,Nienow - Greenholt,TQVXYT9EXXX,,,
+BANK_ACCOUNT,278f5826-91c0-42e2-8238-9373d068dde8,,,,977bec70-03a8-4ae0-8021-81b06ba55999,,,,true,ACTIVE,,,,,,,,BE60801005277006,"Hilll, Ziemann and Durgan",JIKHLYJB,,,
+BANK_ACCOUNT,ad3a64df-7ec3-4c92-8c8e-4a21c8758728,,,,20e5a2f2-7482-4676-9660-4692f0c1e002,,,,true,ACTIVE,,,,,,,,XK982367529500399063,Abbott LLC,HEWJSKI6XXX,,,
+BANK_ACCOUNT,fcd3f417-f175-4bb7-9531-ba110321463a,,,,81d6d99d-c9ad-4542-a90f-a276d7df721c,,,,true,ACTIVE,,,,,,,,DO08RQKZ62200213006337600821,Paucek Inc,EURLGTJE,,,
+BANK_ACCOUNT,6d1a7cdb-cd78-4d78-b829-9b4aa56401e5,,,,ea354d34-66e9-44b8-9327-069900291e49,,,,false,ACTIVE,,,,,,,,GB73QFMN09100500099034,Boyle and Sons,FEBUAXE9,,,
+BANK_ACCOUNT,12f960bf-1244-4ab3-beef-00c5ded908e8,,,,6f35028c-2e87-4d9f-9db2-b637bc028e63,,,,false,ACTIVE,,,,,,,,PS21GWDA000400517007746884006,Konopelski Inc,NDUTSI25,,,
+BANK_ACCOUNT,89dfbdd0-6fe7-490b-a000-3fc94061cb17,,,,977bec70-03a8-4ae0-8021-81b06ba55999,,,,false,ACTIVE,,,,,,,,LV85MCDR5160J049M5478,"Lemke, Batz and Rohan",WDOXMWOEXXX,,,
+BANK_ACCOUNT,84970a87-e2b1-4981-87d7-e5bd9547ca1a,,,,6894f1f2-f27d-4c0c-a219-7b972aa4acb3,,,,true,ACTIVE,,,,,,,,FR920888100872727X1Q6V86764,Zulauf LLC,WZYPECL5XXX,,,
+BANK_ACCOUNT,b79f4125-a769-4ace-b941-8b4d60f29531,,,,c45553cf-e04b-4233-a3a5-26350675fcae,,,,false,ACTIVE,,,,,,,,DK0904620050950054,Lindgren and Sons,MWHSRUH0,,,
+BANK_ACCOUNT,e0ac02d4-0846-41c2-8f60-944c06b5075d,,,,496d1ece-6fb4-44e4-9ab1-9a72fc89d367,,,,false,ACTIVE,,,,,,,,IT38I69964879592P642859M940,Smith Group,VBOMGPQE,,,
+BANK_ACCOUNT,1468278d-7ae3-4d48-9f36-0fde482293ee,,,,abd08ed6-a3d4-47e8-b033-955c6e5980c0,,,,true,ACTIVE,,,,,,,,CZ8908028001205007590584,Friesen Group,SYWCTV6SO5T,,,
+BANK_ACCOUNT,af36f6f7-aff3-44ac-aeae-ef278080d313,,,,ed51e34b-5159-4cc0-b3b0-b7b2913776bd,,,,true,ACTIVE,,,,,,,,SI21663421025007006,Franecki LLC,ERBSHN2RX8P,,,
+BANK_ACCOUNT,8d24d973-87c5-40dc-92f8-1877848a0350,,,,48d3f296-4e90-4421-a63f-4fc196d3d88c,,,,true,ACTIVE,,,,,,,,RS30071047570090263542,"Donnelly, Bernier and Balistreri",NCVCCRKL,,,
+BANK_ACCOUNT,5988c66c-74d2-42ac-b716-6a8e39be2534,,,,577801fc-a2ec-4215-ac2f-9ff2e251150e,,,,false,ACTIVE,,,,,,,,LU025759626S11408EE0,Okuneva - VonRueden,CHPUTRHD,,,
+BANK_ACCOUNT,68b62622-ee32-4db4-b2ef-8ea029711064,,,,b953fc2c-0c1a-4e1a-80e0-ff5ed8231963,,,,true,ACTIVE,,,,,,,,NL92LEFI0010900095,"Dach, Lebsack and Jacobi",HGBOSLYS,,,
+BANK_ACCOUNT,7899922a-8a98-4f6b-bf0f-72e53455f9e2,,,,b5cfa3a3-dd2d-4d75-a0a5-bc8155666f0a,,,,true,ACTIVE,,,,,,,,AL5902293003R809DS191432F0W8,"Price, Ernser and Shields",UATWDZSK,,,
+BANK_ACCOUNT,3bad417f-1767-44e0-8370-76c7c82e726a,,,,4b12d2c9-7191-4e59-80cd-80656952c443,,,,false,ACTIVE,,,,,,,,SK1040442097855900598730,Jaskolski Inc,UIGXBGVL,,,
+BANK_ACCOUNT,dc6d475d-da52-4b95-ad4e-de8728ad0b12,,,,e162080b-afdb-41b4-8f4f-66c0078d8d9e,,,,false,ACTIVE,,,,,,,,LI5060873676E81T47257,Gleason - Torp,VDKVPNY472Z,,,
+BANK_ACCOUNT,eedd983c-419d-4720-a0d1-e1a6b28b4128,,,,48d3f296-4e90-4421-a63f-4fc196d3d88c,,,,false,ACTIVE,,,,,,,,GL5709968714149042,Turner - Walker,KVASCITM6DU,,,
+BANK_ACCOUNT,42c7cbe6-3a4e-4cc9-9631-f2cd88a99d0b,,,,d96ba137-329b-47d6-85ed-d5aa2342e6c4,,,,false,ACTIVE,,,,,,,,BE19005410185330,Corkery LLC,ZWKFQAK9,,,
+BANK_ACCOUNT,bbf1fac2-d903-4845-8a3f-617aea92c938,,,,59df0ce8-2b45-4db3-a6cd-78839e5be208,,,,false,ACTIVE,,,,,,,,LB562254X8717CI4793P91D6I001,"Kulas, Hilll and Abernathy",DUODSGCVXXX,,,
+BANK_ACCOUNT,d14f1fe3-3349-41d1-bbb6-e465f7486a7c,,,,502eb4ff-4399-42cd-9bf9-34e472c4329c,,,,true,ACTIVE,,,,,,,,GI26MZIE76J67K8M3670146,McLaughlin - Rogahn,IMZGGLG6XXX,,,
+BANK_ACCOUNT,ec1228c6-b07c-4bd0-8f38-d0d98eaf88cc,,,,3f8c22fa-c4db-4b00-a2cc-a6268544b7f7,,,,true,ACTIVE,,,,,,,,MU70ZUDM7155103105507802009UOG,"Von, Borer and Auer",MLJFCFGNT06,,,
+BANK_ACCOUNT,cb1bb4ec-3a40-4b8a-98b5-b1d14349b4b6,,,,70418e97-b2a2-44cd-89db-485f50c21214,,,,false,ACTIVE,,,,,,,,NO7400979003121,Corwin and Sons,FTUZMUKL,,,
+BANK_ACCOUNT,2148f3fa-66db-4ef9-a62a-1afef7c075f8,,,,a1e67214-d689-4177-847d-15863c25e1aa,,,,true,ACTIVE,,,,,,,,FR3461001410040CI086OI33V61,Kunze - Fisher,RKSGMSZDXXX,,,
+BANK_ACCOUNT,6a5748b5-b2f2-4a68-b1f3-cdcad3c02e58,,,,6527b50a-b5e5-4703-a275-4c1488f393e6,,,,false,ACTIVE,,,,,,,,JO58CVUO0050086650320700460042,"Stracke, Hoeger and Blanda",MEESUG9S,,,
+BANK_ACCOUNT,b3bf19f3-9fd4-4eb4-acb6-d71c21863177,,,,3db3f2dc-cdaa-4811-b692-c085d8e8ae70,,,,false,ACTIVE,,,,,,,,XK450278023006690888,Roob - DuBuque,OJEJGMDRXXX,,,
+BANK_ACCOUNT,a7b1cd52-7f6e-4da8-95b2-5fd65ad977c1,,,,ea354d34-66e9-44b8-9327-069900291e49,,,,false,ACTIVE,,,,,,,,AZ66SSUA11033356891465461162,Boehm - Brown,RHJSVAA8,,,
+BANK_ACCOUNT,f2cce0fb-ecf6-437c-bc94-569260e37fce,,,,d683d6b8-b03e-4aee-83c3-d606ce6a1895,,,,true,ACTIVE,,,,,,,,MD438302X0DG57667H967856,Jenkins - Predovic,CFLDES6WXXX,,,
+BANK_ACCOUNT,a6ed9b3f-e7f7-4432-8979-cb5d93cf1a52,,,,94117c37-1bb0-4109-abdc-502e9af34ca9,,,,true,ACTIVE,,,,,,,,MK172439556E966I832,"Marks, Toy and Kreiger",UGVOCY73,,,
+BANK_ACCOUNT,bab2e72d-4da3-4615-9bb4-a847b82d1acf,,,,3f7190b7-0ca4-4e04-9cf0-9aa0f61e1191,,,,false,ACTIVE,,,,,,,,IT61Y9017007003BS63U909443P,"Kautzer, Stamm and Boehm",GJVCMGSWXXX,,,
+BANK_ACCOUNT,c2ea6a13-6c3d-48d8-827e-dfc706f4411a,,,,bcbf2565-bcf5-4a9c-a6ec-356a8dccbac3,,,,false,ACTIVE,,,,,,,,TN9703792429602770036889,Breitenberg Group,RGUPKG6VXXX,,,
+BANK_ACCOUNT,5105fda1-a780-4aad-8c82-1b82217da188,,,,70418e97-b2a2-44cd-89db-485f50c21214,,,,false,ACTIVE,,,,,,,,FI3300952708062005,Boehm Inc,BWRJLSVK,,,
+BANK_ACCOUNT,38f76f0a-f14d-434e-9023-0860ca06dd00,,,,6926c80a-ad8e-4b61-9fed-a94158156b46,,,,true,ACTIVE,,,,,,,,AT550308020050111108,Gutmann - DuBuque,SISJDO14,,,
+BANK_ACCOUNT,950389e4-1501-4246-8476-b25a9d8721ba,,,,03c9c5dc-882c-4fdb-9ef5-19c87a3b5f51,,,,false,ACTIVE,,,,,,,,BR6420032009689196097806050R9,MacGyver Group,IDEYNR0362V,,,
+BANK_ACCOUNT,5f52376e-1f6c-44c6-8bd6-5ad25241fc27,,,,ea354d34-66e9-44b8-9327-069900291e49,,,,false,ACTIVE,,,,,,,,AE037920028120500190046,Reilly Group,JHMXMHKYNYW,,,
+BANK_ACCOUNT,a0823a77-ab6e-4d41-b394-fe280d557cbc,,,,95c3e2a6-736d-42ea-8106-f390e6cfd4c5,,,,false,ACTIVE,,,,,,,,XK923163170630243034,Sipes - Beer,YEZQPG0NXXX,,,
+BANK_ACCOUNT,65550464-9912-4293-8ea2-9ff324e3fff8,,,,d96ba137-329b-47d6-85ed-d5aa2342e6c4,,,,true,ACTIVE,,,,,,,,GL4618600614366344,Goodwin and Sons,NFJPCAOP,,,
+BANK_ACCOUNT,f58f1820-23b4-442f-8122-a1c30d0ae815,,,,2b31880b-cc45-4e78-929c-6fbb53d062f3,,,,false,ACTIVE,,,,,,,,GL9141520095423021,Will - White,PJYZEHKBVRU,,,
+BANK_ACCOUNT,7baf121b-e4fd-4603-9f1d-3d65fb01de6f,,,,b80822ff-e1fe-4456-8c60-96c854cc5836,,,,true,ACTIVE,,,,,,,,GT75C52857RW3259928O840171XT,Connelly - Runte,AUNENGLHXXX,,,
+BANK_ACCOUNT,a3a4a6f8-d9d2-44fb-95ee-daf51f985ced,,,,052bb836-c75d-49ad-bed4-b83730e084f2,,,,false,ACTIVE,,,,,,,,SI82090215006384000,"Mraz, Gibson and Kris",MPOJCGL7XXX,,,
+BANK_ACCOUNT,30b7eb68-11f3-4015-a430-6794413f810d,,,,e162080b-afdb-41b4-8f4f-66c0078d8d9e,,,,true,ACTIVE,,,,,,,,KZ89483964628336H074,Mertz Group,BAVBLRVTXXX,,,
+BANK_ACCOUNT,450a5160-ad75-489e-8804-9a5b5ba5f27a,,,,5e741891-20b4-451e-ad71-51585a5dc09a,,,,false,ACTIVE,,,,,,,,PT07538007499309200900346,Bins Group,PPGBTWRD,,,
+BANK_ACCOUNT,28ac7cc3-4697-461d-96f8-a3a959d95854,,,,5faba26e-60f0-4319-9e8d-e8548877c0d9,,,,false,ACTIVE,,,,,,,,NO4600680001222,"Murphy, Shields and Moore",MZRUSLBZ,,,
+BANK_ACCOUNT,f2958f82-6597-465b-8f6d-1a780f443cf9,,,,977bec70-03a8-4ae0-8021-81b06ba55999,,,,false,ACTIVE,,,,,,,,GL6450767085267489,Huel - Konopelski,SGVFHM8E,,,
+BANK_ACCOUNT,390c755c-985c-4e92-b678-1f51b6bc7456,,,,da9991e3-27f3-4f10-9581-36f8e0b2de36,,,,false,ACTIVE,,,,,,,,FR9366300400859M60884099767,Barrows - Torp,LGSHCNR7XXX,,,
+BANK_ACCOUNT,20b050d0-10e0-44f6-8e18-fcd07199065d,,,,b79fec52-e4b1-41d6-a05c-965f559fd32e,,,,false,ACTIVE,,,,,,,,GI28UJSN590FS8357479723,Kozey Group,TMCBBJIM,,,
+BANK_ACCOUNT,5a1c255c-9f52-4548-ae9a-14b39713e67b,,,,ea354d34-66e9-44b8-9327-069900291e49,,,,false,ACTIVE,,,,,,,,PL24145007022204700700583461,Heller and Sons,LVFKBWNZ21P,,,
+BANK_ACCOUNT,fa9b9913-3df3-43e8-a7e3-2067ccf1e13c,,,,d4adc923-0257-49b4-9aeb-fac84fa36478,,,,true,ACTIVE,,,,,,,,SK3311474107170151020894,"Labadie, Larson and Adams",IVOWPYY8XXX,,,
+BANK_ACCOUNT,017457b8-275c-40ce-ba82-aee0f88fe75e,,,,ed51e34b-5159-4cc0-b3b0-b7b2913776bd,,,,false,ACTIVE,,,,,,,,PK30XBHT0210602010104350,Bashirian - Franey,GCKLESSBXXX,,,
+BANK_ACCOUNT,5f25ca6b-6ff9-4319-9e91-201442822504,,,,d9176286-8e21-4150-a660-51e470862f3e,,,,true,ACTIVE,,,,,,,,SM29F800500752977518171L314,"Stracke, Lang and Reichert",GLHWTMWJCC2,,,
+TRANSACTION,35d7e1f8-06f1-4e65-948c-2d94b51e94cf,,,,,,,,,PENDING,,,,,,,,,,,00c94e28-d1aa-4829-b1f0-f4693d33f84f,9e44379d-6ec3-432a-94fa-5d8d04cbd783,1557.35
+TRANSACTION,16ca957d-64ff-456a-a20c-1c78463cf222,,,,,,,,,COMPLETED,,,,,,,,,,,cd337a17-23c7-45fa-8665-23aa6cd48045,715f6d36-f15e-4371-9a95-b13981a04243,1546.28
+TRANSACTION,0b8dc0c1-b465-4b83-8770-91139e110dff,,,,,,,,,FAILED,,,,,,,,,,,bbe3d613-10c8-4f51-99c4-52caf754605f,e04d2578-e118-4d44-8cdb-ccdf3d37532f,1394.92
+TRANSACTION,b22a38ce-5f06-485b-89a3-f137a3913e0a,,,,,,,,,COMPLETED,,,,,,,,,,,b82e28cf-21d8-497b-b07d-dd25a552a771,1d020642-5464-4ef8-9b85-575cd3c88c65,2485.75
+TRANSACTION,158a9cc0-434a-4bfd-b29f-f5b8cc2bd44d,,,,,,,,,REFUNDED,,,,,,,,,,,39aaf488-28c2-47f6-92b6-518a970b5286,1c933776-08a5-4596-bb06-22363e583e73,4314.45
+TRANSACTION,da61a2a2-ad9a-4d52-99b1-bba92bf05905,,,,,,,,,FAILED,,,,,,,,,,,a11b6fee-deca-491f-b1cb-f5654313fab1,aa49dc2b-730b-430e-b945-4aa1510325ae,2052.05
+TRANSACTION,e8770a8b-2672-421e-91bb-c50e6a1b34a3,,,,,,,,,FAILED,,,,,,,,,,,345d3013-81ad-42ab-8165-b968273e67d7,ec1228c6-b07c-4bd0-8f38-d0d98eaf88cc,4851.96
+TRANSACTION,513405ef-ca33-4013-8c00-f42a68e5d418,,,,,,,,,FAILED,,,,,,,,,,,e282ce93-1fa5-4200-83b3-9434177990d9,9e44379d-6ec3-432a-94fa-5d8d04cbd783,744.01
+TRANSACTION,d20ae7a2-7ebb-45ec-b8e4-3e9cacf530cb,,,,,,,,,FAILED,,,,,,,,,,,5604573c-bd91-4f8b-aa69-f9c2fbb72b0b,450a5160-ad75-489e-8804-9a5b5ba5f27a,3311.90
+TRANSACTION,7197a18a-8954-41b2-a97e-81b926c44eb7,,,,,,,,,FAILED,,,,,,,,,,,c33e9da1-fbab-462e-ba26-ba1f932465c2,b3bf19f3-9fd4-4eb4-acb6-d71c21863177,3703.08
+TRANSACTION,8c24f62f-7da7-4a04-9c0f-8460b324344c,,,,,,,,,COMPLETED,,,,,,,,,,,c33e9da1-fbab-462e-ba26-ba1f932465c2,2ac968a8-5439-445a-a5df-9608d39d0ed6,112.26
+TRANSACTION,815accbd-b0ed-47fb-96f7-e9e05db0306a,,,,,,,,,REFUNDED,,,,,,,,,,,ee34c2fa-b0e1-4a95-9907-d4860efcb7b9,b79f4125-a769-4ace-b941-8b4d60f29531,2143.63
+TRANSACTION,8509fbe8-6698-45f7-929b-8283df0fa664,,,,,,,,,PENDING,,,,,,,,,,,c5439b55-3c10-4903-b214-e5eaf9b33bdd,da2dc2b3-6a19-4daf-8e3a-caf8a55be335,3804.30
+TRANSACTION,447f7072-ab0c-4541-bd92-93174ae51e7f,,,,,,,,,FAILED,,,,,,,,,,,eb7a0e51-8ad1-4576-a2f5-3cf1c28ed540,c3f0f32b-b83e-45d0-b4cc-1bb1f9e892f2,593.46
+TRANSACTION,1b9036f7-76e8-44fc-ab55-dbdbbec561c9,,,,,,,,,REFUNDED,,,,,,,,,,,6a48f80f-7098-4405-a451-f87b9613bf6c,93dd646e-9475-4207-a47d-5bdbe36a7d92,1377.02
+TRANSACTION,23b38228-5631-4d2e-8303-4c9dbabe87c8,,,,,,,,,REFUNDED,,,,,,,,,,,df6f1389-729c-4921-adef-45691f6d9d52,0679fdf1-addc-41b0-8cfd-6e7afb7e0bad,1060.95
+TRANSACTION,f0f52263-cfd6-4c08-b02d-1bdca4aec54e,,,,,,,,,COMPLETED,,,,,,,,,,,6752f54b-9df7-4b80-a50d-00e12eea5b74,cbec5202-9f86-4adf-8fb9-e540f5facead,1687.36
+TRANSACTION,e96d1332-f758-460c-98d5-9f31cfb6cde6,,,,,,,,,COMPLETED,,,,,,,,,,,7690b0b6-2b75-40e1-bbea-4c4209d7f2a4,38f76f0a-f14d-434e-9023-0860ca06dd00,3411.71
+TRANSACTION,ad840f85-f42a-40d1-a42a-701a7fccc5b0,,,,,,,,,PENDING,,,,,,,,,,,cd1bef1e-77ee-4f04-90d7-21ef795334a8,76384230-fc26-4f4a-834a-33d472f8b160,1180.06
+TRANSACTION,9dcfaaac-1170-45ee-a86d-4c0093c87f7c,,,,,,,,,COMPLETED,,,,,,,,,,,a11b6fee-deca-491f-b1cb-f5654313fab1,f58f1820-23b4-442f-8122-a1c30d0ae815,4674.46
+TRANSACTION,3ec3c5e7-618a-4341-8b36-811d2267711e,,,,,,,,,FAILED,,,,,,,,,,,5009b47e-5a7a-4fd5-92c2-e3192eb852bf,ab403cae-fc7d-4c22-909e-78bba12c861e,4428.99
+TRANSACTION,c3433b8f-9c47-4e38-b2b4-0eaa9802a88b,,,,,,,,,FAILED,,,,,,,,,,,7fb15829-4ade-4c5c-98c4-19f5cc109fae,6c1e8bb2-1797-432c-be69-f7e950570434,4198.10
+TRANSACTION,9739c0ec-708d-4b94-9cfd-350683548460,,,,,,,,,COMPLETED,,,,,,,,,,,9a61d06d-ee23-4b4b-9dcc-3e55757e961a,fa9b9913-3df3-43e8-a7e3-2067ccf1e13c,2579.21
+TRANSACTION,04266b3e-df13-4186-9242-2ff858b95d41,,,,,,,,,PENDING,,,,,,,,,,,17afbb9f-1ab3-4794-8cbb-03c2dfb3fe7d,525cc4ea-458d-4bcf-909d-1a403b0acda4,2372.75
+TRANSACTION,5b2537ea-7362-4aec-a597-dfc4e8cec8d1,,,,,,,,,FAILED,,,,,,,,,,,410c0c95-d7e6-41db-ab61-e81e6f7f287c,3bdeb792-1ee3-4e67-9045-5f9ca2d89e0e,889.58
+TRANSACTION,b1b8792b-abe6-427f-9136-752b750bda68,,,,,,,,,FAILED,,,,,,,,,,,df6f1389-729c-4921-adef-45691f6d9d52,bb9f6ad2-cf0a-4962-ae0a-c80fdf0957d0,706.01
+TRANSACTION,275b5f2b-9e3a-4270-bca2-dc9dcd68c1ee,,,,,,,,,COMPLETED,,,,,,,,,,,4991b71d-f917-4770-8779-7131a94b8507,b605709f-4b7d-4c8d-a202-b0b40d61ae20,149.99
+TRANSACTION,aa7459ca-e560-44ac-8f44-d56dcbc2d51b,,,,,,,,,COMPLETED,,,,,,,,,,,41a12e98-5343-4d43-9d15-94647c3dba57,ecb9bfa0-70b1-4633-829e-644653e4d483,2841.69
+TRANSACTION,21bfb3cf-674b-4466-bcaa-bd4159dfcd13,,,,,,,,,FAILED,,,,,,,,,,,657019c0-cb32-4a52-bcdb-872b06e7c30b,6a5748b5-b2f2-4a68-b1f3-cdcad3c02e58,1441.47
+TRANSACTION,79b2140d-2dd1-4dcd-81e0-0cb3762f7221,,,,,,,,,REFUNDED,,,,,,,,,,,68ce6a62-de6b-4e0e-aabd-9eacdd1ea9f7,3fcbdbcd-0712-4d1a-b80a-26be0f1ec18e,380.79
+TRANSACTION,cd6a2891-b43a-4a2f-802b-0fc0530da0d9,,,,,,,,,REFUNDED,,,,,,,,,,,3f24ecb4-52a5-465f-9c64-5e82c5fd1089,81e71999-482b-4172-9ef6-12d464a73761,3574.43
+TRANSACTION,e5d3479f-1f7e-4a75-a4eb-03c35ef3fb3e,,,,,,,,,COMPLETED,,,,,,,,,,,657019c0-cb32-4a52-bcdb-872b06e7c30b,12f960bf-1244-4ab3-beef-00c5ded908e8,1268.75
+TRANSACTION,b9b99c11-c1f2-4d35-a5af-7ffb6031562b,,,,,,,,,COMPLETED,,,,,,,,,,,d085c639-b5a5-4800-9563-10bd550eb9dc,aebae9bc-60b4-4a30-8ffa-bb8d91c955cd,1371.70
+TRANSACTION,e5df1748-111c-4a8d-95dd-503a119dd4f6,,,,,,,,,FAILED,,,,,,,,,,,6b2a4fb9-9693-4aa6-9313-6c4d88fb3d79,dc7d7e0d-bba0-470e-bdb1-3360ba46bc19,4111.59
+TRANSACTION,80ea2718-3aa5-4401-b042-bc108c6aadb4,,,,,,,,,COMPLETED,,,,,,,,,,,c1c152e0-a2b2-4dc3-8cc0-818001e8920c,cbd83dc1-8c84-4196-8536-027c859a571a,1522.22
+TRANSACTION,44218269-d88b-49d3-b7fe-cfa253f5c002,,,,,,,,,PENDING,,,,,,,,,,,bcbd136a-5ba2-409f-b939-4d417d36498f,292343e4-0632-4d98-be77-a75fe9d0f921,2766.22
+TRANSACTION,c94ee5ed-07ef-4d66-ac39-75c82deb1ecf,,,,,,,,,PENDING,,,,,,,,,,,2b04f8f3-6d61-4800-bdda-5220535238ad,67f0ead4-4170-49bb-85b4-f991340f8404,4090.63
+TRANSACTION,28820c77-80ad-4414-b0d1-73bc4668f552,,,,,,,,,FAILED,,,,,,,,,,,f9ed784a-3515-4048-aa69-db148cdcc0ac,c7368fb9-5dd0-4676-b09d-169650bee094,391.54
+TRANSACTION,5ab5a919-1934-487e-ab1d-aabbc1e34d70,,,,,,,,,PENDING,,,,,,,,,,,ab169c0d-990a-4366-8d75-88653114e487,6d1a7cdb-cd78-4d78-b829-9b4aa56401e5,3728.68
+TRANSACTION,fd8b64f7-9d25-4048-aced-53b4228c4cb3,,,,,,,,,FAILED,,,,,,,,,,,9cc61e2b-264d-4e4b-9fd6-685e39a4d7a9,c3f0f32b-b83e-45d0-b4cc-1bb1f9e892f2,1178.44
+TRANSACTION,9cd75cb7-db37-473f-ab42-5dc0a324e1f0,,,,,,,,,FAILED,,,,,,,,,,,7fe23dc9-6ace-4487-941e-6c80649f673b,68b62622-ee32-4db4-b2ef-8ea029711064,3072.41
+TRANSACTION,0e5342b9-57ef-4a0e-a371-da480af3bddb,,,,,,,,,FAILED,,,,,,,,,,,759d6f57-6c9c-48f2-b58e-f381fb10836f,0724727c-e971-4206-8948-e6b859b13792,2183.30
+TRANSACTION,62473466-fc2c-4207-867c-d2cf45ae9aed,,,,,,,,,REFUNDED,,,,,,,,,,,aae5378d-a4be-43cc-a991-4c37df619980,e374a528-71ea-47a9-bbff-b04d02974b2b,2739.26
+TRANSACTION,8eb41f03-225d-4349-ba6a-8612f30b8ffa,,,,,,,,,FAILED,,,,,,,,,,,6b2a4fb9-9693-4aa6-9313-6c4d88fb3d79,73b91397-8f7e-4d34-ba5c-e9b6bd20acd0,2646.25
+TRANSACTION,baab6f14-8a8a-44bb-abb2-82eccda97059,,,,,,,,,COMPLETED,,,,,,,,,,,9172e00c-bab4-41ab-8667-0424759aa363,fa456098-adf2-4c98-8b47-7390d9936c76,4809.16
+TRANSACTION,a3ba949b-489b-4165-a2bf-eff9cb30d45c,,,,,,,,,COMPLETED,,,,,,,,,,,1097b822-6b91-4db0-8a48-a4c695fed3b0,6d1a7cdb-cd78-4d78-b829-9b4aa56401e5,3108.38
+TRANSACTION,69e29b5b-93d2-43cc-8f0a-9885a493240c,,,,,,,,,PENDING,,,,,,,,,,,89846586-a1c1-42c8-8ca9-f50bbdca7c48,5fd48c10-bc3a-4d65-bc0e-b134cce9ab18,2132.00
+TRANSACTION,568118be-0337-4fb0-af90-45cd591f4115,,,,,,,,,REFUNDED,,,,,,,,,,,8b155548-a5be-470f-817d-ec64a591f9e7,a3a4a6f8-d9d2-44fb-95ee-daf51f985ced,3123.59
+TRANSACTION,345fb2a6-2910-45c0-a12b-cfa6bbdd736a,,,,,,,,,REFUNDED,,,,,,,,,,,5009b47e-5a7a-4fd5-92c2-e3192eb852bf,4faf6836-bf73-4c3f-8e9e-9905492bbe82,4093.44
+TRANSACTION,3ba7c862-91d3-4d04-adbe-5ee58e076a1f,,,,,,,,,COMPLETED,,,,,,,,,,,cd1bef1e-77ee-4f04-90d7-21ef795334a8,9a02d9c3-51e8-4571-9b86-d3da3f8ce9fa,3019.10
+TRANSACTION,222abc36-6645-46ec-b62c-d7e56923d695,,,,,,,,,FAILED,,,,,,,,,,,f19aeb96-a875-4c8c-a2bc-f206455e8427,f58f1820-23b4-442f-8122-a1c30d0ae815,3450.62
+TRANSACTION,f8876f1d-0b06-42f6-a346-3a56159529de,,,,,,,,,REFUNDED,,,,,,,,,,,dc358660-c663-42b9-95e3-ae20a75485c8,b5a1a1bb-b965-4da2-8d06-9fecda6f71f7,3780.49
+TRANSACTION,b31d45e3-5376-4463-b9cd-d312f830bdeb,,,,,,,,,PENDING,,,,,,,,,,,b2f7a244-7641-4869-be88-526b51f3f9aa,3d05c916-d767-4543-97a0-af040429b279,3851.28
+TRANSACTION,f670d823-93e6-4add-8f17-311301a0b946,,,,,,,,,PENDING,,,,,,,,,,,39aaf488-28c2-47f6-92b6-518a970b5286,ecb9bfa0-70b1-4633-829e-644653e4d483,424.67
+TRANSACTION,e57b6ca3-4c88-49d1-b0c9-5d4981fbba20,,,,,,,,,COMPLETED,,,,,,,,,,,8b795472-237e-447f-bafd-05bea63bdbf8,3aef5304-0762-4e32-abf8-c5a7715ad88b,2718.21
+TRANSACTION,2f7faa7a-6d36-458c-9d3f-33352ff64e70,,,,,,,,,FAILED,,,,,,,,,,,ab169c0d-990a-4366-8d75-88653114e487,dae2c879-868e-4993-8994-e637e53eaaa6,4312.14
+TRANSACTION,849194fe-2c38-43c8-b59e-69ab4617e2ed,,,,,,,,,FAILED,,,,,,,,,,,8b155548-a5be-470f-817d-ec64a591f9e7,a6f01fb8-87f7-4f7d-87c9-927ab4fe68e7,1792.70
+TRANSACTION,1072f807-6ae5-4ea5-9ae2-f4d0fbfbf33d,,,,,,,,,FAILED,,,,,,,,,,,351566f3-b4a9-463d-b3e8-c28d885ebe0e,83e79931-7d38-4abc-9d35-37e6bffc37ef,2111.25
+TRANSACTION,9e0abdda-7260-43dc-b366-d16103cbdac5,,,,,,,,,FAILED,,,,,,,,,,,c33e9da1-fbab-462e-ba26-ba1f932465c2,9de03eac-138b-4134-bb9d-9e7ca8b7c53e,237.97
+TRANSACTION,a42af264-2f5c-4687-8ee1-fc24b8b058dc,,,,,,,,,FAILED,,,,,,,,,,,68ce6a62-de6b-4e0e-aabd-9eacdd1ea9f7,4985b03b-e019-4ce1-ae0e-f327f6463545,4113.38
+TRANSACTION,b3244025-f509-4610-ba03-660f3ac9038d,,,,,,,,,COMPLETED,,,,,,,,,,,5009b47e-5a7a-4fd5-92c2-e3192eb852bf,b15c7296-7b74-49b0-8dba-8dea25a3f7ec,2511.90
+TRANSACTION,7980d7c0-9d7f-4f69-90c6-7306ffe0ddcc,,,,,,,,,COMPLETED,,,,,,,,,,,351566f3-b4a9-463d-b3e8-c28d885ebe0e,806d6915-4c80-4cf2-bff1-036a182b18f2,4144.78
+TRANSACTION,bb45faa0-de7c-4a77-b149-97467fa17734,,,,,,,,,FAILED,,,,,,,,,,,ccdc8d4d-bd03-435f-b397-c42af4217bd2,52da61e9-485a-4c92-b87d-9df7c6b683fa,2588.54
+TRANSACTION,c054abf6-5e38-4a02-b2b8-b2efce85689e,,,,,,,,,PENDING,,,,,,,,,,,a859ec57-ff8d-446f-8a55-edb8ba602d9d,1b060630-8d0f-45ac-b6d8-95460d35d82b,522.71
+TRANSACTION,a26a4ff0-0e0b-4795-8f12-d47381e8e02a,,,,,,,,,REFUNDED,,,,,,,,,,,65bbce15-8531-4944-8fe0-a416e6ed3579,89dfbdd0-6fe7-490b-a000-3fc94061cb17,4669.91
+TRANSACTION,ff83d857-68b5-42a7-a5f1-7043be593773,,,,,,,,,PENDING,,,,,,,,,,,329a9ea1-65cf-47a3-af88-8c40fccc2079,8a3b4b1d-55ba-48b7-a7bd-d0f28c2fc877,1107.03
+TRANSACTION,c9b6396f-83c5-4408-a28d-32f6a541f65e,,,,,,,,,PENDING,,,,,,,,,,,bbe3d613-10c8-4f51-99c4-52caf754605f,6beeb9f1-d14e-402d-b3d9-07e37814303d,2675.68
+TRANSACTION,85d706e8-a7d8-4fae-9bd2-64e24e98e5b4,,,,,,,,,REFUNDED,,,,,,,,,,,622a3e93-efab-4d0e-ac1b-8e847cc2d3fe,c3f0f32b-b83e-45d0-b4cc-1bb1f9e892f2,3359.41
+TRANSACTION,2dc3c372-4ae4-434f-97ec-4ec242db0b2f,,,,,,,,,FAILED,,,,,,,,,,,fca210ef-84a4-4a78-9472-79cc55a61be0,390c755c-985c-4e92-b678-1f51b6bc7456,1382.26
+TRANSACTION,dc4783f4-1474-40c1-9bca-585a9e39ab07,,,,,,,,,PENDING,,,,,,,,,,,bcbd136a-5ba2-409f-b939-4d417d36498f,b7b898c9-e474-46cf-98d3-8b536c36fde6,3544.74
+TRANSACTION,9cdd22e0-8f47-4503-b27c-2f1e5d82d6b6,,,,,,,,,REFUNDED,,,,,,,,,,,c5439b55-3c10-4903-b214-e5eaf9b33bdd,2850a130-946a-4837-a86e-b2c6fbeca107,2708.98
+TRANSACTION,37e5302d-74ae-45d3-ac0c-a4006c88d7c8,,,,,,,,,PENDING,,,,,,,,,,,8b795472-237e-447f-bafd-05bea63bdbf8,28ac7cc3-4697-461d-96f8-a3a959d95854,2679.75
+TRANSACTION,953eba17-cbaa-4c4a-be80-4fe79d1e6c28,,,,,,,,,PENDING,,,,,,,,,,,4f3141d1-d2a2-4d0e-9b9f-53a4ef8b88e2,02ad3288-6a41-4ea3-a2f2-ddee58e138b1,4579.55
+TRANSACTION,d3dd0d18-0d8f-45c7-94db-357335c25d6d,,,,,,,,,COMPLETED,,,,,,,,,,,57ba4e6b-b6ee-4bb1-8ac8-0fb5b3000de9,d3ee646b-ea3b-43f3-83ad-fc3b72f8afd9,3114.03
+TRANSACTION,c69dae97-5e67-43c9-94f7-bcd114f6135f,,,,,,,,,FAILED,,,,,,,,,,,6a48f80f-7098-4405-a451-f87b9613bf6c,f856e736-1206-434d-b271-f6734e64ba6d,3174.81
+TRANSACTION,5132e438-ed29-4631-8c39-d510e8a970a3,,,,,,,,,FAILED,,,,,,,,,,,f19aeb96-a875-4c8c-a2bc-f206455e8427,4068f2c4-8172-41e2-9a3d-c0a109eb6bb8,3821.48
+TRANSACTION,ba1a62bc-931a-4ff3-b6e0-b026c4d3f933,,,,,,,,,FAILED,,,,,,,,,,,2fd4bb38-6f3f-4cff-9337-d5865607060e,eedd983c-419d-4720-a0d1-e1a6b28b4128,3735.23
+TRANSACTION,d891caa2-7423-4cec-a6b5-0d19d46ba868,,,,,,,,,FAILED,,,,,,,,,,,ab169c0d-990a-4366-8d75-88653114e487,b3bf19f3-9fd4-4eb4-acb6-d71c21863177,4999.19
+TRANSACTION,86a0b075-1c40-4630-8719-3a39aff2eeee,,,,,,,,,COMPLETED,,,,,,,,,,,bbacd7be-3448-41ff-a445-7bd22b0e170a,b605709f-4b7d-4c8d-a202-b0b40d61ae20,5.77
+TRANSACTION,a2f8ccbb-6011-4ab7-b7fc-bc79c7c40bd0,,,,,,,,,REFUNDED,,,,,,,,,,,d085c639-b5a5-4800-9563-10bd550eb9dc,175d3aa3-6219-4ec9-b6b0-566ca4939095,2330.44
+TRANSACTION,a3075e7a-d042-4830-9426-97bc1a764175,,,,,,,,,REFUNDED,,,,,,,,,,,a233dd99-e25c-487d-8641-ad55f40c6e7a,bb1dd88f-56bf-4a2d-a027-4bc9fdefac4e,748.14
+TRANSACTION,7040eb2f-bb53-471d-9e8c-c13b5cb92881,,,,,,,,,FAILED,,,,,,,,,,,00c94e28-d1aa-4829-b1f0-f4693d33f84f,568ff785-26d9-43a5-ac3b-2c8ad3e2abbf,1610.92
+TRANSACTION,e719ce7f-58c0-42f1-ae25-600bcfc87495,,,,,,,,,PENDING,,,,,,,,,,,2b04f8f3-6d61-4800-bdda-5220535238ad,4985b03b-e019-4ce1-ae0e-f327f6463545,2132.99
+TRANSACTION,b89c5e7e-c0b2-4fe0-b56b-06808a899960,,,,,,,,,PENDING,,,,,,,,,,,4e46b631-fa84-4112-b53d-a91eb78983c6,15868888-02d7-4d43-9f31-d0cef768e39e,1442.37
+TRANSACTION,37dac961-a5b9-4a1f-ada9-4835e7b3b83b,,,,,,,,,REFUNDED,,,,,,,,,,,aae5378d-a4be-43cc-a991-4c37df619980,dd1ddf86-4d55-4d93-975f-37683a159036,3601.10
+TRANSACTION,440fb79e-16e7-4e7b-9c90-7bcc891805f4,,,,,,,,,PENDING,,,,,,,,,,,89a5949a-5c73-4d1f-914d-fc3869dfed27,8c9a4028-de74-4571-bb9c-97080ec65b5d,998.82
+TRANSACTION,422b09ec-1c00-4e56-81f8-c2441b497a3f,,,,,,,,,PENDING,,,,,,,,,,,c33e9da1-fbab-462e-ba26-ba1f932465c2,390c755c-985c-4e92-b678-1f51b6bc7456,4779.91
+TRANSACTION,ef89f06c-36c5-4e27-b73f-e28d926f891f,,,,,,,,,PENDING,,,,,,,,,,,bbe3d613-10c8-4f51-99c4-52caf754605f,20b050d0-10e0-44f6-8e18-fcd07199065d,3130.24
+TRANSACTION,fda18af8-c32b-4ada-a3f2-447b5fb8219e,,,,,,,,,PENDING,,,,,,,,,,,85be7859-066b-4b87-9994-1960faa2680a,257e0574-2d64-4067-91f2-a92c2ca2c8a5,1474.09
+TRANSACTION,83ab327f-881a-43b6-b6e1-cb724d5da346,,,,,,,,,FAILED,,,,,,,,,,,d8067070-6b3a-41bf-b279-a3a8f7878549,1c933776-08a5-4596-bb06-22363e583e73,2184.59
+TRANSACTION,3927d34c-22bc-40ca-b540-913999a1df2a,,,,,,,,,PENDING,,,,,,,,,,,351566f3-b4a9-463d-b3e8-c28d885ebe0e,4f517ba4-7cc2-4926-96ec-caa6e22a79e2,130.22
+TRANSACTION,b07bfb04-171b-489f-b72c-f2a1acfb5ec8,,,,,,,,,PENDING,,,,,,,,,,,a5daf4b0-cfbe-4d52-9cbe-79b6051e4526,99891c8d-d62f-41ab-8bef-9bae9e7f91bb,637.42
+TRANSACTION,6ee427aa-a969-4d41-bef6-4bcf77921c02,,,,,,,,,PENDING,,,,,,,,,,,dc358660-c663-42b9-95e3-ae20a75485c8,cdb6c3c3-963a-404d-b282-8464aaf211e8,967.12
+TRANSACTION,7aa94b9e-11b3-4e17-a98a-3b788f06d1f1,,,,,,,,,PENDING,,,,,,,,,,,7fb15829-4ade-4c5c-98c4-19f5cc109fae,da2dc2b3-6a19-4daf-8e3a-caf8a55be335,1174.96
+TRANSACTION,14219cc4-84b6-4460-8476-19665b394141,,,,,,,,,REFUNDED,,,,,,,,,,,8b795472-237e-447f-bafd-05bea63bdbf8,6c1e8bb2-1797-432c-be69-f7e950570434,3805.99
+TRANSACTION,7bc826ac-bf74-4467-af4c-f94c3c9a0a11,,,,,,,,,FAILED,,,,,,,,,,,a11b6fee-deca-491f-b1cb-f5654313fab1,3fcbdbcd-0712-4d1a-b80a-26be0f1ec18e,4638.01
+TRANSACTION,91ba2e61-2401-46c0-ba93-207c1d79e496,,,,,,,,,REFUNDED,,,,,,,,,,,cd1bef1e-77ee-4f04-90d7-21ef795334a8,2850a130-946a-4837-a86e-b2c6fbeca107,71.99
+TRANSACTION,f73414ca-cc0d-42ed-a197-c167081e2b30,,,,,,,,,COMPLETED,,,,,,,,,,,c1c152e0-a2b2-4dc3-8cc0-818001e8920c,d604119c-5347-4446-8f78-df8e010ea52e,403.38
+TRANSACTION,baf094be-89ea-4f19-a698-8c0647482e5c,,,,,,,,,FAILED,,,,,,,,,,,3df1f4b3-756d-46e3-aec4-4fae4933fdd8,3b626417-78ca-4ae0-b8be-abb3791cbbec,2544.37
+TRANSACTION,1868374c-f20b-4c64-8431-2e67a50a26c5,,,,,,,,,COMPLETED,,,,,,,,,,,6a48f80f-7098-4405-a451-f87b9613bf6c,60ff9b09-e68c-4269-822b-b83698a40546,4321.40
+TRANSACTION,efe5ae30-6755-432d-91e0-b915e1d7471e,,,,,,,,,PENDING,,,,,,,,,,,bbacd7be-3448-41ff-a445-7bd22b0e170a,cb1bb4ec-3a40-4b8a-98b5-b1d14349b4b6,963.04
+TRANSACTION,c421d9d1-8e49-486d-a7ee-60aa392958ef,,,,,,,,,PENDING,,,,,,,,,,,3ebd9613-6175-4705-9597-04e671206af3,ab403cae-fc7d-4c22-909e-78bba12c861e,1078.74
+TRANSACTION,659806bb-49fd-4d73-8e7e-15830c783810,,,,,,,,,COMPLETED,,,,,,,,,,,88b6eaa9-3b77-4994-a862-27f6ab3cf0fe,c3f0f32b-b83e-45d0-b4cc-1bb1f9e892f2,448.79
+TRANSACTION,e88675f6-121c-4b99-b4bb-f6796401e95e,,,,,,,,,REFUNDED,,,,,,,,,,,e848ce5f-1810-4290-88af-3017636fdeef,0380107c-7045-425a-bf17-0d97eac78e8a,4427.84
+TRANSACTION,aafc4a47-ab0e-4257-af96-2bc737461f85,,,,,,,,,FAILED,,,,,,,,,,,c1c152e0-a2b2-4dc3-8cc0-818001e8920c,d95b69a2-fe62-486e-8a99-21c89ccedc92,4996.03
+TRANSACTION,b7270dd3-e038-4ee7-8f4e-f9016b9b0ef8,,,,,,,,,FAILED,,,,,,,,,,,0dedae08-8e1b-4cc3-9edf-57170f449e2a,9a02d9c3-51e8-4571-9b86-d3da3f8ce9fa,3767.84
+TRANSACTION,f040f082-e671-4b4b-9d5d-1adc992f7a9b,,,,,,,,,FAILED,,,,,,,,,,,75dd2c25-101b-4cb6-af72-3c243cc184af,4096350b-2852-43ef-a5b9-9cabd1b3ae72,601.32
+TRANSACTION,c51ee552-2425-49ba-94ef-016a1c88aba1,,,,,,,,,COMPLETED,,,,,,,,,,,eeb11d39-5b04-453f-b663-601b1cd84d0f,0ed880f9-94b9-4822-b8dc-7a5948d6ceac,4210.26
+TRANSACTION,ffc6e484-8836-4967-85c8-0714aa97b7cb,,,,,,,,,FAILED,,,,,,,,,,,7690b0b6-2b75-40e1-bbea-4c4209d7f2a4,789bbcd0-7339-43cd-a0b5-013a1d908e21,1372.02
+TRANSACTION,03dc12aa-f4e6-4694-824b-0c895adb5d0f,,,,,,,,,COMPLETED,,,,,,,,,,,ee34c2fa-b0e1-4a95-9907-d4860efcb7b9,cd49e94e-0059-4d34-8b2e-897c54fc22df,2887.20
+TRANSACTION,f6c30d74-5023-40df-8096-af01a748e481,,,,,,,,,PENDING,,,,,,,,,,,0b5d0928-ebab-4d6f-a766-2cf8b5ec970e,aa49dc2b-730b-430e-b945-4aa1510325ae,2954.98
+TRANSACTION,64dead19-4737-4f68-90dd-bc5ecf37cf38,,,,,,,,,PENDING,,,,,,,,,,,ac55c9c7-49fe-42cc-b311-9c52783bf593,278f5826-91c0-42e2-8238-9373d068dde8,3096.41
+TRANSACTION,cc335fdd-b15f-4c0b-bc52-b7e32a7c177a,,,,,,,,,PENDING,,,,,,,,,,,657019c0-cb32-4a52-bcdb-872b06e7c30b,28ac7cc3-4697-461d-96f8-a3a959d95854,143.13
+TRANSACTION,70481c53-1c89-4abe-92c1-3503642ae8c4,,,,,,,,,FAILED,,,,,,,,,,,ee34c2fa-b0e1-4a95-9907-d4860efcb7b9,270d89cf-5669-4294-b82e-7093ccb640e0,1173.21
+TRANSACTION,aa3d56d0-6dc6-4f70-96e4-14b6a6fb8354,,,,,,,,,COMPLETED,,,,,,,,,,,bbe3d613-10c8-4f51-99c4-52caf754605f,a6f01fb8-87f7-4f7d-87c9-927ab4fe68e7,1348.27
+TRANSACTION,b70b2942-d45b-4025-bf23-b124ee619461,,,,,,,,,REFUNDED,,,,,,,,,,,e848ce5f-1810-4290-88af-3017636fdeef,03679833-d89b-4c7d-a778-9cb047a4cf36,4238.64
+TRANSACTION,0c7054ca-33e9-4768-9c4f-b1bba9ac7a67,,,,,,,,,REFUNDED,,,,,,,,,,,00c94e28-d1aa-4829-b1f0-f4693d33f84f,87c3236f-f688-4cd5-ab0e-9b0268dae758,1420.32
+TRANSACTION,addf1952-5fec-4ee2-aa4b-3dcea6476605,,,,,,,,,FAILED,,,,,,,,,,,5009b47e-5a7a-4fd5-92c2-e3192eb852bf,03679833-d89b-4c7d-a778-9cb047a4cf36,1407.88
+TRANSACTION,37be8a69-06c9-4189-a321-6823634600ec,,,,,,,,,FAILED,,,,,,,,,,,7fe23dc9-6ace-4487-941e-6c80649f673b,40ac1ae6-a7eb-49c7-986b-8304331a1bf1,3609.39
+TRANSACTION,2f7fe2e7-9578-4e9e-be83-ae1c34658858,,,,,,,,,REFUNDED,,,,,,,,,,,6003aa82-bb5e-48b6-94bf-1950f16ccd37,92c08dde-6894-493b-956a-00e73f8d774d,4468.86
+TRANSACTION,e95b112f-d6bf-44d6-a398-bb98d686012e,,,,,,,,,FAILED,,,,,,,,,,,6b2a4fb9-9693-4aa6-9313-6c4d88fb3d79,9910d222-8559-4029-8e1d-1b53a8c627e0,3619.20
+TRANSACTION,8c485df4-8a85-436b-83de-e9175e75a9e0,,,,,,,,,COMPLETED,,,,,,,,,,,4e17b547-3cc7-4e3f-8f53-4c0618591449,c7368fb9-5dd0-4676-b09d-169650bee094,2825.92
+TRANSACTION,ae5c99d1-1948-46cf-9716-8d5e9ee3fdda,,,,,,,,,PENDING,,,,,,,,,,,9172e00c-bab4-41ab-8667-0424759aa363,2b933268-4296-47a5-8e7e-23e73c414eab,186.00
+TRANSACTION,4d9f6016-93cf-4ad5-ba3e-2d1e89327676,,,,,,,,,FAILED,,,,,,,,,,,fa939d08-e51e-4579-9b36-65bf5df6eca3,9f628c7f-64be-4c38-ac41-ccd44b79f680,2912.56
+TRANSACTION,766978ee-c5b8-44f5-9188-30456902944c,,,,,,,,,PENDING,,,,,,,,,,,a233dd99-e25c-487d-8641-ad55f40c6e7a,aa49dc2b-730b-430e-b945-4aa1510325ae,1249.61
+TRANSACTION,a89756b5-aa47-48c7-8385-c7071e7230e0,,,,,,,,,PENDING,,,,,,,,,,,17afbb9f-1ab3-4794-8cbb-03c2dfb3fe7d,76384230-fc26-4f4a-834a-33d472f8b160,3540.53
+TRANSACTION,b44ba9a6-b062-45b8-b509-7f95f3819ea5,,,,,,,,,PENDING,,,,,,,,,,,6b2a4fb9-9693-4aa6-9313-6c4d88fb3d79,fcd3f417-f175-4bb7-9531-ba110321463a,148.35
+TRANSACTION,69bb1367-52c1-4c39-b9ea-c8141855441d,,,,,,,,,REFUNDED,,,,,,,,,,,3f24ecb4-52a5-465f-9c64-5e82c5fd1089,2b75c6aa-b056-4bbe-8fdc-f75a206e5d77,2363.76
+TRANSACTION,81ffbfbb-59ab-4a11-b944-bb7fc91761ce,,,,,,,,,FAILED,,,,,,,,,,,759d6f57-6c9c-48f2-b58e-f381fb10836f,bab2e72d-4da3-4615-9bb4-a847b82d1acf,1514.17
+TRANSACTION,c20c8833-659c-4b98-b70d-fef6c085f50b,,,,,,,,,REFUNDED,,,,,,,,,,,a11b6fee-deca-491f-b1cb-f5654313fab1,8d24d973-87c5-40dc-92f8-1877848a0350,2929.63
+TRANSACTION,449d9b35-d31e-45e3-b770-698e33ba7666,,,,,,,,,PENDING,,,,,,,,,,,622a3e93-efab-4d0e-ac1b-8e847cc2d3fe,f37a1b57-3959-4a15-a5be-9091235cfbb6,2919.66
+TRANSACTION,30e2e283-e68b-4fdb-a23e-55ecf99fee18,,,,,,,,,REFUNDED,,,,,,,,,,,b2f7a244-7641-4869-be88-526b51f3f9aa,8d24d973-87c5-40dc-92f8-1877848a0350,1716.80
+TRANSACTION,a4e5eee9-a0fa-4d23-9b0c-98d1af02d22d,,,,,,,,,COMPLETED,,,,,,,,,,,75dd2c25-101b-4cb6-af72-3c243cc184af,114f8761-8a47-4782-ab93-079f10282a85,1311.06
+TRANSACTION,5a60986a-a2cd-410e-9e62-4cb8337da1af,,,,,,,,,COMPLETED,,,,,,,,,,,8b795472-237e-447f-bafd-05bea63bdbf8,8a3b4b1d-55ba-48b7-a7bd-d0f28c2fc877,2796.61
+TRANSACTION,53666616-10f1-49de-b75e-a460c5953e93,,,,,,,,,PENDING,,,,,,,,,,,1f27ff88-d648-4927-97c8-38406769f919,4cf5a0d5-7686-46ff-9a54-7213907e0b92,2202.11
+TRANSACTION,6291cf3e-ac5b-4169-883e-4fd8c9f441d2,,,,,,,,,FAILED,,,,,,,,,,,75dd2c25-101b-4cb6-af72-3c243cc184af,d14f1fe3-3349-41d1-bbb6-e465f7486a7c,882.39
+TRANSACTION,f3f06428-37e7-443b-8cc3-68f64b33ac13,,,,,,,,,COMPLETED,,,,,,,,,,,9465eb87-f6a7-466d-a81a-b191e62d1eda,e83fb290-b58d-4b41-a4bb-e217b406672c,1020.03
+TRANSACTION,b8281e6c-c5ed-4cc0-9bb3-2b975354843f,,,,,,,,,REFUNDED,,,,,,,,,,,3f24ecb4-52a5-465f-9c64-5e82c5fd1089,68b62622-ee32-4db4-b2ef-8ea029711064,2691.39
+TRANSACTION,ecb07fe8-74db-4570-b31f-8f5bb0f697d4,,,,,,,,,COMPLETED,,,,,,,,,,,9cc61e2b-264d-4e4b-9fd6-685e39a4d7a9,9b4e2ab7-3c4b-4117-915f-649adc2e48d1,3969.90
+TRANSACTION,bc02635d-0b02-4194-906a-f86754c1aec9,,,,,,,,,FAILED,,,,,,,,,,,bbacd7be-3448-41ff-a445-7bd22b0e170a,f58f1820-23b4-442f-8122-a1c30d0ae815,461.43
+TRANSACTION,acdc07ed-cec3-4bc6-9cfc-0b7a4e9bf6ec,,,,,,,,,PENDING,,,,,,,,,,,89846586-a1c1-42c8-8ca9-f50bbdca7c48,93dd646e-9475-4207-a47d-5bdbe36a7d92,1532.22
+TRANSACTION,5eb9b3a8-b8f2-4500-b7b7-aa94e509c50f,,,,,,,,,PENDING,,,,,,,,,,,b2f7a244-7641-4869-be88-526b51f3f9aa,f6856981-d851-494f-8693-5d4dd2a5ff19,222.28
+TRANSACTION,ffed633e-7b23-4c3e-9812-73a75be9fbb9,,,,,,,,,PENDING,,,,,,,,,,,ccdc8d4d-bd03-435f-b397-c42af4217bd2,a0823a77-ab6e-4d41-b394-fe280d557cbc,1327.19
+TRANSACTION,a3b8d62c-7291-42b5-a77e-19ec6a2a9d3d,,,,,,,,,FAILED,,,,,,,,,,,622a3e93-efab-4d0e-ac1b-8e847cc2d3fe,edc00d16-7207-4d74-8258-4b52b5ca9ea8,2225.97
+TRANSACTION,f5618527-bd2e-4620-8f9c-64a6b2a85beb,,,,,,,,,PENDING,,,,,,,,,,,a11b6fee-deca-491f-b1cb-f5654313fab1,27e05b42-ae7c-4a32-84d1-850e0d449cb8,4446.78
+TRANSACTION,512b3051-7ff9-47c3-a228-4169d1397586,,,,,,,,,PENDING,,,,,,,,,,,6a48f80f-7098-4405-a451-f87b9613bf6c,bab2e72d-4da3-4615-9bb4-a847b82d1acf,3894.71
+TRANSACTION,65600796-e928-4637-9b07-2dd7c9f2e725,,,,,,,,,REFUNDED,,,,,,,,,,,313b5f4f-0592-4175-a193-64eb1f2b46ba,cd49e94e-0059-4d34-8b2e-897c54fc22df,3531.10
+TRANSACTION,a288fca9-ccc3-4099-a8f3-6cb5fb423778,,,,,,,,,FAILED,,,,,,,,,,,5b919b10-d4bd-4291-8a26-9bd9449b39ca,c2f15e5d-2097-4e1e-8e9a-70846e656503,1291.84
+TRANSACTION,a05a3d2b-d0c9-46b4-8559-bc570510d458,,,,,,,,,PENDING,,,,,,,,,,,ee34c2fa-b0e1-4a95-9907-d4860efcb7b9,9b4e2ab7-3c4b-4117-915f-649adc2e48d1,373.21
+TRANSACTION,729778ac-2a91-4391-9b86-6fa1eee89aea,,,,,,,,,FAILED,,,,,,,,,,,4e46b631-fa84-4112-b53d-a91eb78983c6,6a5748b5-b2f2-4a68-b1f3-cdcad3c02e58,118.64
+TRANSACTION,e19156de-6191-46dc-b4ae-615bbbac6054,,,,,,,,,COMPLETED,,,,,,,,,,,88b6eaa9-3b77-4994-a862-27f6ab3cf0fe,d72f3b72-1405-4cec-8de6-f1d1f9df900a,2215.40
+TRANSACTION,a2dbdd31-7f31-4366-97a3-356078604700,,,,,,,,,REFUNDED,,,,,,,,,,,dc358660-c663-42b9-95e3-ae20a75485c8,f0dbfc9c-97f9-43ad-aa0f-ec10308b1ee1,4931.14
+TRANSACTION,609af833-9f6e-41fe-b26b-918ccce36f6e,,,,,,,,,FAILED,,,,,,,,,,,313b5f4f-0592-4175-a193-64eb1f2b46ba,ae644379-33ef-4955-8623-8daa20db91e4,981.75
+TRANSACTION,413d5248-80d5-41f9-9829-fa02736545e9,,,,,,,,,PENDING,,,,,,,,,,,9cc61e2b-264d-4e4b-9fd6-685e39a4d7a9,dc7d7e0d-bba0-470e-bdb1-3360ba46bc19,2215.08
+TRANSACTION,8c9f9445-ed84-4b5e-bdcd-5e6ee5c3a12c,,,,,,,,,FAILED,,,,,,,,,,,68ce6a62-de6b-4e0e-aabd-9eacdd1ea9f7,99891c8d-d62f-41ab-8bef-9bae9e7f91bb,3588.60
+TRANSACTION,cd29c6ae-4097-4f58-8b05-26125de883fd,,,,,,,,,COMPLETED,,,,,,,,,,,f9ed784a-3515-4048-aa69-db148cdcc0ac,fa456098-adf2-4c98-8b47-7390d9936c76,4676.69
+TRANSACTION,f7ca5c74-b94a-49c9-ab08-5959ef3ea389,,,,,,,,,PENDING,,,,,,,,,,,65bbce15-8531-4944-8fe0-a416e6ed3579,20b050d0-10e0-44f6-8e18-fcd07199065d,1490.86
+TRANSACTION,49f66429-dae9-4868-a5a1-981518186c5e,,,,,,,,,REFUNDED,,,,,,,,,,,759d6f57-6c9c-48f2-b58e-f381fb10836f,5cc79f92-e57a-4b0c-aa97-23e0e1abc5f0,680.82
+TRANSACTION,f22246dd-d41b-4a7f-8089-23f9d5da8564,,,,,,,,,COMPLETED,,,,,,,,,,,d174ac07-8932-46ab-aadb-89b92b0d539f,49ea173d-7ca4-4a81-8118-d5e15a132757,4245.33
+TRANSACTION,bcef405c-ea37-49be-b4cc-617d53c8decf,,,,,,,,,PENDING,,,,,,,,,,,1f27ff88-d648-4927-97c8-38406769f919,5f25ca6b-6ff9-4319-9e91-201442822504,1057.34
+TRANSACTION,b2330151-644a-4642-8f00-1cb7eb72b2a8,,,,,,,,,REFUNDED,,,,,,,,,,,8b155548-a5be-470f-817d-ec64a591f9e7,60ff9b09-e68c-4269-822b-b83698a40546,1967.21
+TRANSACTION,9e73c96b-dd9c-4c0e-bd66-f3abc1ea7942,,,,,,,,,PENDING,,,,,,,,,,,17afbb9f-1ab3-4794-8cbb-03c2dfb3fe7d,5fd48c10-bc3a-4d65-bc0e-b134cce9ab18,245.96
+TRANSACTION,c584b748-0cdd-406c-811c-31d186ec2995,,,,,,,,,FAILED,,,,,,,,,,,bbe3d613-10c8-4f51-99c4-52caf754605f,278f5826-91c0-42e2-8238-9373d068dde8,1666.60
+TRANSACTION,f1b4aa84-10be-4faa-9959-76708325ad05,,,,,,,,,PENDING,,,,,,,,,,,2fd4bb38-6f3f-4cff-9337-d5865607060e,af36f6f7-aff3-44ac-aeae-ef278080d313,3271.27
+TRANSACTION,04ea8b64-dadc-4be9-bc10-1bd1d30f12c7,,,,,,,,,REFUNDED,,,,,,,,,,,aae5378d-a4be-43cc-a991-4c37df619980,9de03eac-138b-4134-bb9d-9e7ca8b7c53e,4540.22
+TRANSACTION,3fb04a1f-8fae-4927-91fd-4acf52c4a98d,,,,,,,,,FAILED,,,,,,,,,,,a5daf4b0-cfbe-4d52-9cbe-79b6051e4526,7baf121b-e4fd-4603-9f1d-3d65fb01de6f,1092.15
+TRANSACTION,8af2d6f2-3c0c-435a-85c7-c08647f8abfb,,,,,,,,,COMPLETED,,,,,,,,,,,3df1f4b3-756d-46e3-aec4-4fae4933fdd8,052e126b-b0f0-4bec-ad7a-448444cfd93c,1823.47
+TRANSACTION,4107b784-aa43-4ac0-9af1-280024f70aca,,,,,,,,,REFUNDED,,,,,,,,,,,57ba4e6b-b6ee-4bb1-8ac8-0fb5b3000de9,568ff785-26d9-43a5-ac3b-2c8ad3e2abbf,1958.63
+TRANSACTION,a03dcf6c-211f-473f-b854-73407b3e156c,,,,,,,,,PENDING,,,,,,,,,,,eeb11d39-5b04-453f-b663-601b1cd84d0f,93dd646e-9475-4207-a47d-5bdbe36a7d92,3178.16
+TRANSACTION,aea48143-3944-4840-bec8-4e357731fb1a,,,,,,,,,PENDING,,,,,,,,,,,cd1bef1e-77ee-4f04-90d7-21ef795334a8,4faf6836-bf73-4c3f-8e9e-9905492bbe82,2300.55
+TRANSACTION,ffbd582e-4d5d-436b-b130-d2b2a562b71f,,,,,,,,,FAILED,,,,,,,,,,,a233dd99-e25c-487d-8641-ad55f40c6e7a,4985b03b-e019-4ce1-ae0e-f327f6463545,4666.54
+TRANSACTION,492020ec-2af6-4665-8d68-5f3c081a29d9,,,,,,,,,COMPLETED,,,,,,,,,,,41a12e98-5343-4d43-9d15-94647c3dba57,d9814209-5f45-44de-ac8a-17df0c998e22,1448.86
+TRANSACTION,1d35d0d6-4bee-4057-b256-19d4ae9f35d2,,,,,,,,,REFUNDED,,,,,,,,,,,471d7f8b-e697-4a34-af25-9bad64139db2,d604119c-5347-4446-8f78-df8e010ea52e,2911.90
+TRANSACTION,f41906cf-8db0-4c95-909b-7a9859d1baa3,,,,,,,,,PENDING,,,,,,,,,,,ac55c9c7-49fe-42cc-b311-9c52783bf593,ff453a09-d3c4-47c6-8bfe-cba508c7404e,1903.13
+TRANSACTION,365665b9-55a7-4df0-9d9f-c7dcfc970784,,,,,,,,,REFUNDED,,,,,,,,,,,1f27ff88-d648-4927-97c8-38406769f919,3bfcd176-cf25-4b49-a17d-a27fd8e18f98,4321.42
+TRANSACTION,bf579252-dcc7-4531-a9e5-471ecd1e65f8,,,,,,,,,REFUNDED,,,,,,,,,,,5b919b10-d4bd-4291-8a26-9bd9449b39ca,edc00d16-7207-4d74-8258-4b52b5ca9ea8,2578.50
+TRANSACTION,1146eac6-19ee-4da7-b21d-05514f4abfb1,,,,,,,,,REFUNDED,,,,,,,,,,,6b2a4fb9-9693-4aa6-9313-6c4d88fb3d79,a53fd0e2-cca9-4f93-b5be-125b32108ff3,359.47
+TRANSACTION,da511a3c-2e3f-4507-a9d4-aced6d1ac022,,,,,,,,,FAILED,,,,,,,,,,,8b795472-237e-447f-bafd-05bea63bdbf8,e09135cc-d35a-4493-a505-b50fc0bcbc51,3683.32
+TRANSACTION,28bd9dc4-9cf5-4571-b87c-67c620d47274,,,,,,,,,PENDING,,,,,,,,,,,88b6eaa9-3b77-4994-a862-27f6ab3cf0fe,cf94f74d-91e0-4c2c-96cb-4c7d0e2e0103,2232.86
+TRANSACTION,3b14d53b-6da7-4b47-b380-3c946d9874ba,,,,,,,,,REFUNDED,,,,,,,,,,,1097b822-6b91-4db0-8a48-a4c695fed3b0,ef615306-64f8-41c2-80c9-085810745ce7,2449.29
+TRANSACTION,bce5c379-3e45-4d95-b31a-88b4fa62ae99,,,,,,,,,REFUNDED,,,,,,,,,,,5009b47e-5a7a-4fd5-92c2-e3192eb852bf,9446b4c7-38e5-4bc3-8402-c8961eb39c3e,3966.84
+TRANSACTION,d0081cec-a81e-41a8-8824-1a8ab9635e90,,,,,,,,,COMPLETED,,,,,,,,,,,d20e3062-f14b-4ea4-9140-6aad8998f724,3bdeb792-1ee3-4e67-9045-5f9ca2d89e0e,651.80
+TRANSACTION,c94e8fb2-c0d2-4343-86f9-90f23e40c9a8,,,,,,,,,REFUNDED,,,,,,,,,,,a5daf4b0-cfbe-4d52-9cbe-79b6051e4526,e9b1dc82-bf08-4b81-ad63-56e484c22bee,1565.29
+TRANSACTION,9b794c3c-afb6-47a4-91d5-f19c2bf297af,,,,,,,,,PENDING,,,,,,,,,,,89a5949a-5c73-4d1f-914d-fc3869dfed27,17e1e73b-cdf5-4d34-abd1-5dd37f7ab6fa,3958.11
+TRANSACTION,6f8235e0-6fb4-4ee2-800b-896dba4aff3e,,,,,,,,,PENDING,,,,,,,,,,,aae5378d-a4be-43cc-a991-4c37df619980,0b73ae6f-8d8a-4fb8-a0cd-14160274d931,858.46
+TRANSACTION,60347d75-c12a-478c-9f8c-a54e80411117,,,,,,,,,COMPLETED,,,,,,,,,,,c2ed482f-701f-4d78-90e9-65bfffc1d165,93dd646e-9475-4207-a47d-5bdbe36a7d92,1035.70
+TRANSACTION,eca37539-80d6-4592-9773-9fa8689697e5,,,,,,,,,REFUNDED,,,,,,,,,,,e848ce5f-1810-4290-88af-3017636fdeef,292343e4-0632-4d98-be77-a75fe9d0f921,324.95
+TRANSACTION,d01b8d14-5341-4ea6-9fd1-9e0661db471e,,,,,,,,,REFUNDED,,,,,,,,,,,c1c152e0-a2b2-4dc3-8cc0-818001e8920c,0724727c-e971-4206-8948-e6b859b13792,4725.61
+TRANSACTION,6035cb2b-21cf-4df1-b800-88d05d2e0c46,,,,,,,,,COMPLETED,,,,,,,,,,,4c902ba8-1c09-45b6-8224-752f231f0be3,e09135cc-d35a-4493-a505-b50fc0bcbc51,1920.84
+TRANSACTION,9dd3c481-fcb3-4525-bbc8-495c97093114,,,,,,,,,COMPLETED,,,,,,,,,,,313b5f4f-0592-4175-a193-64eb1f2b46ba,c3f0f32b-b83e-45d0-b4cc-1bb1f9e892f2,4544.09
+TRANSACTION,6306c1e8-dda3-45db-a9ff-bb756e59cff0,,,,,,,,,PENDING,,,,,,,,,,,65bbce15-8531-4944-8fe0-a416e6ed3579,2850a130-946a-4837-a86e-b2c6fbeca107,152.38
+TRANSACTION,fa6d2797-1925-4c64-b010-dae6d0130489,,,,,,,,,REFUNDED,,,,,,,,,,,3f24ecb4-52a5-465f-9c64-5e82c5fd1089,447f484a-f64a-4b70-98e7-96ed526c41bb,70.35
+TRANSACTION,d360ad17-a218-4c5c-b8c1-5529c9ed65ab,,,,,,,,,COMPLETED,,,,,,,,,,,ac956c8e-ac53-4c16-9f8c-23ffc0d56e18,c65c68f4-8136-4f21-afcf-358b303dc0bb,3092.26
+TRANSACTION,062cd6e0-5298-428c-919f-1bd818e5592e,,,,,,,,,FAILED,,,,,,,,,,,351566f3-b4a9-463d-b3e8-c28d885ebe0e,4427c68e-d91a-4bfc-9a3f-5800758f6222,3824.69
+TRANSACTION,e8e31917-3eb9-42d0-9ab6-8259dd6bf2fb,,,,,,,,,REFUNDED,,,,,,,,,,,d174ac07-8932-46ab-aadb-89b92b0d539f,8d1135cd-7ffb-421e-b2f9-4972f3b9f997,1862.38
+TRANSACTION,f8e06be7-262d-464f-aa12-e3f8a3092069,,,,,,,,,REFUNDED,,,,,,,,,,,7fe23dc9-6ace-4487-941e-6c80649f673b,38f6879c-3ff4-450d-889d-e07fb1af7396,3160.27
+TRANSACTION,c94bca17-a130-4e32-9132-8d81690cf22d,,,,,,,,,REFUNDED,,,,,,,,,,,4bfebd46-6862-4ea3-b34c-0b70626652f9,da4295b4-46bd-4551-b006-1b4e07d45a58,4974.96
+TRANSACTION,7574a820-e136-4fc8-a106-8a927b498e5e,,,,,,,,,FAILED,,,,,,,,,,,d20e3062-f14b-4ea4-9140-6aad8998f724,a7b1cd52-7f6e-4da8-95b2-5fd65ad977c1,4093.75
+TRANSACTION,79e41820-30d6-4af1-900b-9b2e40bb2215,,,,,,,,,REFUNDED,,,,,,,,,,,410c0c95-d7e6-41db-ab61-e81e6f7f287c,d14f1fe3-3349-41d1-bbb6-e465f7486a7c,3686.35
+TRANSACTION,658e9a7f-7a9e-4ffc-acdc-54a0fc0474c8,,,,,,,,,FAILED,,,,,,,,,,,4991b71d-f917-4770-8779-7131a94b8507,f6856981-d851-494f-8693-5d4dd2a5ff19,574.95
+TRANSACTION,7fb880b6-2a2d-4b97-8346-ab8d2c9befc3,,,,,,,,,FAILED,,,,,,,,,,,21a4bf02-c890-48c8-bbf2-d229c60aebec,dcd702a2-e5cd-4ca8-a317-1cd1990c6567,492.93
+TRANSACTION,dd1aab13-1e0e-4729-ac3e-cac79cca1e5b,,,,,,,,,PENDING,,,,,,,,,,,506dd029-5681-4b30-9b98-dea33e920492,789bbcd0-7339-43cd-a0b5-013a1d908e21,2137.91
+TRANSACTION,8a189009-018f-4d95-a9a8-437eb1238195,,,,,,,,,PENDING,,,,,,,,,,,506dd029-5681-4b30-9b98-dea33e920492,a6ed9b3f-e7f7-4432-8979-cb5d93cf1a52,1870.74
+TRANSACTION,6857b7ff-70d5-4fa3-a069-081b6189b287,,,,,,,,,REFUNDED,,,,,,,,,,,c1c152e0-a2b2-4dc3-8cc0-818001e8920c,a7b1cd52-7f6e-4da8-95b2-5fd65ad977c1,1682.59
+TRANSACTION,c293c102-6f47-46a0-9a25-fda449b2ceec,,,,,,,,,FAILED,,,,,,,,,,,85be7859-066b-4b87-9994-1960faa2680a,5fd48c10-bc3a-4d65-bc0e-b134cce9ab18,1142.56
+TRANSACTION,acc37ebe-7058-45f7-9107-3cda5b1f1425,,,,,,,,,PENDING,,,,,,,,,,,0dedae08-8e1b-4cc3-9edf-57170f449e2a,dadbf397-ae94-462f-8618-c2836de79bb9,4997.99
+TRANSACTION,cd60a52c-7d05-4fae-95ce-430b1cd9b105,,,,,,,,,COMPLETED,,,,,,,,,,,471d7f8b-e697-4a34-af25-9bad64139db2,fcd3f417-f175-4bb7-9531-ba110321463a,75.41
+TRANSACTION,8685f53d-38df-4493-ab71-958ffecdc606,,,,,,,,,FAILED,,,,,,,,,,,2bf4bc84-f97c-4b0f-95bc-ab0141559a1f,fa456098-adf2-4c98-8b47-7390d9936c76,2059.43
+TRANSACTION,a7a243ff-9f00-45f8-a652-1eb6ff03b0a8,,,,,,,,,FAILED,,,,,,,,,,,4c902ba8-1c09-45b6-8224-752f231f0be3,2a0f27f0-dbae-4441-834b-d474934a356d,4540.93
+TRANSACTION,2ccbe6c7-8f42-43d4-a079-a36780c6f0b0,,,,,,,,,COMPLETED,,,,,,,,,,,ac55c9c7-49fe-42cc-b311-9c52783bf593,a3a4a6f8-d9d2-44fb-95ee-daf51f985ced,2231.60
+TRANSACTION,68907d38-8e6e-46e3-b682-93f4e1dbc60a,,,,,,,,,FAILED,,,,,,,,,,,7fe23dc9-6ace-4487-941e-6c80649f673b,9b4e2ab7-3c4b-4117-915f-649adc2e48d1,2738.79
+TRANSACTION,1b05eba8-15fa-41a1-9001-d78e29c6abd6,,,,,,,,,FAILED,,,,,,,,,,,cd337a17-23c7-45fa-8665-23aa6cd48045,ebc050fa-9fa3-4960-8cb6-c425ad1a203c,597.84
+TRANSACTION,22e099f6-434b-4d5f-a75f-f930a2c8d280,,,,,,,,,FAILED,,,,,,,,,,,68ce6a62-de6b-4e0e-aabd-9eacdd1ea9f7,bbf1fac2-d903-4845-8a3f-617aea92c938,2125.30
+TRANSACTION,0aaea30d-13ed-402f-90ab-ebece2e40c18,,,,,,,,,COMPLETED,,,,,,,,,,,471d7f8b-e697-4a34-af25-9bad64139db2,d9814209-5f45-44de-ac8a-17df0c998e22,736.95
+TRANSACTION,b3f7a678-ffba-438b-bdfd-ad250f2265a0,,,,,,,,,FAILED,,,,,,,,,,,8b155548-a5be-470f-817d-ec64a591f9e7,52da61e9-485a-4c92-b87d-9df7c6b683fa,9.27
+TRANSACTION,fbbb397c-9f56-4f7e-a571-64e56602a2a1,,,,,,,,,PENDING,,,,,,,,,,,d085c639-b5a5-4800-9563-10bd550eb9dc,fa9b9913-3df3-43e8-a7e3-2067ccf1e13c,769.37
+TRANSACTION,e6248286-be3f-43b0-b841-c8f4b5e2d432,,,,,,,,,REFUNDED,,,,,,,,,,,759d6f57-6c9c-48f2-b58e-f381fb10836f,03679833-d89b-4c7d-a778-9cb047a4cf36,4042.43
+TRANSACTION,fa652333-200a-479e-9702-41e31e25c5d9,,,,,,,,,PENDING,,,,,,,,,,,0b5d0928-ebab-4d6f-a766-2cf8b5ec970e,9910d222-8559-4029-8e1d-1b53a8c627e0,4843.84
+TRANSACTION,d62a7b1f-926d-4cd4-9528-12524e4473ca,,,,,,,,,COMPLETED,,,,,,,,,,,506dd029-5681-4b30-9b98-dea33e920492,b15c7296-7b74-49b0-8dba-8dea25a3f7ec,2554.09
+TRANSACTION,cc9ba678-c01c-48d8-a9d3-aaa436946f44,,,,,,,,,COMPLETED,,,,,,,,,,,dc358660-c663-42b9-95e3-ae20a75485c8,a0823a77-ab6e-4d41-b394-fe280d557cbc,4499.31
+TRANSACTION,f4f39712-f304-47e6-be08-5b4986fbf6b9,,,,,,,,,REFUNDED,,,,,,,,,,,e848ce5f-1810-4290-88af-3017636fdeef,a47d8ad4-61c2-4e5d-a264-1f3e955948bf,1362.68
+TRANSACTION,96a2aea4-4ff1-45f7-9d8e-1c79a0feb8b7,,,,,,,,,REFUNDED,,,,,,,,,,,506dd029-5681-4b30-9b98-dea33e920492,da4295b4-46bd-4551-b006-1b4e07d45a58,2236.25
+TRANSACTION,552799a8-b76a-4964-85b5-889c7b5cbdd7,,,,,,,,,FAILED,,,,,,,,,,,759d6f57-6c9c-48f2-b58e-f381fb10836f,20b050d0-10e0-44f6-8e18-fcd07199065d,3691.03
+TRANSACTION,4bdd11e3-e210-4b64-a7b1-9cf4a3895f7b,,,,,,,,,REFUNDED,,,,,,,,,,,d174ac07-8932-46ab-aadb-89b92b0d539f,60ff9b09-e68c-4269-822b-b83698a40546,2090.32
+TRANSACTION,23f53ea4-496b-462b-862a-ec88e1293bda,,,,,,,,,REFUNDED,,,,,,,,,,,3ebd9613-6175-4705-9597-04e671206af3,b7b898c9-e474-46cf-98d3-8b536c36fde6,327.53
+TRANSACTION,a4f4caaf-f213-4f58-857a-12f187431818,,,,,,,,,FAILED,,,,,,,,,,,fca210ef-84a4-4a78-9472-79cc55a61be0,260e1345-ceaf-41c3-aff8-ea49cc295749,2741.18
+TRANSACTION,032c1093-0635-4c94-94b6-bc6092700fb2,,,,,,,,,REFUNDED,,,,,,,,,,,9465eb87-f6a7-466d-a81a-b191e62d1eda,da4295b4-46bd-4551-b006-1b4e07d45a58,3636.97
+TRANSACTION,640f0bd6-dabf-4b36-ac25-7f9d527383a4,,,,,,,,,PENDING,,,,,,,,,,,313b5f4f-0592-4175-a193-64eb1f2b46ba,4427c68e-d91a-4bfc-9a3f-5800758f6222,130.26
+TRANSACTION,003b5a7e-2dee-4c7c-9470-69a8994b486f,,,,,,,,,REFUNDED,,,,,,,,,,,2b04f8f3-6d61-4800-bdda-5220535238ad,5cc79f92-e57a-4b0c-aa97-23e0e1abc5f0,1482.99
+TRANSACTION,661af265-fd96-422b-8efa-f1d9ce05cabd,,,,,,,,,COMPLETED,,,,,,,,,,,7fb15829-4ade-4c5c-98c4-19f5cc109fae,4068f2c4-8172-41e2-9a3d-c0a109eb6bb8,2611.41
+TRANSACTION,5f5c8b67-c105-4e32-8c5e-b4ebc44426fc,,,,,,,,,PENDING,,,,,,,,,,,57ba4e6b-b6ee-4bb1-8ac8-0fb5b3000de9,dadbf397-ae94-462f-8618-c2836de79bb9,2955.77
+TRANSACTION,a53f205b-a29a-42c2-ba4a-367d6b30884e,,,,,,,,,REFUNDED,,,,,,,,,,,df6f1389-729c-4921-adef-45691f6d9d52,fbb1bfac-446b-460d-a3b7-a4f5980cf41d,2748.64
+TRANSACTION,4849b967-7543-4a30-90bd-c468419bd110,,,,,,,,,FAILED,,,,,,,,,,,ab169c0d-990a-4366-8d75-88653114e487,b90db9e3-a426-401c-b028-462939b91223,2789.06
+TRANSACTION,42ee8763-693c-4266-948d-9e76b87b65da,,,,,,,,,PENDING,,,,,,,,,,,1097b822-6b91-4db0-8a48-a4c695fed3b0,a58db60d-dc24-46df-ab96-f7ef1fe146fd,4652.25
+TRANSACTION,daffdce6-14e1-4832-8a20-8e0184f73c67,,,,,,,,,PENDING,,,,,,,,,,,6003aa82-bb5e-48b6-94bf-1950f16ccd37,4427c68e-d91a-4bfc-9a3f-5800758f6222,759.98
+TRANSACTION,a698e70b-7c66-441d-bfdf-a1a00ddae2c4,,,,,,,,,COMPLETED,,,,,,,,,,,7d452562-dc5c-445e-8ebe-4c93a6ac4d1a,5a5de4da-e7f6-4b44-a08a-7fda4f585956,1311.91
+TRANSACTION,51096468-c6c0-41b0-ad0d-5c73a68679a1,,,,,,,,,COMPLETED,,,,,,,,,,,75dd2c25-101b-4cb6-af72-3c243cc184af,006b257f-ade9-4757-ac75-fe88233e8125,1790.84
+TRANSACTION,3429ac0a-8699-4fcf-86ee-b8138417f3cb,,,,,,,,,FAILED,,,,,,,,,,,e282ce93-1fa5-4200-83b3-9434177990d9,4faf6836-bf73-4c3f-8e9e-9905492bbe82,2541.01
+TRANSACTION,c66fe7ab-4310-4189-89f4-5a215cddfd97,,,,,,,,,COMPLETED,,,,,,,,,,,dc358660-c663-42b9-95e3-ae20a75485c8,54000dcc-39ba-4da1-8ddc-dee25a9c5d2e,4867.47
+TRANSACTION,1cd6161a-f5c2-4135-9fa5-613595ff3702,,,,,,,,,PENDING,,,,,,,,,,,c33e9da1-fbab-462e-ba26-ba1f932465c2,175d3aa3-6219-4ec9-b6b0-566ca4939095,104.96
+TRANSACTION,c8b7b81a-6f4b-45bb-8403-de938197b40b,,,,,,,,,FAILED,,,,,,,,,,,410c0c95-d7e6-41db-ab61-e81e6f7f287c,14d9b08b-9be6-48b5-88e8-9970bdeaf03f,4049.32
+TRANSACTION,9a6faa76-3197-4bd1-84e6-71894b1ddde9,,,,,,,,,REFUNDED,,,,,,,,,,,2fd4bb38-6f3f-4cff-9337-d5865607060e,d72f3b72-1405-4cec-8de6-f1d1f9df900a,2184.73
+TRANSACTION,aa49f840-b709-4021-bd2f-45418dbc3f09,,,,,,,,,COMPLETED,,,,,,,,,,,df6f1389-729c-4921-adef-45691f6d9d52,1ffa4263-f4de-427d-8d62-78dac27408c7,2805.05
+TRANSACTION,f54e753a-b598-4f3a-861d-770b6c7e3e29,,,,,,,,,REFUNDED,,,,,,,,,,,21a4bf02-c890-48c8-bbf2-d229c60aebec,525cc4ea-458d-4bcf-909d-1a403b0acda4,4900.42
+TRANSACTION,0bcf3479-a671-4ab2-ba8b-24344d9dbcca,,,,,,,,,REFUNDED,,,,,,,,,,,f745bdc1-b9e6-4a7d-8a0f-96dfc28e5c60,d604119c-5347-4446-8f78-df8e010ea52e,2087.36
+TRANSACTION,2bb235d0-cedc-4936-ae30-cb6a8e440949,,,,,,,,,PENDING,,,,,,,,,,,7690b0b6-2b75-40e1-bbea-4c4209d7f2a4,b15c7296-7b74-49b0-8dba-8dea25a3f7ec,920.01
+TRANSACTION,8ad9e107-3ff7-4297-82f5-aa3156f4f576,,,,,,,,,PENDING,,,,,,,,,,,7fe23dc9-6ace-4487-941e-6c80649f673b,d3ee646b-ea3b-43f3-83ad-fc3b72f8afd9,3589.03
+TRANSACTION,64c306d3-ea6d-4e4a-ac49-11c3b104458d,,,,,,,,,COMPLETED,,,,,,,,,,,bcbd136a-5ba2-409f-b939-4d417d36498f,af36f6f7-aff3-44ac-aeae-ef278080d313,2098.34
+TRANSACTION,b679e3d7-67b7-456f-9b0c-96354fbf4e1b,,,,,,,,,COMPLETED,,,,,,,,,,,c2ed482f-701f-4d78-90e9-65bfffc1d165,1908b71b-c501-4798-b604-c1c04367af11,3809.27
+TRANSACTION,ea5d77c0-211d-4e23-b217-a71e5b78a861,,,,,,,,,PENDING,,,,,,,,,,,d085c639-b5a5-4800-9563-10bd550eb9dc,c2ea6a13-6c3d-48d8-827e-dfc706f4411a,2299.09
+TRANSACTION,c5ae9e6e-ba52-43d0-90c0-1d093929b151,,,,,,,,,PENDING,,,,,,,,,,,622a3e93-efab-4d0e-ac1b-8e847cc2d3fe,d604119c-5347-4446-8f78-df8e010ea52e,2720.06
+TRANSACTION,7f372822-26ab-4604-bb2e-55289077de83,,,,,,,,,REFUNDED,,,,,,,,,,,5009b47e-5a7a-4fd5-92c2-e3192eb852bf,fa9b9913-3df3-43e8-a7e3-2067ccf1e13c,2377.28
+TRANSACTION,88f26e3a-dc6c-44e2-821a-02cb5ee3c3f1,,,,,,,,,COMPLETED,,,,,,,,,,,4e17b547-3cc7-4e3f-8f53-4c0618591449,ff453a09-d3c4-47c6-8bfe-cba508c7404e,18.07
+TRANSACTION,ff1ec409-a956-4593-ab4d-53ac21888f85,,,,,,,,,PENDING,,,,,,,,,,,a966e732-ac69-4177-8864-c762f63e7207,d95b69a2-fe62-486e-8a99-21c89ccedc92,3184.40
+TRANSACTION,7231a7c4-6c9d-47af-b4ba-13e4e1a114a6,,,,,,,,,PENDING,,,,,,,,,,,41a12e98-5343-4d43-9d15-94647c3dba57,f58f1820-23b4-442f-8122-a1c30d0ae815,3188.82
+TRANSACTION,c20c3be4-247b-42b8-83a4-5b8ef0ec6094,,,,,,,,,FAILED,,,,,,,,,,,cd1bef1e-77ee-4f04-90d7-21ef795334a8,aebae9bc-60b4-4a30-8ffa-bb8d91c955cd,3934.69
+TRANSACTION,827173c2-c324-4997-a51c-7f78e6a4d0f8,,,,,,,,,PENDING,,,,,,,,,,,4991b71d-f917-4770-8779-7131a94b8507,96e79196-b2d7-42e3-b0fc-144bcfda619d,2825.15
+TRANSACTION,2a437f5c-8ebf-4a5d-a511-74de50458061,,,,,,,,,REFUNDED,,,,,,,,,,,2fd4bb38-6f3f-4cff-9337-d5865607060e,52da61e9-485a-4c92-b87d-9df7c6b683fa,59.01
+TRANSACTION,34a64bc5-9339-465a-9ea8-c8b8595bddcd,,,,,,,,,COMPLETED,,,,,,,,,,,7fe23dc9-6ace-4487-941e-6c80649f673b,f760b7d7-1c00-4638-962a-4f6bcdd0f18b,2050.26
+TRANSACTION,f86192cf-08fe-470c-8d02-83012abaec12,,,,,,,,,FAILED,,,,,,,,,,,345d3013-81ad-42ab-8165-b968273e67d7,81374136-7ecb-4263-8a27-e785f35b0c7c,2546.14
+TRANSACTION,0470e65a-4489-4781-8b75-dfa072148f9b,,,,,,,,,REFUNDED,,,,,,,,,,,e282ce93-1fa5-4200-83b3-9434177990d9,ad3a64df-7ec3-4c92-8c8e-4a21c8758728,4837.90
+TRANSACTION,05671ac9-7895-4f68-95a7-bcf3bea18571,,,,,,,,,FAILED,,,,,,,,,,,4c902ba8-1c09-45b6-8224-752f231f0be3,1f531408-ac30-44e4-a8a3-9cb166b64dfe,558.70
+TRANSACTION,3a76ec8b-1216-4825-a22e-74854d1ae36b,,,,,,,,,COMPLETED,,,,,,,,,,,c33e9da1-fbab-462e-ba26-ba1f932465c2,278f5826-91c0-42e2-8238-9373d068dde8,4579.22
+TRANSACTION,3f5b70f5-b74d-4218-ad0d-09a7feedc8a0,,,,,,,,,FAILED,,,,,,,,,,,88b6eaa9-3b77-4994-a862-27f6ab3cf0fe,5f52376e-1f6c-44c6-8bd6-5ad25241fc27,1738.79
+TRANSACTION,4c9cb049-b395-4953-a6d4-fbe3b1ff2377,,,,,,,,,PENDING,,,,,,,,,,,a859ec57-ff8d-446f-8a55-edb8ba602d9d,c6b58532-8623-446f-a8fc-66cbd3c1c826,4000.58
+TRANSACTION,aa991960-67b4-45d0-b701-73d0463e1d75,,,,,,,,,FAILED,,,,,,,,,,,dc358660-c663-42b9-95e3-ae20a75485c8,0724727c-e971-4206-8948-e6b859b13792,3456.12
+TRANSACTION,d31b1cf6-6306-469e-85a9-45b3238c18e2,,,,,,,,,FAILED,,,,,,,,,,,bbe3d613-10c8-4f51-99c4-52caf754605f,8be1fb1f-f61b-4a50-971a-4a66c8dfe25d,2935.75
+TRANSACTION,5d1ccda9-0594-4e08-9e05-07a0d48d9c99,,,,,,,,,FAILED,,,,,,,,,,,6b2a4fb9-9693-4aa6-9313-6c4d88fb3d79,b15c7296-7b74-49b0-8dba-8dea25a3f7ec,3904.11
+TRANSACTION,cf836952-f67d-485c-a0d5-b2cb35031a5f,,,,,,,,,REFUNDED,,,,,,,,,,,9465eb87-f6a7-466d-a81a-b191e62d1eda,efaa474e-790c-4bf5-9de0-5cf82d474651,1777.27
+TRANSACTION,8386d7a8-e604-43c0-839b-a0f542f66022,,,,,,,,,COMPLETED,,,,,,,,,,,3f209aef-0352-42f2-a707-301c1cef25d0,a7b1cd52-7f6e-4da8-95b2-5fd65ad977c1,2002.44
+TRANSACTION,1dde2b27-3886-4324-829d-ee5e6d8f5f11,,,,,,,,,PENDING,,,,,,,,,,,6a48f80f-7098-4405-a451-f87b9613bf6c,cbec5202-9f86-4adf-8fb9-e540f5facead,2577.89
+TRANSACTION,96e80e78-f8b5-4788-8857-d125b7001b7d,,,,,,,,,REFUNDED,,,,,,,,,,,a859ec57-ff8d-446f-8a55-edb8ba602d9d,cf94f74d-91e0-4c2c-96cb-4c7d0e2e0103,4044.88
+TRANSACTION,a5cd78c8-5028-4904-922e-ce95b70f85e4,,,,,,,,,FAILED,,,,,,,,,,,0b5d0928-ebab-4d6f-a766-2cf8b5ec970e,622cb5f9-99f7-43f0-b74c-34925c1bfeb4,2754.55
+TRANSACTION,f544c8c2-d70c-4020-8e47-ab96c1433cb0,,,,,,,,,PENDING,,,,,,,,,,,4991b71d-f917-4770-8779-7131a94b8507,edc00d16-7207-4d74-8258-4b52b5ca9ea8,2942.42
+TRANSACTION,61da6d8c-1771-4941-ac81-84a26e5abc3f,,,,,,,,,REFUNDED,,,,,,,,,,,7d452562-dc5c-445e-8ebe-4c93a6ac4d1a,0b73ae6f-8d8a-4fb8-a0cd-14160274d931,3520.51
+TRANSACTION,ed4dbae3-c93d-4c7b-981b-7d008d8d504b,,,,,,,,,PENDING,,,,,,,,,,,8b795472-237e-447f-bafd-05bea63bdbf8,1d020642-5464-4ef8-9b85-575cd3c88c65,1245.89
+TRANSACTION,c9e7a905-7fdf-4763-a546-1e97c4784524,,,,,,,,,REFUNDED,,,,,,,,,,,ee34c2fa-b0e1-4a95-9907-d4860efcb7b9,f6e105f2-5953-4d7c-9de6-d8577ed6796a,1098.53
+TRANSACTION,4dafe6e6-6c91-4d7d-be68-f0cbe92e315f,,,,,,,,,REFUNDED,,,,,,,,,,,3ebd9613-6175-4705-9597-04e671206af3,f856e736-1206-434d-b271-f6734e64ba6d,607.48
+TRANSACTION,46064923-7b4c-466d-b73b-9bd6e0ec0508,,,,,,,,,COMPLETED,,,,,,,,,,,57ba4e6b-b6ee-4bb1-8ac8-0fb5b3000de9,03679833-d89b-4c7d-a778-9cb047a4cf36,1106.05
+TRANSACTION,1ef86892-a7aa-4114-a5a1-0f3d9386ae3c,,,,,,,,,COMPLETED,,,,,,,,,,,21a4bf02-c890-48c8-bbf2-d229c60aebec,68b62622-ee32-4db4-b2ef-8ea029711064,2425.09
+TRANSACTION,b8904794-1805-4cf2-9339-e22ba679d7c5,,,,,,,,,COMPLETED,,,,,,,,,,,60efdf08-6d7e-448c-a6c6-e8b2d3a2e0b8,e6c60262-6104-4753-9912-6df5b3e38e52,2565.60
+TRANSACTION,751de137-5762-4485-8fa8-130e511b9f0a,,,,,,,,,FAILED,,,,,,,,,,,aae5378d-a4be-43cc-a991-4c37df619980,27e05b42-ae7c-4a32-84d1-850e0d449cb8,1005.17
+TRANSACTION,55304f36-e662-4e8e-b736-05bb1dff8521,,,,,,,,,COMPLETED,,,,,,,,,,,21a4bf02-c890-48c8-bbf2-d229c60aebec,4068f2c4-8172-41e2-9a3d-c0a109eb6bb8,641.85
+TRANSACTION,cb41d3e1-35b3-4b6b-9923-2c889ce2b776,,,,,,,,,REFUNDED,,,,,,,,,,,c33e9da1-fbab-462e-ba26-ba1f932465c2,eedd983c-419d-4720-a0d1-e1a6b28b4128,3040.64
+TRANSACTION,7157fd1e-2cf0-49c9-bed5-bcbfd878b1e4,,,,,,,,,COMPLETED,,,,,,,,,,,39aaf488-28c2-47f6-92b6-518a970b5286,a6f01fb8-87f7-4f7d-87c9-927ab4fe68e7,2881.62
+TRANSACTION,357ea489-fa6f-4abe-954f-2db8b107e1f7,,,,,,,,,REFUNDED,,,,,,,,,,,0b5d0928-ebab-4d6f-a766-2cf8b5ec970e,4ac6e29c-e64e-44c2-909c-6c8c3c729ba2,3696.55
+TRANSACTION,98634072-cd82-4987-9801-4b9f101f9d83,,,,,,,,,PENDING,,,,,,,,,,,f745bdc1-b9e6-4a7d-8a0f-96dfc28e5c60,e0ac02d4-0846-41c2-8f60-944c06b5075d,2664.00
+TRANSACTION,165608a9-d5ea-4909-befc-09bb222d3245,,,,,,,,,COMPLETED,,,,,,,,,,,4e17b547-3cc7-4e3f-8f53-4c0618591449,ec1228c6-b07c-4bd0-8f38-d0d98eaf88cc,3426.77
+TRANSACTION,4a801eaa-290b-4412-b9cf-4dd946f88ce9,,,,,,,,,FAILED,,,,,,,,,,,68ce6a62-de6b-4e0e-aabd-9eacdd1ea9f7,2ac968a8-5439-445a-a5df-9608d39d0ed6,3562.45
+TRANSACTION,7058979b-6aff-4c76-ac08-8da00e06d2d4,,,,,,,,,REFUNDED,,,,,,,,,,,a5daf4b0-cfbe-4d52-9cbe-79b6051e4526,3c59f3d2-0e90-4b44-9c89-350a1733b989,3709.58
+TRANSACTION,641a5d25-efe9-4f23-846d-131a96b7198c,,,,,,,,,COMPLETED,,,,,,,,,,,1f27ff88-d648-4927-97c8-38406769f919,b90db9e3-a426-401c-b028-462939b91223,2474.83
+TRANSACTION,2307a82e-f7ab-47a0-83c2-867c430437ac,,,,,,,,,PENDING,,,,,,,,,,,410c0c95-d7e6-41db-ab61-e81e6f7f287c,33ffdaa6-9930-4c0d-85b1-fb3e5b2607e9,1842.08
+TRANSACTION,e05d1940-4446-47c3-8784-f1ec9cf9eb81,,,,,,,,,COMPLETED,,,,,,,,,,,ee34c2fa-b0e1-4a95-9907-d4860efcb7b9,ff453a09-d3c4-47c6-8bfe-cba508c7404e,4959.42
+TRANSACTION,32f9e631-c2e6-4b5c-9804-388f426383bb,,,,,,,,,COMPLETED,,,,,,,,,,,d174ac07-8932-46ab-aadb-89b92b0d539f,8c9a4028-de74-4571-bb9c-97080ec65b5d,1079.62
+TRANSACTION,3bc084b6-0370-4bc6-b5e9-4e898c906fe3,,,,,,,,,FAILED,,,,,,,,,,,cd337a17-23c7-45fa-8665-23aa6cd48045,dd1ddf86-4d55-4d93-975f-37683a159036,3556.99
+TRANSACTION,017d020b-6506-4c5a-a663-2325fd49a303,,,,,,,,,FAILED,,,,,,,,,,,d8067070-6b3a-41bf-b279-a3a8f7878549,7363301e-a9eb-4586-b201-0eab37cd2b40,1187.39
+TRANSACTION,0ccf49e8-481e-4edc-a0fb-4f22592e53a0,,,,,,,,,FAILED,,,,,,,,,,,345d3013-81ad-42ab-8165-b968273e67d7,a58db60d-dc24-46df-ab96-f7ef1fe146fd,195.20
+TRANSACTION,3ee056e1-57b6-4309-b031-f69a67c04720,,,,,,,,,PENDING,,,,,,,,,,,9465eb87-f6a7-466d-a81a-b191e62d1eda,052e126b-b0f0-4bec-ad7a-448444cfd93c,1847.98
+TRANSACTION,aedc19c8-2afb-4762-9300-eb1c3f5ebd9b,,,,,,,,,FAILED,,,,,,,,,,,f19aeb96-a875-4c8c-a2bc-f206455e8427,260e1345-ceaf-41c3-aff8-ea49cc295749,4536.85
+TRANSACTION,8b20459a-0cdb-470a-b985-b9dffad114df,,,,,,,,,PENDING,,,,,,,,,,,d085c639-b5a5-4800-9563-10bd550eb9dc,5105fda1-a780-4aad-8c82-1b82217da188,265.20
+TRANSACTION,808a2748-6e48-4e25-8236-04be39690f3b,,,,,,,,,COMPLETED,,,,,,,,,,,0b5d0928-ebab-4d6f-a766-2cf8b5ec970e,cbb34e31-f6a5-42a2-84b3-3cd33e422107,1658.14
+TRANSACTION,25912dc3-5a09-4711-9255-c2c10baa9cde,,,,,,,,,FAILED,,,,,,,,,,,f19aeb96-a875-4c8c-a2bc-f206455e8427,3aef5304-0762-4e32-abf8-c5a7715ad88b,4866.19
+TRANSACTION,6b263d6f-5d2c-4f8f-ac80-28bd5a97c202,,,,,,,,,PENDING,,,,,,,,,,,a11b6fee-deca-491f-b1cb-f5654313fab1,450a6dd9-f71a-48fb-913f-6a231140b5b9,1487.57
+TRANSACTION,8f1be021-1624-4bd7-a4ec-d32283b990b1,,,,,,,,,REFUNDED,,,,,,,,,,,a5daf4b0-cfbe-4d52-9cbe-79b6051e4526,1ce2b6cd-4db7-4a76-9e0b-6753c281e3de,1397.51
+TRANSACTION,ceb20e59-9888-4bd0-8aa7-e0931827c946,,,,,,,,,COMPLETED,,,,,,,,,,,1f27ff88-d648-4927-97c8-38406769f919,3c1d2831-de29-429f-8720-c628164dbc05,294.06
+TRANSACTION,7cfd0315-6b2e-4848-af31-8d4a1b9e7b83,,,,,,,,,REFUNDED,,,,,,,,,,,a966e732-ac69-4177-8864-c762f63e7207,fb578c34-b69b-4303-9ebc-94875a7ea7e3,894.78
+TRANSACTION,50e38f35-a1ed-41bc-a9e7-5c2edf16e8f5,,,,,,,,,PENDING,,,,,,,,,,,f9ed784a-3515-4048-aa69-db148cdcc0ac,65550464-9912-4293-8ea2-9ff324e3fff8,760.57
+TRANSACTION,fcb80b0e-3d68-4863-bdc9-6925fabecd2c,,,,,,,,,REFUNDED,,,,,,,,,,,7d452562-dc5c-445e-8ebe-4c93a6ac4d1a,1d020642-5464-4ef8-9b85-575cd3c88c65,4660.00
+TRANSACTION,9992fee0-9271-4577-9c48-9b7be67ea448,,,,,,,,,FAILED,,,,,,,,,,,c1c152e0-a2b2-4dc3-8cc0-818001e8920c,9446b4c7-38e5-4bc3-8402-c8961eb39c3e,4560.48
+TRANSACTION,394c6aa0-e5e1-4e8a-a91c-c59a8b98b609,,,,,,,,,PENDING,,,,,,,,,,,2b04f8f3-6d61-4800-bdda-5220535238ad,4427c68e-d91a-4bfc-9a3f-5800758f6222,3828.35
+TRANSACTION,f91b91d3-c4b4-4df9-abb5-02a10eb02bf0,,,,,,,,,FAILED,,,,,,,,,,,a11b6fee-deca-491f-b1cb-f5654313fab1,b73fbd68-13b9-45aa-a4a6-3c801a5a4161,2093.81
+TRANSACTION,5a2ee106-5798-4087-ab1e-80a83c1f1820,,,,,,,,,FAILED,,,,,,,,,,,c5439b55-3c10-4903-b214-e5eaf9b33bdd,76384230-fc26-4f4a-834a-33d472f8b160,3057.94
+TRANSACTION,273e89ce-3366-4da1-9aa0-7244e0846452,,,,,,,,,REFUNDED,,,,,,,,,,,a966e732-ac69-4177-8864-c762f63e7207,10f9f6dd-9bc1-48f6-a8bb-bf36552742ff,3880.62
+TRANSACTION,ef66f460-90bd-4989-a461-7baffaffc484,,,,,,,,,COMPLETED,,,,,,,,,,,329a9ea1-65cf-47a3-af88-8c40fccc2079,b80b4029-42ee-41df-a7cb-e10a35424daf,3531.63
+TRANSACTION,b1fac622-1c09-4a5f-8470-9488b977fda5,,,,,,,,,COMPLETED,,,,,,,,,,,75dd2c25-101b-4cb6-af72-3c243cc184af,f6dcf492-8ed2-4022-8d85-1a69bf9cf34c,2964.12
+TRANSACTION,2dad69df-a455-4270-a461-6b98f435186f,,,,,,,,,REFUNDED,,,,,,,,,,,df6f1389-729c-4921-adef-45691f6d9d52,4d634a68-5e74-4111-af38-b3adac3645e4,3801.44
+TRANSACTION,bdd048f8-d696-4b66-8e04-a173cca611aa,,,,,,,,,REFUNDED,,,,,,,,,,,dc358660-c663-42b9-95e3-ae20a75485c8,4b8858ec-9ef2-413f-acff-8a0d709aedf0,3242.80
+TRANSACTION,5151fa66-c523-4350-8a9d-07e62f195cae,,,,,,,,,REFUNDED,,,,,,,,,,,1097b822-6b91-4db0-8a48-a4c695fed3b0,f6e105f2-5953-4d7c-9de6-d8577ed6796a,3725.35
+TRANSACTION,09000141-d12b-4608-bf13-19366570ac00,,,,,,,,,COMPLETED,,,,,,,,,,,df6f1389-729c-4921-adef-45691f6d9d52,bbb11487-076a-495f-ad41-0a499e9524ee,331.42
+TRANSACTION,0dc2d775-b704-4a7e-8985-4645ef8f9fc5,,,,,,,,,FAILED,,,,,,,,,,,9465eb87-f6a7-466d-a81a-b191e62d1eda,715f6d36-f15e-4371-9a95-b13981a04243,3141.66
+TRANSACTION,9223257b-b7a1-4287-8bad-9c6a26777e8b,,,,,,,,,FAILED,,,,,,,,,,,16eb476c-5e38-4a95-9ffe-7e210e757d0f,4b8858ec-9ef2-413f-acff-8a0d709aedf0,4177.36
+TRANSACTION,f4959079-3dcd-46bd-9c3d-e2553a06a09f,,,,,,,,,FAILED,,,,,,,,,,,e848ce5f-1810-4290-88af-3017636fdeef,3bfcd176-cf25-4b49-a17d-a27fd8e18f98,4465.63
+TRANSACTION,ab08b8f7-2be1-41b7-b1e1-33f264658cc2,,,,,,,,,COMPLETED,,,,,,,,,,,657019c0-cb32-4a52-bcdb-872b06e7c30b,c0be6ceb-d557-409a-8a53-27a49b121432,2667.38
+TRANSACTION,3a39f0c2-fab1-4fae-9aa4-31aafc42d849,,,,,,,,,COMPLETED,,,,,,,,,,,f19aeb96-a875-4c8c-a2bc-f206455e8427,d9427360-1146-4fb1-a2d8-421262e04116,3239.32
+TRANSACTION,1391ffc2-f9cb-4a2b-9bdf-3829239a07e6,,,,,,,,,PENDING,,,,,,,,,,,6752f54b-9df7-4b80-a50d-00e12eea5b74,d14f1fe3-3349-41d1-bbb6-e465f7486a7c,2150.35
+TRANSACTION,ff9c35f6-5c67-4f88-8160-12b8c20c9262,,,,,,,,,FAILED,,,,,,,,,,,ac55c9c7-49fe-42cc-b311-9c52783bf593,006b257f-ade9-4757-ac75-fe88233e8125,4524.63
+TRANSACTION,81572b67-a42d-46cd-a041-72d9fee80b1d,,,,,,,,,FAILED,,,,,,,,,,,d8067070-6b3a-41bf-b279-a3a8f7878549,e6c60262-6104-4753-9912-6df5b3e38e52,1311.67
+TRANSACTION,46c21a74-9b86-4bc0-94c2-43e5f9a46372,,,,,,,,,FAILED,,,,,,,,,,,68ce6a62-de6b-4e0e-aabd-9eacdd1ea9f7,bab2e72d-4da3-4615-9bb4-a847b82d1acf,94.03
+TRANSACTION,22907442-1011-4458-8e04-7e754c04980b,,,,,,,,,FAILED,,,,,,,,,,,4991b71d-f917-4770-8779-7131a94b8507,03679833-d89b-4c7d-a778-9cb047a4cf36,284.92
+TRANSACTION,149571ce-4c2d-416e-a51c-5202090f11c1,,,,,,,,,REFUNDED,,,,,,,,,,,4bfebd46-6862-4ea3-b34c-0b70626652f9,84970a87-e2b1-4981-87d7-e5bd9547ca1a,2556.22
+TRANSACTION,5e84c795-f674-409d-95b6-3a88b8680d88,,,,,,,,,PENDING,,,,,,,,,,,ee34c2fa-b0e1-4a95-9907-d4860efcb7b9,8be1fb1f-f61b-4a50-971a-4a66c8dfe25d,1854.89
+TRANSACTION,deb846a8-d35a-40ff-b4ee-d959e33e2fc4,,,,,,,,,PENDING,,,,,,,,,,,7690b0b6-2b75-40e1-bbea-4c4209d7f2a4,bab2e72d-4da3-4615-9bb4-a847b82d1acf,2089.69
+TRANSACTION,26571059-1b15-4abc-8f1d-11c0274c8452,,,,,,,,,FAILED,,,,,,,,,,,ab169c0d-990a-4366-8d75-88653114e487,fcd3f417-f175-4bb7-9531-ba110321463a,4617.47
+TRANSACTION,bbd873c1-d9f7-4204-9fea-35cf47f4db85,,,,,,,,,FAILED,,,,,,,,,,,fca210ef-84a4-4a78-9472-79cc55a61be0,e0f3bfe7-aacb-4779-9944-3fd0eba6ec4c,769.81
+TRANSACTION,1b3dc681-503e-4791-890e-a201f7724d4a,,,,,,,,,PENDING,,,,,,,,,,,7fb15829-4ade-4c5c-98c4-19f5cc109fae,7ae9588a-d312-4abd-bc81-f8e2520670cc,723.05
+TRANSACTION,cc3fcb40-abbd-4817-b49d-386c8cc33244,,,,,,,,,REFUNDED,,,,,,,,,,,aae5378d-a4be-43cc-a991-4c37df619980,a08d1387-68fb-4d28-80fd-c5f357723ebd,3817.36
+TRANSACTION,c0a9e4a9-9c47-473f-9798-e97cbddaad85,,,,,,,,,FAILED,,,,,,,,,,,9a61d06d-ee23-4b4b-9dcc-3e55757e961a,5cc79f92-e57a-4b0c-aa97-23e0e1abc5f0,1560.79
+TRANSACTION,132acb96-ebc1-4d83-931f-c1359dc6d7b6,,,,,,,,,REFUNDED,,,,,,,,,,,89a5949a-5c73-4d1f-914d-fc3869dfed27,5f52376e-1f6c-44c6-8bd6-5ad25241fc27,2830.75
+TRANSACTION,f9595bd5-7dea-49a3-976f-64169a2070e3,,,,,,,,,COMPLETED,,,,,,,,,,,1f27ff88-d648-4927-97c8-38406769f919,0b73ae6f-8d8a-4fb8-a0cd-14160274d931,4876.84
+TRANSACTION,d9ebec43-571f-42a8-962f-b509c883c1b6,,,,,,,,,PENDING,,,,,,,,,,,68ce6a62-de6b-4e0e-aabd-9eacdd1ea9f7,68b62622-ee32-4db4-b2ef-8ea029711064,1644.30
+TRANSACTION,5609cb66-6af8-42c5-9f88-d3d530731b8a,,,,,,,,,PENDING,,,,,,,,,,,3ebd9613-6175-4705-9597-04e671206af3,5bf69834-bcec-4686-9fbb-17334beb3db0,999.01
+TRANSACTION,8b7d67b6-b65c-40b8-a72a-a90a96531ee6,,,,,,,,,FAILED,,,,,,,,,,,5b919b10-d4bd-4291-8a26-9bd9449b39ca,ef87dd5a-9799-428c-a72c-a3724db47824,3029.13
+TRANSACTION,e73c8d9b-e885-4ad8-af8f-9c64e8c9e686,,,,,,,,,PENDING,,,,,,,,,,,eeb11d39-5b04-453f-b663-601b1cd84d0f,44568812-185e-48e0-b28d-8409425065ca,3965.35
+TRANSACTION,5748531a-a311-47e1-b652-66f177dcef93,,,,,,,,,REFUNDED,,,,,,,,,,,506dd029-5681-4b30-9b98-dea33e920492,292343e4-0632-4d98-be77-a75fe9d0f921,1651.20
+TRANSACTION,3309816c-9ecf-42b6-b0bd-72a3d65a775c,,,,,,,,,REFUNDED,,,,,,,,,,,b2f7a244-7641-4869-be88-526b51f3f9aa,02a51b98-5ba3-40b4-8cbf-f5a2f7d4cf66,3827.43
+TRANSACTION,3a51ae75-f023-4aa6-8cc1-fcba55131036,,,,,,,,,FAILED,,,,,,,,,,,8b795472-237e-447f-bafd-05bea63bdbf8,52da61e9-485a-4c92-b87d-9df7c6b683fa,3221.91
+TRANSACTION,9e69308f-dc7c-4b45-a350-03fe4a35e6bd,,,,,,,,,FAILED,,,,,,,,,,,9f15aba5-0985-45ff-a107-b0682e87f763,af36f6f7-aff3-44ac-aeae-ef278080d313,4441.05
+TRANSACTION,6e6b6ba4-c2c0-44d2-b845-8dc93f9b534b,,,,,,,,,REFUNDED,,,,,,,,,,,351566f3-b4a9-463d-b3e8-c28d885ebe0e,c2f15e5d-2097-4e1e-8e9a-70846e656503,2145.48
+TRANSACTION,d219c87e-cdc6-44a4-bb1d-3b32d00269b8,,,,,,,,,REFUNDED,,,,,,,,,,,7fb15829-4ade-4c5c-98c4-19f5cc109fae,d604119c-5347-4446-8f78-df8e010ea52e,1652.30
+TRANSACTION,c2f00bdf-e94d-4a03-bd4c-e4d54b35a37d,,,,,,,,,COMPLETED,,,,,,,,,,,9a61d06d-ee23-4b4b-9dcc-3e55757e961a,0679fdf1-addc-41b0-8cfd-6e7afb7e0bad,2849.00
+TRANSACTION,3a7be7c8-87ee-47cd-8a93-31d65e947e83,,,,,,,,,FAILED,,,,,,,,,,,622a3e93-efab-4d0e-ac1b-8e847cc2d3fe,ab403cae-fc7d-4c22-909e-78bba12c861e,4236.21
+TRANSACTION,6b7ed13a-186f-4a55-ac0b-a37ace1a5e7b,,,,,,,,,FAILED,,,,,,,,,,,c1c152e0-a2b2-4dc3-8cc0-818001e8920c,ad3a64df-7ec3-4c92-8c8e-4a21c8758728,341.46
+TRANSACTION,5d53c204-3e90-4f81-866c-357b2d603112,,,,,,,,,COMPLETED,,,,,,,,,,,2b04f8f3-6d61-4800-bdda-5220535238ad,4096350b-2852-43ef-a5b9-9cabd1b3ae72,4080.08
+TRANSACTION,4b412ba9-8303-48e0-b4fe-191f1a3b8093,,,,,,,,,REFUNDED,,,,,,,,,,,c1c152e0-a2b2-4dc3-8cc0-818001e8920c,44568812-185e-48e0-b28d-8409425065ca,626.89
+TRANSACTION,a76a256b-618d-4529-9663-d25b18c8ab13,,,,,,,,,REFUNDED,,,,,,,,,,,2bf4bc84-f97c-4b0f-95bc-ab0141559a1f,fa30175e-a3de-4868-a1e8-006c06faed4c,2614.02
+TRANSACTION,4abe4e6e-53da-40dd-9317-5b3e2bba4251,,,,,,,,,FAILED,,,,,,,,,,,c1c152e0-a2b2-4dc3-8cc0-818001e8920c,cbec5202-9f86-4adf-8fb9-e540f5facead,711.27
+TRANSACTION,92079670-e091-4bf0-b81b-1a1803299d9e,,,,,,,,,FAILED,,,,,,,,,,,f745bdc1-b9e6-4a7d-8a0f-96dfc28e5c60,cd49e94e-0059-4d34-8b2e-897c54fc22df,2480.09
+TRANSACTION,63447276-a975-45cd-a09c-ab95c7f14d12,,,,,,,,,REFUNDED,,,,,,,,,,,eb7a0e51-8ad1-4576-a2f5-3cf1c28ed540,4ba48f99-4f37-43cd-acf1-cdb74c21aa20,625.53
+TRANSACTION,434e7b44-544e-45d0-9d12-9f46cd7ce6f9,,,,,,,,,REFUNDED,,,,,,,,,,,a5daf4b0-cfbe-4d52-9cbe-79b6051e4526,ab403cae-fc7d-4c22-909e-78bba12c861e,561.38
+TRANSACTION,d1b66607-d2d6-4c55-87f5-d7a3b6aceedf,,,,,,,,,COMPLETED,,,,,,,,,,,6a48f80f-7098-4405-a451-f87b9613bf6c,a6ed9b3f-e7f7-4432-8979-cb5d93cf1a52,4441.17
+TRANSACTION,683da6d8-4cdf-4efd-8c84-fb9f5e70fc94,,,,,,,,,FAILED,,,,,,,,,,,89a5949a-5c73-4d1f-914d-fc3869dfed27,5f52376e-1f6c-44c6-8bd6-5ad25241fc27,2672.22
+TRANSACTION,9b78864f-c682-44f4-80ae-cf4196c415be,,,,,,,,,COMPLETED,,,,,,,,,,,a11b6fee-deca-491f-b1cb-f5654313fab1,ff453a09-d3c4-47c6-8bfe-cba508c7404e,4790.37
+TRANSACTION,05d25463-becb-4aec-8afe-d7de412749a3,,,,,,,,,COMPLETED,,,,,,,,,,,fa939d08-e51e-4579-9b36-65bf5df6eca3,ecb9bfa0-70b1-4633-829e-644653e4d483,784.44
+TRANSACTION,46259462-d968-4ff0-8e7c-c63c1c93ae29,,,,,,,,,FAILED,,,,,,,,,,,2bf4bc84-f97c-4b0f-95bc-ab0141559a1f,03679833-d89b-4c7d-a778-9cb047a4cf36,1951.05
+TRANSACTION,adfb721a-8640-4f87-9a37-b5463e894fad,,,,,,,,,FAILED,,,,,,,,,,,4991b71d-f917-4770-8779-7131a94b8507,dadbf397-ae94-462f-8618-c2836de79bb9,4118.90
+TRANSACTION,7fbebbde-008d-4ae0-a637-a19f9fc4c113,,,,,,,,,FAILED,,,,,,,,,,,1f27ff88-d648-4927-97c8-38406769f919,a6ed9b3f-e7f7-4432-8979-cb5d93cf1a52,1559.54
+TRANSACTION,082fcb63-381f-42d4-9635-1d1ac3ecce3a,,,,,,,,,FAILED,,,,,,,,,,,89846586-a1c1-42c8-8ca9-f50bbdca7c48,257e0574-2d64-4067-91f2-a92c2ca2c8a5,348.41
+TRANSACTION,c065a59c-d4b5-4e64-9d2d-b28301b4d5dd,,,,,,,,,PENDING,,,,,,,,,,,65bbce15-8531-4944-8fe0-a416e6ed3579,1dd0161c-3123-4b90-b2a7-688dcde5e13d,4301.62
+TRANSACTION,42097510-5242-4148-bf39-b3798cbf5fb5,,,,,,,,,COMPLETED,,,,,,,,,,,6752f54b-9df7-4b80-a50d-00e12eea5b74,c65c68f4-8136-4f21-afcf-358b303dc0bb,2340.77
+TRANSACTION,c0a049ff-5141-4fc4-bde9-4885cdfed732,,,,,,,,,PENDING,,,,,,,,,,,0dedae08-8e1b-4cc3-9edf-57170f449e2a,aebae9bc-60b4-4a30-8ffa-bb8d91c955cd,414.23
+TRANSACTION,f39b1a01-f8ae-4d80-8d64-0c085f5e0539,,,,,,,,,REFUNDED,,,,,,,,,,,f745bdc1-b9e6-4a7d-8a0f-96dfc28e5c60,dadbf397-ae94-462f-8618-c2836de79bb9,610.22
+TRANSACTION,af629753-3296-4a03-9390-28ede12a1afd,,,,,,,,,PENDING,,,,,,,,,,,1f27ff88-d648-4927-97c8-38406769f919,ef87dd5a-9799-428c-a72c-a3724db47824,723.60
+TRANSACTION,557709d1-495e-4057-b952-204cb19b532f,,,,,,,,,REFUNDED,,,,,,,,,,,88b6eaa9-3b77-4994-a862-27f6ab3cf0fe,96e79196-b2d7-42e3-b0fc-144bcfda619d,4898.67
+TRANSACTION,d7fcdf99-6465-453f-a5ac-4ad717080621,,,,,,,,,REFUNDED,,,,,,,,,,,17afbb9f-1ab3-4794-8cbb-03c2dfb3fe7d,292343e4-0632-4d98-be77-a75fe9d0f921,4823.19
+TRANSACTION,4c792ffb-e083-42c6-ad3b-34edf6dc8b09,,,,,,,,,PENDING,,,,,,,,,,,d085c639-b5a5-4800-9563-10bd550eb9dc,dce2086e-9fbd-4c37-872e-3e5a389f770d,3398.70
+TRANSACTION,e06d4a58-a922-41c2-b3cb-8e3d765222ad,,,,,,,,,REFUNDED,,,,,,,,,,,329a9ea1-65cf-47a3-af88-8c40fccc2079,84970a87-e2b1-4981-87d7-e5bd9547ca1a,1797.67
+TRANSACTION,bca24dc7-8b1a-440b-a6a3-817c2f3f35b1,,,,,,,,,COMPLETED,,,,,,,,,,,3f209aef-0352-42f2-a707-301c1cef25d0,5bf69834-bcec-4686-9fbb-17334beb3db0,3811.26
+TRANSACTION,cabd4618-6a53-48f8-b236-8a05816d084f,,,,,,,,,PENDING,,,,,,,,,,,60efdf08-6d7e-448c-a6c6-e8b2d3a2e0b8,33ffdaa6-9930-4c0d-85b1-fb3e5b2607e9,4405.70
+TRANSACTION,0d5ef083-58f3-4d09-8f6f-9ae9fbe2ab68,,,,,,,,,FAILED,,,,,,,,,,,313b5f4f-0592-4175-a193-64eb1f2b46ba,6a5748b5-b2f2-4a68-b1f3-cdcad3c02e58,3024.50
+TRANSACTION,5514c90e-de15-4ab2-b8ed-206390912c1d,,,,,,,,,FAILED,,,,,,,,,,,8b155548-a5be-470f-817d-ec64a591f9e7,3bfcd176-cf25-4b49-a17d-a27fd8e18f98,1514.28
+TRANSACTION,6544c38b-9dfa-416f-be56-19e973666bce,,,,,,,,,REFUNDED,,,,,,,,,,,65bbce15-8531-4944-8fe0-a416e6ed3579,b80b4029-42ee-41df-a7cb-e10a35424daf,1843.37
+TRANSACTION,03c53794-06a2-4821-b941-236328703879,,,,,,,,,REFUNDED,,,,,,,,,,,eeb11d39-5b04-453f-b663-601b1cd84d0f,f0dbfc9c-97f9-43ad-aa0f-ec10308b1ee1,2011.40
+TRANSACTION,2c3e3b1d-a502-4510-9ef4-2120eae63a53,,,,,,,,,PENDING,,,,,,,,,,,aae5378d-a4be-43cc-a991-4c37df619980,17e1e73b-cdf5-4d34-abd1-5dd37f7ab6fa,3828.29
+TRANSACTION,ea3519f5-7418-447b-8c4f-b2a3f49a7224,,,,,,,,,COMPLETED,,,,,,,,,,,8b155548-a5be-470f-817d-ec64a591f9e7,6ef46123-489f-4041-baf5-896f662b2e86,2687.25
+TRANSACTION,58506193-9035-4736-9d72-496c651044a4,,,,,,,,,COMPLETED,,,,,,,,,,,75dd2c25-101b-4cb6-af72-3c243cc184af,450a5160-ad75-489e-8804-9a5b5ba5f27a,1494.15
+TRANSACTION,44bbfc9a-af19-4ddf-aac2-04e49596b340,,,,,,,,,PENDING,,,,,,,,,,,9465eb87-f6a7-466d-a81a-b191e62d1eda,c7368fb9-5dd0-4676-b09d-169650bee094,435.98
+TRANSACTION,551087a1-c29f-4b4e-9ecd-1512b9166a99,,,,,,,,,COMPLETED,,,,,,,,,,,b82e28cf-21d8-497b-b07d-dd25a552a771,443fe73c-a0f4-427d-b87c-da72c781bb94,1229.88
+TRANSACTION,0883d5c5-9c52-410f-99c6-18738fb32e9b,,,,,,,,,COMPLETED,,,,,,,,,,,d20e3062-f14b-4ea4-9140-6aad8998f724,a6ed9b3f-e7f7-4432-8979-cb5d93cf1a52,2542.31
+TRANSACTION,57ccabe5-38e8-443d-8da2-d1d17735bab9,,,,,,,,,FAILED,,,,,,,,,,,e848ce5f-1810-4290-88af-3017636fdeef,d9814209-5f45-44de-ac8a-17df0c998e22,4000.73
+TRANSACTION,e3cd2d7b-2578-4e90-867d-1c8918424267,,,,,,,,,PENDING,,,,,,,,,,,4991b71d-f917-4770-8779-7131a94b8507,50d1391a-17a9-4e97-8464-9bafeeb04125,2998.45
+TRANSACTION,46cb7f92-a176-4dcc-9f5d-29ff977ed9b0,,,,,,,,,COMPLETED,,,,,,,,,,,2b04f8f3-6d61-4800-bdda-5220535238ad,4cf5a0d5-7686-46ff-9a54-7213907e0b92,592.87
+TRANSACTION,1fc5a65d-08e0-4f7a-a219-1b0d1e0ab2a7,,,,,,,,,REFUNDED,,,,,,,,,,,9f15aba5-0985-45ff-a107-b0682e87f763,fa30175e-a3de-4868-a1e8-006c06faed4c,2604.90
+TRANSACTION,252e4411-85d3-4527-9de4-ffad49591ce5,,,,,,,,,PENDING,,,,,,,,,,,7690b0b6-2b75-40e1-bbea-4c4209d7f2a4,260e1345-ceaf-41c3-aff8-ea49cc295749,771.33
+TRANSACTION,95460b97-6c8a-4cef-a212-87441daf3057,,,,,,,,,FAILED,,,,,,,,,,,c5439b55-3c10-4903-b214-e5eaf9b33bdd,10f9f6dd-9bc1-48f6-a8bb-bf36552742ff,4763.54
+TRANSACTION,36aa1894-ec10-4107-ab8c-6bfa1e504355,,,,,,,,,FAILED,,,,,,,,,,,cd1bef1e-77ee-4f04-90d7-21ef795334a8,dda36e97-0c7a-49ff-adb8-635a1d5aebe3,4730.92
+TRANSACTION,0dca2c74-6215-4dd7-8ce0-803d65ed6bc0,,,,,,,,,REFUNDED,,,,,,,,,,,657019c0-cb32-4a52-bcdb-872b06e7c30b,c0be6ceb-d557-409a-8a53-27a49b121432,1863.71
+TRANSACTION,dc8f9207-b064-42d4-a649-210b18c18710,,,,,,,,,PENDING,,,,,,,,,,,329a9ea1-65cf-47a3-af88-8c40fccc2079,715f6d36-f15e-4371-9a95-b13981a04243,2321.29
+TRANSACTION,53790f15-274d-4758-99ba-0ec083f881f7,,,,,,,,,FAILED,,,,,,,,,,,7d452562-dc5c-445e-8ebe-4c93a6ac4d1a,ef87dd5a-9799-428c-a72c-a3724db47824,3884.52
+TRANSACTION,9d73e26b-e361-4e0d-81be-c83217ccb83e,,,,,,,,,COMPLETED,,,,,,,,,,,21a4bf02-c890-48c8-bbf2-d229c60aebec,1ffa4263-f4de-427d-8d62-78dac27408c7,1378.67
+TRANSACTION,e01130e5-c985-45ab-85e1-918f70379690,,,,,,,,,FAILED,,,,,,,,,,,4c902ba8-1c09-45b6-8224-752f231f0be3,da4295b4-46bd-4551-b006-1b4e07d45a58,2154.98
+TRANSACTION,651b40db-90d3-4310-b754-23b554f0a1a8,,,,,,,,,REFUNDED,,,,,,,,,,,2b04f8f3-6d61-4800-bdda-5220535238ad,f856e736-1206-434d-b271-f6734e64ba6d,2600.89
+TRANSACTION,00e200d2-86a4-4424-93a0-3e98649eea01,,,,,,,,,COMPLETED,,,,,,,,,,,e282ce93-1fa5-4200-83b3-9434177990d9,f58f1820-23b4-442f-8122-a1c30d0ae815,4714.24
+TRANSACTION,90af8c86-7e8c-4826-8160-c48f26ee86be,,,,,,,,,COMPLETED,,,,,,,,,,,77138350-72a0-431c-84fc-55a6de1b30c1,c1d6d1df-336e-4d89-b9f1-1c7f2df8cae4,4197.58
+TRANSACTION,d4d7a306-1868-49be-97dd-d63fd205ee2a,,,,,,,,,REFUNDED,,,,,,,,,,,d8067070-6b3a-41bf-b279-a3a8f7878549,cd49e94e-0059-4d34-8b2e-897c54fc22df,2586.16
+TRANSACTION,6adf756d-a9a6-4169-b2c0-d7d28eb89bd7,,,,,,,,,PENDING,,,,,,,,,,,85be7859-066b-4b87-9994-1960faa2680a,e374a528-71ea-47a9-bbff-b04d02974b2b,3856.04
+TRANSACTION,f501253b-0e3f-4ba9-87f8-02914dbcc301,,,,,,,,,REFUNDED,,,,,,,,,,,4e46b631-fa84-4112-b53d-a91eb78983c6,c6b58532-8623-446f-a8fc-66cbd3c1c826,279.63
+TRANSACTION,b004187a-c8c7-4ede-9b85-7f8fc0191d48,,,,,,,,,COMPLETED,,,,,,,,,,,89a5949a-5c73-4d1f-914d-fc3869dfed27,715f6d36-f15e-4371-9a95-b13981a04243,1193.02
+TRANSACTION,92534faa-fde7-4a91-bf9e-5d9825a250d1,,,,,,,,,PENDING,,,,,,,,,,,eeb11d39-5b04-453f-b663-601b1cd84d0f,49ea173d-7ca4-4a81-8118-d5e15a132757,3211.51
+TRANSACTION,a36fbd2e-3727-4c07-8b97-931f55668d7b,,,,,,,,,FAILED,,,,,,,,,,,fca210ef-84a4-4a78-9472-79cc55a61be0,3aef5304-0762-4e32-abf8-c5a7715ad88b,1690.34
+TRANSACTION,eb9e74eb-6a7b-4853-a325-62bfad3c1194,,,,,,,,,FAILED,,,,,,,,,,,0dedae08-8e1b-4cc3-9edf-57170f449e2a,e645b11d-4819-4b02-ad4a-e66cf4d3c01e,951.94
+TRANSACTION,01201a3c-f595-407d-8c41-58a23dc9e0cd,,,,,,,,,COMPLETED,,,,,,,,,,,ac956c8e-ac53-4c16-9f8c-23ffc0d56e18,dc7d7e0d-bba0-470e-bdb1-3360ba46bc19,4906.48
+TRANSACTION,34b34fa5-f596-4ebe-9195-cca920191f35,,,,,,,,,COMPLETED,,,,,,,,,,,7d452562-dc5c-445e-8ebe-4c93a6ac4d1a,dce2086e-9fbd-4c37-872e-3e5a389f770d,1848.62
+TRANSACTION,4df02c64-3b12-4f27-aca3-99dae3196e86,,,,,,,,,PENDING,,,,,,,,,,,8b155548-a5be-470f-817d-ec64a591f9e7,1b060630-8d0f-45ac-b6d8-95460d35d82b,4680.30
+TRANSACTION,d4534465-66ac-4eb1-a7a1-edbf514dd6e1,,,,,,,,,REFUNDED,,,,,,,,,,,9f15aba5-0985-45ff-a107-b0682e87f763,3b626417-78ca-4ae0-b8be-abb3791cbbec,2420.52
+TRANSACTION,d4e1edba-1d61-4bde-93c4-3e235c29fb92,,,,,,,,,REFUNDED,,,,,,,,,,,75dd2c25-101b-4cb6-af72-3c243cc184af,9f628c7f-64be-4c38-ac41-ccd44b79f680,4908.81
+TRANSACTION,1be9c785-9823-4808-b618-a570b7eca1c3,,,,,,,,,COMPLETED,,,,,,,,,,,4e17b547-3cc7-4e3f-8f53-4c0618591449,443fe73c-a0f4-427d-b87c-da72c781bb94,4832.55
+TRANSACTION,619511a8-49f5-48ed-aa36-10982ef74220,,,,,,,,,REFUNDED,,,,,,,,,,,d085c639-b5a5-4800-9563-10bd550eb9dc,fbb1bfac-446b-460d-a3b7-a4f5980cf41d,1381.19
+TRANSACTION,962803dd-43ba-4943-a80e-9a8309f03630,,,,,,,,,REFUNDED,,,,,,,,,,,ac55c9c7-49fe-42cc-b311-9c52783bf593,bb1dd88f-56bf-4a2d-a027-4bc9fdefac4e,2223.04
+TRANSACTION,1da13241-8628-4e4c-a95f-52d1ea014503,,,,,,,,,COMPLETED,,,,,,,,,,,7fe23dc9-6ace-4487-941e-6c80649f673b,06759ec2-b878-41e1-9845-6d9a9434b59e,3479.28
+TRANSACTION,d626c1b2-bf9b-4602-8264-24e370b9a991,,,,,,,,,FAILED,,,,,,,,,,,410c0c95-d7e6-41db-ab61-e81e6f7f287c,a6f01fb8-87f7-4f7d-87c9-927ab4fe68e7,2417.55
+TRANSACTION,d50ecdcb-1bde-4420-8b93-abcae2448d4a,,,,,,,,,REFUNDED,,,,,,,,,,,7fe23dc9-6ace-4487-941e-6c80649f673b,292343e4-0632-4d98-be77-a75fe9d0f921,3928.18
+TRANSACTION,d4fe0967-4039-47d8-ad6d-5b7a79a11e26,,,,,,,,,FAILED,,,,,,,,,,,aae5378d-a4be-43cc-a991-4c37df619980,789bbcd0-7339-43cd-a0b5-013a1d908e21,935.52
+TRANSACTION,74f62177-3210-47af-872b-1f9258b6ce53,,,,,,,,,FAILED,,,,,,,,,,,313b5f4f-0592-4175-a193-64eb1f2b46ba,715f6d36-f15e-4371-9a95-b13981a04243,4640.13
+TRANSACTION,dd6c0673-4a49-4193-89ab-d09c46f3be6b,,,,,,,,,FAILED,,,,,,,,,,,ee34c2fa-b0e1-4a95-9907-d4860efcb7b9,b79f4125-a769-4ace-b941-8b4d60f29531,3393.88
+TRANSACTION,13278c02-f407-4196-befa-13d7e0219541,,,,,,,,,PENDING,,,,,,,,,,,a233dd99-e25c-487d-8641-ad55f40c6e7a,e70f3250-6741-4b29-b869-7e07e9a423a8,2407.35
+TRANSACTION,ae44c0c0-88cc-4489-8fc5-09f1dbac0bbe,,,,,,,,,FAILED,,,,,,,,,,,1097b822-6b91-4db0-8a48-a4c695fed3b0,3aef5304-0762-4e32-abf8-c5a7715ad88b,3298.84
+TRANSACTION,d7018bd5-d26e-44f7-bcf8-4a8461ab984b,,,,,,,,,COMPLETED,,,,,,,,,,,a859ec57-ff8d-446f-8a55-edb8ba602d9d,e374a528-71ea-47a9-bbff-b04d02974b2b,3177.18
+TRANSACTION,e0ed93e3-21cb-4a51-9e99-99e9baaf2bf4,,,,,,,,,PENDING,,,,,,,,,,,a5daf4b0-cfbe-4d52-9cbe-79b6051e4526,164b78a9-f3ee-457c-b724-08b8752d4ad4,4604.56
+TRANSACTION,25545c20-0409-4281-acc1-2c9f4cbf3c57,,,,,,,,,FAILED,,,,,,,,,,,7690b0b6-2b75-40e1-bbea-4c4209d7f2a4,1473fb2b-0391-4afa-953f-13461b0aa188,2006.46
+TRANSACTION,b2ebd466-a89a-4166-be30-4c348d69a772,,,,,,,,,REFUNDED,,,,,,,,,,,410c0c95-d7e6-41db-ab61-e81e6f7f287c,2b75c6aa-b056-4bbe-8fdc-f75a206e5d77,1561.04
+TRANSACTION,f6af0797-591f-4ce8-b96c-635846daca87,,,,,,,,,COMPLETED,,,,,,,,,,,ac956c8e-ac53-4c16-9f8c-23ffc0d56e18,e83fb290-b58d-4b41-a4bb-e217b406672c,4442.59
+TRANSACTION,f22b2761-6756-4fcb-a033-9b31ffac6ec5,,,,,,,,,COMPLETED,,,,,,,,,,,57ba4e6b-b6ee-4bb1-8ac8-0fb5b3000de9,006b257f-ade9-4757-ac75-fe88233e8125,4554.05
+TRANSACTION,b71d795d-a99a-4a43-8963-b1714d48f232,,,,,,,,,COMPLETED,,,,,,,,,,,77138350-72a0-431c-84fc-55a6de1b30c1,ff453a09-d3c4-47c6-8bfe-cba508c7404e,3824.21
+TRANSACTION,1790ca2e-6ab3-4668-b061-a525eef07a2c,,,,,,,,,COMPLETED,,,,,,,,,,,a859ec57-ff8d-446f-8a55-edb8ba602d9d,257e0574-2d64-4067-91f2-a92c2ca2c8a5,4044.76
+TRANSACTION,fa9445f0-63ec-4306-9d27-2387b63397a3,,,,,,,,,COMPLETED,,,,,,,,,,,eeb11d39-5b04-453f-b663-601b1cd84d0f,38f76f0a-f14d-434e-9023-0860ca06dd00,2627.99
+TRANSACTION,f20e3690-e306-41fb-802f-fc7ba14b1e73,,,,,,,,,FAILED,,,,,,,,,,,ab169c0d-990a-4366-8d75-88653114e487,81e71999-482b-4172-9ef6-12d464a73761,1056.48
+TRANSACTION,2a371b47-6c45-4ac4-b0af-930f69e30039,,,,,,,,,COMPLETED,,,,,,,,,,,4bfebd46-6862-4ea3-b34c-0b70626652f9,1e369d74-7c0f-4209-bbaa-abfd1fd27d0e,4355.51
+TRANSACTION,df9f5ed4-9e0c-4a92-b9fb-2bdd93e1f84d,,,,,,,,,REFUNDED,,,,,,,,,,,622a3e93-efab-4d0e-ac1b-8e847cc2d3fe,1ae59dc1-3610-431c-96c0-de1bb2df8697,633.77
+TRANSACTION,92c4449c-409d-4b36-8fb7-ef67cc1ff00b,,,,,,,,,REFUNDED,,,,,,,,,,,a233dd99-e25c-487d-8641-ad55f40c6e7a,4faf6836-bf73-4c3f-8e9e-9905492bbe82,1326.59
+TRANSACTION,faaefa5d-bccc-4e82-b672-3448a739c739,,,,,,,,,PENDING,,,,,,,,,,,fa939d08-e51e-4579-9b36-65bf5df6eca3,1c933776-08a5-4596-bb06-22363e583e73,1593.67
+TRANSACTION,55a346f1-2cc5-485b-8535-ccd3419d17a1,,,,,,,,,PENDING,,,,,,,,,,,ee34c2fa-b0e1-4a95-9907-d4860efcb7b9,f760b7d7-1c00-4638-962a-4f6bcdd0f18b,4974.93
+TRANSACTION,6a2adf77-411e-438a-8cf4-106b47128779,,,,,,,,,COMPLETED,,,,,,,,,,,9172e00c-bab4-41ab-8667-0424759aa363,e645b11d-4819-4b02-ad4a-e66cf4d3c01e,4405.28
+TRANSACTION,4da25757-bb4f-49a1-9fb5-48d9fb093513,,,,,,,,,REFUNDED,,,,,,,,,,,f745bdc1-b9e6-4a7d-8a0f-96dfc28e5c60,9910d222-8559-4029-8e1d-1b53a8c627e0,2037.05
+TRANSACTION,35c2fa8b-7349-4620-93ce-127d660ddc07,,,,,,,,,PENDING,,,,,,,,,,,d20e3062-f14b-4ea4-9140-6aad8998f724,b3bf19f3-9fd4-4eb4-acb6-d71c21863177,2597.73
+TRANSACTION,3a324b71-f205-4e93-8b1f-1182df000163,,,,,,,,,FAILED,,,,,,,,,,,16eb476c-5e38-4a95-9ffe-7e210e757d0f,ae644379-33ef-4955-8623-8daa20db91e4,615.74
+TRANSACTION,8da64a7b-57d9-4a01-ab52-f4781f0f565d,,,,,,,,,REFUNDED,,,,,,,,,,,ac956c8e-ac53-4c16-9f8c-23ffc0d56e18,0724727c-e971-4206-8948-e6b859b13792,79.13
+TRANSACTION,5ad28b4e-c9b2-42cf-9306-7386a3f6f06b,,,,,,,,,FAILED,,,,,,,,,,,c1c152e0-a2b2-4dc3-8cc0-818001e8920c,cb1bb4ec-3a40-4b8a-98b5-b1d14349b4b6,4379.97
+TRANSACTION,63b0c94a-aafb-4db2-b6b7-6493592013ec,,,,,,,,,FAILED,,,,,,,,,,,351566f3-b4a9-463d-b3e8-c28d885ebe0e,10ccdc25-b02f-4e6d-81f4-7189d9ae2ac0,3240.02
+TRANSACTION,60167c57-f318-4c08-89f5-365f8d40ff35,,,,,,,,,REFUNDED,,,,,,,,,,,2bf4bc84-f97c-4b0f-95bc-ab0141559a1f,bb1dd88f-56bf-4a2d-a027-4bc9fdefac4e,367.58
+TRANSACTION,931e3552-ace8-4e30-9f5f-ed12c4a86059,,,,,,,,,COMPLETED,,,,,,,,,,,4c902ba8-1c09-45b6-8224-752f231f0be3,80a6520d-7ebd-4de6-bcd2-362d70a25e1e,1908.97
+TRANSACTION,117a45e7-d17c-4b8d-8d9b-c38e16d2de95,,,,,,,,,COMPLETED,,,,,,,,,,,329a9ea1-65cf-47a3-af88-8c40fccc2079,ab403cae-fc7d-4c22-909e-78bba12c861e,2104.73
+TRANSACTION,72465237-f6fa-4f9b-ac54-e9f005c59bde,,,,,,,,,COMPLETED,,,,,,,,,,,fca210ef-84a4-4a78-9472-79cc55a61be0,4985b03b-e019-4ce1-ae0e-f327f6463545,4032.22
+TRANSACTION,7f84ac65-14a5-4ca7-b50f-4e553ae5ad6a,,,,,,,,,PENDING,,,,,,,,,,,17afbb9f-1ab3-4794-8cbb-03c2dfb3fe7d,4faf6836-bf73-4c3f-8e9e-9905492bbe82,907.55
+TRANSACTION,7283686c-8be1-44e3-b3b5-56e012977884,,,,,,,,,COMPLETED,,,,,,,,,,,e848ce5f-1810-4290-88af-3017636fdeef,26bb06f9-562b-4f2b-b901-59f9350eb561,2797.03
+TRANSACTION,163e5109-c695-43b4-b24a-53521bb27b01,,,,,,,,,FAILED,,,,,,,,,,,89a5949a-5c73-4d1f-914d-fc3869dfed27,b3bf19f3-9fd4-4eb4-acb6-d71c21863177,959.12
+TRANSACTION,18a29807-35c6-411f-9d55-fae2d648d35f,,,,,,,,,FAILED,,,,,,,,,,,a233dd99-e25c-487d-8641-ad55f40c6e7a,80dcbb25-179b-4415-8141-d61e1b7e1f4f,26.57
+TRANSACTION,fbca2d79-954b-4d49-a73f-91b7ecf9e8aa,,,,,,,,,FAILED,,,,,,,,,,,f19aeb96-a875-4c8c-a2bc-f206455e8427,d14f1fe3-3349-41d1-bbb6-e465f7486a7c,552.76
+TRANSACTION,5a84ca8c-345d-49ed-9c88-759790db2564,,,,,,,,,REFUNDED,,,,,,,,,,,9cc61e2b-264d-4e4b-9fd6-685e39a4d7a9,b7b898c9-e474-46cf-98d3-8b536c36fde6,238.02
+TRANSACTION,3bb9cd2d-709a-4244-81a4-3cbb3e86ecfc,,,,,,,,,PENDING,,,,,,,,,,,fa939d08-e51e-4579-9b36-65bf5df6eca3,450a5160-ad75-489e-8804-9a5b5ba5f27a,3793.27
+TRANSACTION,2f052d44-12b7-4b01-b151-30c47b21a8b7,,,,,,,,,REFUNDED,,,,,,,,,,,f19aeb96-a875-4c8c-a2bc-f206455e8427,d95b69a2-fe62-486e-8a99-21c89ccedc92,3668.71
+TRANSACTION,6ee572c9-4c02-4d9e-92a6-95041178b9f0,,,,,,,,,REFUNDED,,,,,,,,,,,2bf4bc84-f97c-4b0f-95bc-ab0141559a1f,9910d222-8559-4029-8e1d-1b53a8c627e0,1283.42
+TRANSACTION,2bd889c2-9fb3-4806-869c-8ccede315996,,,,,,,,,COMPLETED,,,,,,,,,,,b82e28cf-21d8-497b-b07d-dd25a552a771,a53fd0e2-cca9-4f93-b5be-125b32108ff3,2633.00
+TRANSACTION,489c3e2a-0b13-421d-8960-078935d4d341,,,,,,,,,REFUNDED,,,,,,,,,,,bee6214b-d5cb-4b2b-8ad7-a93e9ee3a993,1b060630-8d0f-45ac-b6d8-95460d35d82b,1402.49
+TRANSACTION,0310311b-0a5d-45a4-96b8-5a449f3b24c0,,,,,,,,,COMPLETED,,,,,,,,,,,16eb476c-5e38-4a95-9ffe-7e210e757d0f,ab403cae-fc7d-4c22-909e-78bba12c861e,4733.83
+TRANSACTION,319f3580-7dd3-4b18-9a5e-d7f8d96c8aa3,,,,,,,,,FAILED,,,,,,,,,,,a6cf114c-c74c-4aad-a540-806ec83d6a81,3aef5304-0762-4e32-abf8-c5a7715ad88b,4388.05
+TRANSACTION,60b757d8-c678-4155-ab06-9129dcf9f810,,,,,,,,,PENDING,,,,,,,,,,,41a12e98-5343-4d43-9d15-94647c3dba57,06759ec2-b878-41e1-9845-6d9a9434b59e,213.88
+TRANSACTION,72e55f3c-23de-401b-81ab-cf103140d460,,,,,,,,,PENDING,,,,,,,,,,,75dd2c25-101b-4cb6-af72-3c243cc184af,65c3c5f6-badb-4306-a617-fc92a59e31e2,1545.85
+TRANSACTION,0e0cc5e3-de23-4dec-bf30-bed98fb37725,,,,,,,,,PENDING,,,,,,,,,,,df6f1389-729c-4921-adef-45691f6d9d52,806d6915-4c80-4cf2-bff1-036a182b18f2,3853.33
+TRANSACTION,88ff0621-6723-44d6-b1fc-dd27b0372095,,,,,,,,,FAILED,,,,,,,,,,,00c94e28-d1aa-4829-b1f0-f4693d33f84f,bab2e72d-4da3-4615-9bb4-a847b82d1acf,2642.18
+TRANSACTION,ecc38a30-5e62-4da8-8e99-d48d6e990bfd,,,,,,,,,COMPLETED,,,,,,,,,,,21a4bf02-c890-48c8-bbf2-d229c60aebec,2a0f27f0-dbae-4441-834b-d474934a356d,1424.40
+TRANSACTION,48c8de11-3767-4308-9416-02b156bd9601,,,,,,,,,REFUNDED,,,,,,,,,,,c2ed482f-701f-4d78-90e9-65bfffc1d165,dc6d475d-da52-4b95-ad4e-de8728ad0b12,3111.18
+TRANSACTION,b9622917-2c99-4344-b9df-26f9bd792d19,,,,,,,,,COMPLETED,,,,,,,,,,,eeb11d39-5b04-453f-b663-601b1cd84d0f,5f25ca6b-6ff9-4319-9e91-201442822504,149.54
+TRANSACTION,dc3faad6-0ee3-4527-a4f7-f07209a310cd,,,,,,,,,PENDING,,,,,,,,,,,bcbd136a-5ba2-409f-b939-4d417d36498f,d96f4926-e334-49bf-a84d-ff23d7c26a6c,1861.16
+TRANSACTION,4ac8e46e-51b2-4655-9d82-628e079cc05d,,,,,,,,,FAILED,,,,,,,,,,,7fe23dc9-6ace-4487-941e-6c80649f673b,28ac7cc3-4697-461d-96f8-a3a959d95854,3167.00
+TRANSACTION,8ab90310-6b5c-4baa-9103-59217a60e2cf,,,,,,,,,FAILED,,,,,,,,,,,1f27ff88-d648-4927-97c8-38406769f919,77eed5d2-491c-4369-8551-8985f343894a,4800.14
+TRANSACTION,721b624b-e512-4ffa-a069-16775880f44b,,,,,,,,,PENDING,,,,,,,,,,,b2f7a244-7641-4869-be88-526b51f3f9aa,9de03eac-138b-4134-bb9d-9e7ca8b7c53e,826.84
+TRANSACTION,ca2ae904-2de6-4b38-a191-08fd91a6d082,,,,,,,,,REFUNDED,,,,,,,,,,,506dd029-5681-4b30-9b98-dea33e920492,f2958f82-6597-465b-8f6d-1a780f443cf9,3236.06
+TRANSACTION,ec87c960-c0f7-4454-a058-d05015df8181,,,,,,,,,REFUNDED,,,,,,,,,,,ccdc8d4d-bd03-435f-b397-c42af4217bd2,1ffa4263-f4de-427d-8d62-78dac27408c7,3678.35
+TRANSACTION,dc194f16-48ce-498f-963f-76bf37baaba9,,,,,,,,,REFUNDED,,,,,,,,,,,fca210ef-84a4-4a78-9472-79cc55a61be0,1d020642-5464-4ef8-9b85-575cd3c88c65,2439.68
+TRANSACTION,d74a8f50-a0fc-43dc-b0b8-5c261ed2195a,,,,,,,,,FAILED,,,,,,,,,,,21a4bf02-c890-48c8-bbf2-d229c60aebec,fa30175e-a3de-4868-a1e8-006c06faed4c,1532.47
+TRANSACTION,f7c4dee4-e342-4083-8402-356bd7041300,,,,,,,,,PENDING,,,,,,,,,,,a6cf114c-c74c-4aad-a540-806ec83d6a81,1ce2b6cd-4db7-4a76-9e0b-6753c281e3de,4489.99
+TRANSACTION,5147ee3d-ff78-432f-b2e5-16322400a994,,,,,,,,,REFUNDED,,,,,,,,,,,6b2a4fb9-9693-4aa6-9313-6c4d88fb3d79,09d36b30-8054-46c3-966a-dc630bef3905,4979.84
+TRANSACTION,94ee6433-732c-4737-bd80-67d053bbbe36,,,,,,,,,PENDING,,,,,,,,,,,a5daf4b0-cfbe-4d52-9cbe-79b6051e4526,e83fb290-b58d-4b41-a4bb-e217b406672c,4619.30
+TRANSACTION,81869573-0cb9-479b-80bc-b5774fbfcbac,,,,,,,,,PENDING,,,,,,,,,,,c2ed482f-701f-4d78-90e9-65bfffc1d165,cbb34e31-f6a5-42a2-84b3-3cd33e422107,2977.01
+TRANSACTION,d65a9a54-ae92-4127-ad6b-085577ed2941,,,,,,,,,FAILED,,,,,,,,,,,a233dd99-e25c-487d-8641-ad55f40c6e7a,b73fbd68-13b9-45aa-a4a6-3c801a5a4161,4491.63
+TRANSACTION,e21587f0-e157-449e-b938-3452cf3364ed,,,,,,,,,FAILED,,,,,,,,,,,2bf4bc84-f97c-4b0f-95bc-ab0141559a1f,80a6520d-7ebd-4de6-bcd2-362d70a25e1e,279.81
+TRANSACTION,fd961959-7d67-455c-9fbb-e97f00be35eb,,,,,,,,,COMPLETED,,,,,,,,,,,7690b0b6-2b75-40e1-bbea-4c4209d7f2a4,a66c1c50-dc48-4951-89bd-76a1b94c47fc,2492.66
+TRANSACTION,677a2b4b-c208-40c8-9837-f37fae2ae97c,,,,,,,,,COMPLETED,,,,,,,,,,,aae5378d-a4be-43cc-a991-4c37df619980,f205edc9-c164-4815-b6a4-a9f7c8febd69,4595.46
+TRANSACTION,17129d8b-5329-432b-a2ab-84fdd8049a9a,,,,,,,,,FAILED,,,,,,,,,,,65bbce15-8531-4944-8fe0-a416e6ed3579,5fd48c10-bc3a-4d65-bc0e-b134cce9ab18,878.96
+TRANSACTION,72026692-4c4e-473f-956b-a91168b514bb,,,,,,,,,REFUNDED,,,,,,,,,,,d174ac07-8932-46ab-aadb-89b92b0d539f,a0823a77-ab6e-4d41-b394-fe280d557cbc,420.52
+TRANSACTION,b3217f35-aef2-46f0-957e-31a56ed04b56,,,,,,,,,COMPLETED,,,,,,,,,,,9172e00c-bab4-41ab-8667-0424759aa363,bbb11487-076a-495f-ad41-0a499e9524ee,62.49
+TRANSACTION,e15920df-5aed-4414-9445-b17b36ed0441,,,,,,,,,PENDING,,,,,,,,,,,3f209aef-0352-42f2-a707-301c1cef25d0,c2f4e223-3463-48f8-97b4-bdaca6ddc14c,2284.68
+TRANSACTION,3787d8ea-48d0-43c6-a35e-d086d99c3c6d,,,,,,,,,COMPLETED,,,,,,,,,,,9465eb87-f6a7-466d-a81a-b191e62d1eda,4068f2c4-8172-41e2-9a3d-c0a109eb6bb8,2986.60
+TRANSACTION,5f44f5ce-38ae-4ecd-8ed0-dfc48cfdcc36,,,,,,,,,PENDING,,,,,,,,,,,bbacd7be-3448-41ff-a445-7bd22b0e170a,bab2e72d-4da3-4615-9bb4-a847b82d1acf,3709.12
+TRANSACTION,467aa579-8ab4-4752-9a12-a828c33ec850,,,,,,,,,PENDING,,,,,,,,,,,6003aa82-bb5e-48b6-94bf-1950f16ccd37,1ae59dc1-3610-431c-96c0-de1bb2df8697,4151.84
+TRANSACTION,faeff47a-1cad-43ef-b1f5-927e8eafe0d9,,,,,,,,,FAILED,,,,,,,,,,,a966e732-ac69-4177-8864-c762f63e7207,c3f0f32b-b83e-45d0-b4cc-1bb1f9e892f2,4032.62
+TRANSACTION,45340f9e-1c50-4eb3-a627-2a61095b4b3d,,,,,,,,,COMPLETED,,,,,,,,,,,5009b47e-5a7a-4fd5-92c2-e3192eb852bf,d7975a70-2eed-4676-8d12-faaafbf9acdf,2416.50
+TRANSACTION,69fa94bc-ca60-403a-bf00-8d77947f786a,,,,,,,,,FAILED,,,,,,,,,,,a6cf114c-c74c-4aad-a540-806ec83d6a81,d95b69a2-fe62-486e-8a99-21c89ccedc92,4095.73
+TRANSACTION,4bacb5b4-62d4-405c-bd1c-3c7c1ff42344,,,,,,,,,COMPLETED,,,,,,,,,,,17afbb9f-1ab3-4794-8cbb-03c2dfb3fe7d,f2cce0fb-ecf6-437c-bc94-569260e37fce,1906.90
+TRANSACTION,cb812689-1e30-4286-8c14-5abb083290f1,,,,,,,,,PENDING,,,,,,,,,,,ac956c8e-ac53-4c16-9f8c-23ffc0d56e18,e9b1dc82-bf08-4b81-ad63-56e484c22bee,2871.65
