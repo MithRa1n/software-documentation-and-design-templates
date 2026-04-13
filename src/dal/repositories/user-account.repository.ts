@@ -23,6 +23,10 @@ export class UserAccountRepository implements IUserAccountRepository {
         return this.repo.findOne({ where: { user: { id: userId } } });
     }
 
+    async findAll(): Promise<UserAccount[]> {
+        return this.repo.find();
+    }
+
     async updateBalance(id: string, balance: number): Promise<void> {
         await this.repo.update({ accountId: id }, { balance });
     }

@@ -26,6 +26,10 @@ export class UserAccountService implements IUserAccountService {
     return this.accountRepo.findByUserId(userId);
   }
 
+  async findAll(): Promise<UserAccountModel[]> {
+    return this.accountRepo.findAll();
+  }
+
   async updateBalance(id: string, balance: number): Promise<void> {
     return this.accountRepo.updateBalance(id, balance);
   }

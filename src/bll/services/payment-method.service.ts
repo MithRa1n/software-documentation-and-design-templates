@@ -25,4 +25,8 @@ export class PaymentMethodService implements IPaymentMethodService {
   async findByUserId(userId: string): Promise<PaymentMethodModel[]> {
     return this.methodRepo.findByUserId(userId);
   }
+
+  async findAll(): Promise<PaymentMethodModel[]> {
+    return this.methodRepo.findAll();
+  }
 }
