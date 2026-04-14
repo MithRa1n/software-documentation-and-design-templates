@@ -2,6 +2,7 @@ import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
 import { CsvSeederService } from './bll/services/csv-seeder.service';
 import { TOKENS } from './constants/injection-tokens';
+import { runLab4 } from './lab4/lab4.runner';
 import * as path from 'path';
 
 async function bootstrap() {
@@ -9,6 +10,8 @@ async function bootstrap() {
 
   const seeder = app.get<CsvSeederService>(TOKENS.CSV_SEEDER);
   await seeder.seed(path.join(process.cwd(), 'data', 'seed.csv'));
+
+  await runLab4();
 
   await app.listen(3000);
 }
