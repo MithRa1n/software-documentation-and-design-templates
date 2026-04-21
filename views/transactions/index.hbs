@@ -1,0 +1,64 @@
+{{> header}}
+<div class="d-flex justify-content-between align-items-center mb-3">
+  <h1 class="h3 mb-0">Transactions</h1>
+  <a href="/transactions/new" class="btn btn-primary">+ New Transaction</a>
+</div>
+
+<form method="get" action="/transactions" class="row g-2 mb-4">
+  <div class="col-auto">
+    <label for="status" class="col-form-label">Filter by status:</label>
+  </div>
+  <div class="col-auto">
+    <select class="form-select" id="status" name="status" onchange="this.form.submit()">
+      <option value="">All</option>
+      {{#each statuses}}
+        <option value="{{this}}" {{#if (eq this ../selectedStatus)}}selected{{/if}}>{{this}}</option>
+      {{/each}}
+    </select>
+  </div>
+  {{#if selectedStatus}}
+    <div class="col-auto">
+      <a href="/transactions" class="btn btn-outline-secondary">Clear</a>
+    </div>
+  {{/if}}
+</form>
+
+<div class="card shadow-sm">
+  <div class="table-responsive">
+    <table class="table table-hover mb-0">
+      <thead class="table-light">
+        <tr>
+          <th>ID</th>
+          <th>Amount</th>
+          <th>Currency</th>
+          <th>Status</th>
+          <th>Date</th>
+          <th>User Account</th>
+          <th class="text-end">Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{#each transactions}}
+          <tr>
+            <td><code>{{shortId id}}</code></td>
+            <td>{{amount}}</td>
+            <td>{{#if userAccount}}{{userAccount.currency}}{{else}}—{{/if}}</td>
+            <td><span class="badge bg-{{statusBadge status}}">{{status}}</span></td>
+            <td>{{formatDate createdAt}}</td>
+            <td>{{#if userAccount}}<code>{{shortId userAccount.accountId}}</code>{{else}}—{{/if}}</td>
+            <td class="text-end">
+              <a href="/transactions/{{id}}" class="btn btn-sm btn-outline-primary">View</a>
+              <a href="/transactions/{{id}}/edit" class="btn btn-sm btn-outline-secondary">Edit</a>
+              <form method="post" action="/transactions/{{id}}/delete" class="d-inline" onsubmit="return confirm('Delete this transaction?');">
+                <button type="submit" class="btn btn-sm btn-outline-danger">Delete</button>
+              </form>
+            </td>
+          </tr>
+        {{else}}
+          <tr><td colspan="7" class="text-center text-muted py-4">No transactions found.</td></tr>
+        {{/each}}
+      </tbody>
+    </table>
+  </div>
+</div>
+{{> footer}}

@@ -4,4 +4,5 @@ export interface IPaymentMethodRepository {
   create(method: Partial<PaymentMethod>): Promise<PaymentMethod>;
   findById(id: string): Promise<PaymentMethod | null>;
   findByUserId(userId: string): Promise<PaymentMethod[]>;
+  findAll(): Promise<PaymentMethod[]>;
 }

@@ -4,6 +4,7 @@ import type { IUserAccountRepository } from '../../dal/interfaces/user-account.r
 import type { IPaymentMethodRepository } from '../../dal/interfaces/payment-method.repository.interface';
 import type { ITransactionService } from '../interfaces/transaction.service.interface';
 import { TransactionModel } from '../models';
+import { TransactionStatus } from '../../dal/entities/enums';
 import { TOKENS } from '../../constants/injection-tokens';
 
 @Injectable()
@@ -35,5 +36,28 @@ export class TransactionService implements ITransactionService {
     userAccountId: string,
   ): Promise<TransactionModel[]> {
     return this.transactionRepo.findByUserAccountId(userAccountId);
+  }
+
+  async findAll(): Promise<TransactionModel[]> {
+    return this.transactionRepo.findAll();
+  }
+
+  async findById(id: string): Promise<TransactionModel | null> {
+    return this.transactionRepo.findById(id);
+  }
+
+  async findByStatus(status: TransactionStatus): Promise<TransactionModel[]> {
+    return this.transactionRepo.findByStatus(status);
+  }
+
+  async delete(id: string): Promise<void> {
+    await this.transactionRepo.delete(id);
+  }
+
+  async update(
+    id: string,
+    data: Partial<TransactionModel>,
+  ): Promise<TransactionModel> {
+    return this.transactionRepo.update(id, data);
   }
 }

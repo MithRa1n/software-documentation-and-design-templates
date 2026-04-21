@@ -1,0 +1,70 @@
+{{> header}}
+<div class="d-flex justify-content-between align-items-center mb-3">
+  <h1 class="h3 mb-0">Transaction Details</h1>
+  <div>
+    <a href="/transactions" class="btn btn-outline-secondary">Back</a>
+    <a href="/transactions/{{transaction.id}}/edit" class="btn btn-primary">Edit</a>
+  </div>
+</div>
+
+<div class="card shadow-sm mb-4">
+  <div class="card-body">
+    <dl class="row mb-0">
+      <dt class="col-sm-3">ID</dt>
+      <dd class="col-sm-9"><code>{{transaction.id}}</code></dd>
+
+      <dt class="col-sm-3">Amount</dt>
+      <dd class="col-sm-9">{{transaction.amount}}{{#if transaction.userAccount}} {{transaction.userAccount.currency}}{{/if}}</dd>
+
+      <dt class="col-sm-3">Status</dt>
+      <dd class="col-sm-9"><span class="badge bg-{{statusBadge transaction.status}}">{{transaction.status}}</span></dd>
+
+      <dt class="col-sm-3">Created At</dt>
+      <dd class="col-sm-9">{{formatDate transaction.createdAt}}</dd>
+    </dl>
+  </div>
+</div>
+
+<div class="row g-3">
+  <div class="col-md-6">
+    <div class="card shadow-sm h-100">
+      <div class="card-header">User Account</div>
+      <div class="card-body">
+        {{#if transaction.userAccount}}
+          <dl class="row mb-0">
+            <dt class="col-sm-5">Account ID</dt>
+            <dd class="col-sm-7"><code>{{transaction.userAccount.accountId}}</code></dd>
+            <dt class="col-sm-5">Balance</dt>
+            <dd class="col-sm-7">{{transaction.userAccount.balance}} {{transaction.userAccount.currency}}</dd>
+            <dt class="col-sm-5">Account Type</dt>
+            <dd class="col-sm-7">{{transaction.userAccount.accountType}}</dd>
+          </dl>
+        {{else}}
+          <p class="text-muted mb-0">No user account linked.</p>
+        {{/if}}
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <div class="card shadow-sm h-100">
+      <div class="card-header">Payment Method</div>
+      <div class="card-body">
+        {{#if transaction.paymentMethod}}
+          <dl class="row mb-0">
+            <dt class="col-sm-5">ID</dt>
+            <dd class="col-sm-7"><code>{{transaction.paymentMethod.id}}</code></dd>
+            <dt class="col-sm-5">Type</dt>
+            <dd class="col-sm-7">{{transaction.paymentMethod.type}}</dd>
+            <dt class="col-sm-5">Status</dt>
+            <dd class="col-sm-7">{{transaction.paymentMethod.status}}</dd>
+            <dt class="col-sm-5">Default</dt>
+            <dd class="col-sm-7">{{#if transaction.paymentMethod.isDefault}}Yes{{else}}No{{/if}}</dd>
+          </dl>
+        {{else}}
+          <p class="text-muted mb-0">No payment method linked.</p>
+        {{/if}}
+      </div>
+    </div>
+  </div>
+</div>
+{{> footer}}

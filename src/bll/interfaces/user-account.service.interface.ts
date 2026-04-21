@@ -6,5 +6,6 @@ export interface IUserAccountService {
     userId: string,
   ): Promise<UserAccountModel>;
   findByUserId(userId: string): Promise<UserAccountModel | null>;
+  findAll(): Promise<UserAccountModel[]>;
   updateBalance(id: string, balance: number): Promise<void>;
 }
